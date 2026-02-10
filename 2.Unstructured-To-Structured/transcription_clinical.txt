@@ -1,0 +1,127 @@
+
+SPEAKER_00:
+[10.168]  They were working on him, started having some chest pain.[12.81] He does have some significant cardiac history, and when we got there, they already had him on oxygen, had a baseline set of vital signs. [18.794] What we've done is we've established an IV, 18 gauge, right AC. [22.937] He was still having some substermal chest pain at a rate of about a 7. [26.716]  So we gave him nitroglycerin times two, 0.4 milligrams. [30.58] Blood pressure held fine during that. [32.461] All right, Mr. Smith, they're going to take good care of you. [36.105] Thank you so much. [37.025] You're welcome. 
+SPEAKER_02:
+[38.227] Hi, I'm Jessie.[39.187] I'm going to be one of the LPMs that's working with me today. [41.69] And I'm Casey. [42.21] I'm another LPM I'll be working with you. [43.852] And I'm Janelle. [44.632] I'm an RN. [44.873] I'm going to be helping out with your care today as well. 
+SPEAKER_04:
+[47.375] Hi, everybody.
+SPEAKER_02:
+[48.676] How are you feeling?
+SPEAKER_04:
+[50.257] Oh, my chest is just hurting really bad.
+SPEAKER_02:
+[53.49]  What would you level your pain at, between one and ten?
+SPEAKER_04:
+[56.552] I'd say about a seven.
+SPEAKER_02:
+[60.035] Is it radiating?[61.076] Is it going anywhere else? 
+SPEAKER_04:
+[63.598] It goes into my left arm.
+SPEAKER_02:
+[66.24] Into your left arm?[67.34] Four liters of oxygen are on. [69.002] I'm going to get you your pulse oxon, okay? 
+SPEAKER_04:
+[72.805] Pulse oxon?[73.565] What's that? 
+SPEAKER_02:
+[74.346] It's just going to tell me how you're breathing.[76.027] I'm just going to place it right here on your finger. 
+SPEAKER_01:
+[78.369] Now I'm going to hook you up to a five lead.
+SPEAKER_02:
+[84.711]  Mr. Smith, we understand that you're allergic to penicillin.[87.394] Is there anything else that you're allergic to? 
+SPEAKER_04:
+[89.216] No, that's all.[90.437] Janelle, am I going to die? 
+SPEAKER_02:
+[92.279] No, we're taking good care of you.[93.6] We've got some oxygen that's going to help your breathing and we're also going to get some medication to help you with your pain. [98.886] I'm going to go ahead and get the nitro down, okay? [102.589] I'm going to take this blood pressure with me. [105.492] Mr. Smith, I'm just going to take your blood pressure. 
+SPEAKER_04:
+[108.444]  Thank you guys for taking good care of me.
+SPEAKER_02:
+[110.325] Oh, you're welcome.
+SPEAKER_01:
+[118.549] Mr. Smith, could you state your name, one more time, and your date of birth?
+SPEAKER_04:
+[121.651] Frank Smith, 419, 1950.
+SPEAKER_01:
+[126.233] Okay, and do you have any allergies?
+SPEAKER_04:
+[129.114] I'm allergic to penicillin.
+SPEAKER_01:
+[130.935] Penicillin, okay, and do you take any ED medications?
+SPEAKER_04:
+[135.49]  ED medicines, what do you mean?
+SPEAKER_01:
+[136.971] For erectile dysfunction.
+SPEAKER_04:
+[139.213] For my erectile dysfunction?
+SPEAKER_01:
+[140.974] For erectile dysfunction.
+SPEAKER_04:
+[142.876] No, no ma'am I don't.
+SPEAKER_01:
+[144.237] Okay, well I'll have you put this under your tongue and just hold it there.
+SPEAKER_04:
+[149.902] What is this supposed to do?
+SPEAKER_01:
+[151.423] Well it's going to vasodilate your coronary arteries and help take away some of that pain.
+SPEAKER_04:
+[157.228] Oh thank God.
+SPEAKER_02:
+[159.458]  Okay, I'm going to go ahead and get some morphine for our chest pain protocol to see if it will help with this pain.[172.862] Did the nitro help any? 
+SPEAKER_04:
+[174.402] It did.[175.542] Well, you know, I'm about a 5 out of 10 now. 
+SPEAKER_02:
+[178.903] Okay.[179.904] Well, Janelle's going to go get you some morphine to help out with that. [182.764] I'm going to call RT and get 12-8 in here. 
+SPEAKER_01:
+[188.922]  Frank Smith.
+SPEAKER_03:
+[190.083] Mr. Smith, how you doing?[191.084] My name's Brian. [191.704] I'm from Westport Therapy. 
+SPEAKER_04:
+[192.965] Wow.[193.626] Hi, Brian. 
+SPEAKER_03:
+[194.807] Come to EKG today.[196.328] How are you feeling? 
+SPEAKER_04:
+[197.369] Well, you know, I was having bad chest pain, but I'm starting to feel a little bit better.
+SPEAKER_03:
+[201.312] OK.[203.694] What were you doing? 
+SPEAKER_04:
+[204.415] I was just getting my teeth cleaned.[207.217] And now I'm here. [207.818] OK. 
+SPEAKER_02:
+[210.74] Mr. Smith, while Brian's hooking you up, I'm going to go ahead and give you your morphine.[214.123] How's your pain level right now? 
+SPEAKER_04:
+[215.524] Well, it's about a 4 out of 10 now.
+SPEAKER_02:
+[219.679]  Okay, and his blood pressure is?[221.28] His blood pressure is 128 over 82. [223.702] Are you taking any other medications, Mr. Smith? 
+SPEAKER_04:
+[226.805] Yeah, I'm on a medicine for my cholesterol.[230.128] It starts with a Z, but you can look that up on the computer. [234.932] A low-pressure and something for my diabetes. 
+SPEAKER_03:
+[240.066]  What I'm going to do is I'm going to put some stickers on your chest, and we're going to hook these leads to it.[244.428] And it's basically just a little picture of what's going on with your heart, OK? [249.07] It doesn't hurt at all? [250.11] No, it's not going to hurt you one bit. 
+SPEAKER_02:
+[252.011] Hey, Mr. Smith, I just gave you four milligrams of morphine, and we're going to see how that makes you feel.
+SPEAKER_04:
+[259.354] Oh, that morphine, it's making me feel really good.
+SPEAKER_03:
+[266.223]  You have a history of smoking?
+SPEAKER_04:
+[267.804] Yeah, I smoked about 20 years ago.[271.325] Then my doctor told me I need to stop. 
+SPEAKER_03:
+[273.226] Are you still smoking?
+SPEAKER_04:
+[274.906] No, I stopped that.[276.587] Okay. 
+SPEAKER_03:
+[279.868] Okay, Mr. Smith, I need you to hold real still for me, okay?
+SPEAKER_04:
+[286.691] Okay.
+SPEAKER_03:
+[290.292] Okay, all done.
+SPEAKER_04:
+[291.933] Thank you so much.
+SPEAKER_02:
+[293.013] Mr. Smith, how you doing?
+SPEAKER_04:
+[295.007]  I'm doing real good.
+SPEAKER_02:
+[295.849] How's your pain level now?
+SPEAKER_04:
+[297.751] Oh, wow.[298.933] I can't even tell you I have pain right now. 
+SPEAKER_02:
+[303.479] That's good, but we'll go ahead and let the doctor know how you're doing and he'll be in in just a few minutes, okay?
+SPEAKER_04:
+[307.584] Okay, thank you very much.

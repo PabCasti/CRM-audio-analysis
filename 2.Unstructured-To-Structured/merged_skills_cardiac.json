@@ -1,0 +1,844 @@
+{
+  "skillsTimeline": [
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Hi, my name's Mandy. I'm the resuscitation team leader today. I'm the registrar on call. I don't think we've all met before. Can you just introduce yourselves and your provider status please?",
+      "skill_description": "Leadership & followership",
+      "start_timestamp": 13.821,
+      "stop_timestamp": 20.167
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Can you just introduce yourselves and your provider status please?",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 18.886,
+      "stop_timestamp": 20.167
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Hi Mandy, my name's Keith. I'm the resuscitation team leader today and I'm an ALS provider.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 23.17,
+      "stop_timestamp": 24.191
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_02",
+        "name": "Yanni",
+        "role": "F2"
+      },
+      "main_skill": "Team Management",
+      "sentence": "I'm Yanni and I'm the F2 today and I'm an ALS provider.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 27.375,
+      "stop_timestamp": 31.038
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_00",
+        "name": "Isabelle",
+        "role": "Anaesthetic SPR"
+      },
+      "main_skill": "Team Management",
+      "sentence": "And I'm the anaesthetic SPR on call. My name's Isabelle.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 32.44,
+      "stop_timestamp": 34.542
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "So if we just allocate roles, then I think let's go for airway.",
+      "skill_description": "Role assignment",
+      "start_timestamp": 38.946,
+      "stop_timestamp": 39.506
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Let's go for Keith. Are you happy to scribe and manage the defibrillation should needed?",
+      "skill_description": "Role assignment",
+      "start_timestamp": 42.848,
+      "stop_timestamp": 44.93
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "And then Yanni, can you do cannulation?",
+      "skill_description": "Role assignment",
+      "start_timestamp": 49.914,
+      "stop_timestamp": 52.115
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Bloods, fluids. Let us also go for swapping in and out with chest compressions as well.",
+      "skill_description": "Task distribution",
+      "start_timestamp": 52.616,
+      "stop_timestamp": 54.717
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Team Management",
+      "sentence": "Bernard, are you alright? Can I have some help please?",
+      "skill_description": "Requesting help",
+      "start_timestamp": 80.184,
+      "stop_timestamp": 81.544
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Team Management",
+      "sentence": "Can you put out a double two double two, call and ask for the adult resuscitation team and bring back the resuscitation trolley?",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 82.485,
+      "stop_timestamp": 97.331
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_02",
+        "name": "Yanni",
+        "role": "F2"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "The resuscitation trolley is behind the door.",
+      "skill_description": "Accessing or using equipment, tools, machines",
+      "start_timestamp": 97.331,
+      "stop_timestamp": 107.022
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Team Management",
+      "sentence": "Can you take over CPR for me? I'm going to count you in.",
+      "skill_description": "Role assignment",
+      "start_timestamp": 107.022,
+      "stop_timestamp": 108.023
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Team Management",
+      "sentence": "Five, four, three, two, one. We carry on with 32 on the bag valve mask with the oxygen on. I'm going to attach the defib pads, carry on with the CPR.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 111.386,
+      "stop_timestamp": 135.794
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "Okay, in a minute I'm just gonna ask you to pause, we'll have a look at the rhythm. Okay, can you just pause CPR? That's a shockable rhythm, carry on CPR again. I'm gonna charge the defibrillator, can we take the oxygen away? Clear, clear, carry on with that CPR, clear. Okay, stand clear, shocking now. Carry on CPR. I'm just gonna move the bed, keep going with those chest compressions.",
+      "skill_description": "Discussing or choosing next steps",
+      "start_timestamp": 135.794,
+      "stop_timestamp": 167.381
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Bill, my name's Mandy. I'm the resuscitation team leader. What's happening?",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 169.141,
+      "stop_timestamp": 171.182
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Environmental Awareness",
+      "sentence": "Hello, this is Bernard. He was admitted here with chest pain and he's found collapsed. He was in cardiac arrest. We've given him one shock with a defib.",
+      "skill_description": "Reviewing past or current actions",
+      "start_timestamp": 171.902,
+      "stop_timestamp": 177.844
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "So we're about a minute in?",
+      "skill_description": "Using available information (e.g., history, monitor, reports)",
+      "start_timestamp": 180.345,
+      "stop_timestamp": 180.345
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Isabel, I need to just join us. Can you please take over the airway management, please? Thank you. And we've got Keith. Excellent. Defibrillation. Keith, we're about a minute in. If you can just check the timings for me, please. He's had one shock already. Bill, can you get me the patient's notes, please?",
+      "skill_description": "Role assignment",
+      "start_timestamp": 186.987,
+      "stop_timestamp": 199.171
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "20 seconds until we're coming in. So at that point, Amita, I'd like you and Yanni to swap over within the rhythm check, OK? So we're going to swap over at that point. And Keith, I'm going to hand over to you to deliver the shock.",
+      "skill_description": "Discussing or choosing next steps",
+      "start_timestamp": 204.312,
+      "stop_timestamp": 211.634
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Absolutely. We're at two minutes now.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 214.495,
+      "stop_timestamp": 215.615
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Stop CPR, please. Looking at the monitor, that's a shockable rhythm. Straight back on the chest, please. Over to you, Keith.",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 217.496,
+      "stop_timestamp": 221.997
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "Lovely. I'm going to charge the defibrillator and I'm not going to shock yet. Remove the oxygen and everybody else set back. Charging. Head is clear. Bed space clear. Amita, in a second I'm going to ask you to stand clear so I can deliver the shock and then I'm going to ask you to immediately restart CPR. Are you happy with that? Stand clear. Shocking now. Restart CPR.",
+      "skill_description": "Accessing or using equipment, tools, machines",
+      "start_timestamp": 224.235,
+      "stop_timestamp": 243.213
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "Excellent, thank you. Okay, so we're in a shockable rhythm and that was the second shock delivered. Okay, so have we got those notes coming? Yanni, please, could you put up a 500ml saline for that? Can you also take me some blood through venipuncture? I'd like an FBC, a UNE, a venous blood gas and a glucose, please. Thank you, Bill, that's lovely. Okay, so this gentleman came in, you said it was chest pain that he'd got. Can we get a definitive airway in with this chap now, please?",
+      "skill_description": "Justifying decisions based on prior events",
+      "start_timestamp": 245.695,
+      "stop_timestamp": 267.93
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Environmental Awareness",
+      "sentence": "So with the history, I'm really thinking thromboembolic is most likely to be our most probable cause, but let's just investigate the others while we're at that. Temperature-wise, Yanni, what does it feel like?",
+      "skill_description": "Planning or delivering next steps",
+      "start_timestamp": 275.197,
+      "stop_timestamp": 283.125
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_02",
+        "name": "Yanni",
+        "role": "F2"
+      },
+      "main_skill": "Environmental Awareness",
+      "sentence": "It feels warm to touch.",
+      "skill_description": "Mentioning surrounding conditions",
+      "start_timestamp": 285.628,
+      "stop_timestamp": 285.628
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "It feels warm to touch. OK, so thinking, Keith, about ruling out the H's and T's, unlikely to be hypothermia. A hypoxia, we've got the tube going in, we're going to connect that to 15 litres of oxygen. No avert signs beforehand, he sat earlier, looked okay on the chart. Fluids are up, thank you, that's lovely.",
+      "skill_description": "Justifying decisions based on prior events",
+      "start_timestamp": 286.589,
+      "stop_timestamp": 305.47
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_00",
+        "name": "Isabelle",
+        "role": "Anaesthetic SPR"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "The tube is in and I've checked the position on auscultation. End tidal CO2 is 2.3.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 308.674,
+      "stop_timestamp": 313.159
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "2.3 so we've got a good ET CO2 for this so I would like asynchronous chest compressions please. So continuous chest compressions. Can we support his ventilation please to 10 breaths a minute. So we've got the bloods off. We're moving through the H's and T's Keith.",
+      "skill_description": "Discussing or choosing next steps",
+      "start_timestamp": 316.922,
+      "stop_timestamp": 328.973
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "20 seconds to the next two minutes, okay. Drugs, we need to have some drugs ready, please, in case I'd like a milligram of adrenaline, Yanni, and 300 milligrams of amiodrome preparing. When we get to the next point, Amita, I'd like you to swap with Bill when we do the rhythm check to manage the CPR, and Keith, I'm gonna hand over to you for defibrillation.",
+      "skill_description": "Discussing or choosing next steps",
+      "start_timestamp": 334.137,
+      "stop_timestamp": 343.162
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Okay, stop CPR, please. Looking at the monitor, we're in a shockable rhythm. I'd like you to deliver a shock. Straight back on the chest, please. Keith, I'd like you to deliver that shock.",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 353.988,
+      "stop_timestamp": 360.972
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "Bill, continue doing CPR. I'm going to charge your defibrillator but I'm not going to shock yet. Leave the oxygen connected at a sealed circuit. Charging, the head is clear, the rest of the bed space is clear. Bill, when the defib is charged, I'm going to ask you to stand clear to deliver the shock and then I'm going to ask you to recommence CPR immediately. Are you happy with that? Bill, stand clear please. Shocking now. Restart CPR. Third shock.",
+      "skill_description": "Accessing or using equipment, tools, machines",
+      "start_timestamp": 363.168,
+      "stop_timestamp": 386.395
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "We need to give some drugs, so we need to think about a milligram of adrenaline. What is the Entidal CO2 doing? It's around two, so let's give a milligram of adrenaline, please, IV, followed by 300 milligrams of amiodrone. If you can let me know when that's done, please. Still thinking chest pain. Toxins, I'll have a look through his drug chart. Okay, he's had aspirin, he's had ondansetron. No surprises on the drug chart. I'm thinking of ruling out the toxins.",
+      "skill_description": "Justifying decisions based on prior events",
+      "start_timestamp": 391.207,
+      "stop_timestamp": 416.153
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_02",
+        "name": "Yanni",
+        "role": "F2"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "Adrenaline is given.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 418.831,
+      "stop_timestamp": 418.831
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "Adrenaline's in, Keith. Amyodrone's going in. Thinking about potentially a pneumothorax. Could you have a listen to the chest, please, Isabel? Trachea is central.",
+      "skill_description": "Discussing or choosing next steps",
+      "start_timestamp": 419.631,
+      "stop_timestamp": 428.434
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_00",
+        "name": "Isabelle",
+        "role": "Anaesthetic SPR"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "And I can hear air entry on both sides. I don't think it's a pneumothorax.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 438.977,
+      "stop_timestamp": 440.858
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "So tension pneumothorax. If we can exclude that, please, on the T's.",
+      "skill_description": "Justifying decisions based on prior events",
+      "start_timestamp": 442.519,
+      "stop_timestamp": 443.759
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_02",
+        "name": "Yanni",
+        "role": "F2"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "Amyodrone given.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 445.9,
+      "stop_timestamp": 445.9
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "The blood gas results, thank you. So looking at the blood results, we've got a potassium and a glucose all within normal range. If you could give that to our anaesthetist, please. So I'm thinking hypohyperkalemia is unlikely. Hypoxia, we've got 15 litres going through there, Isabel. 15 litres going through, there was no respiratory deterioration we're aware of beforehand. Okay, so I'm still thinking it's really, really likely to be that. The other chest one we should exclude would be a cardiac tamponade. So can we, we've thought about history, can we please order a focused cardiac ultrasound, please?",
+      "skill_description": "Justifying decisions based on prior events",
+      "start_timestamp": 449.45,
+      "stop_timestamp": 478.939
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Yes, I want to do that for you.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 484.721,
+      "stop_timestamp": 484.721
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Thank you. Bill, good chest compressions, we've got a cure in there.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 485.742,
+      "stop_timestamp": 486.602
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "20 seconds now until the next two minutes is up.",
+      "skill_description": "Using available information (e.g., history, monitor, reports)",
+      "start_timestamp": 491.324,
+      "stop_timestamp": 491.324
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "So when we get to the next swap, please, Bill, I'd like you to swap with Yanni. Yanni, if you could take over at the rhythm check, please. Are we still happy at the head end? OK, and I'm going to ask for Keith, you to manage defibrillation.",
+      "skill_description": "Discussing or choosing next steps",
+      "start_timestamp": 494.5,
+      "stop_timestamp": 500.123
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "We're at two minutes now.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 505.786,
+      "stop_timestamp": 505.786
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "OK, two minutes, stop CPR. Looking at the monitor, we've got something compatible with life there. Is there a pulse?",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 508.308,
+      "stop_timestamp": 513.09
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_00",
+        "name": "Isabelle",
+        "role": "Anaesthetic SPR"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "I can't feel a pulse.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 514.884,
+      "stop_timestamp": 514.884
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Straight back on the chest please. Okay, so we've moved to the non-shockable side of the algorithm. We gave the adrenaline in the last cycle, so we're not going to give it this time, but I'd like that preparing ready for the next cycle if at all possible.",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 516.326,
+      "stop_timestamp": 521.23
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_00",
+        "name": "Isabelle",
+        "role": "Anaesthetic SPR"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "His end tidal CO2 has just come up to 5.2.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 529.939,
+      "stop_timestamp": 529.939
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "Is there a pulse?",
+      "skill_description": "Using available information (e.g., history, monitor, reports)",
+      "start_timestamp": 532.201,
+      "stop_timestamp": 532.201
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_00",
+        "name": "Isabelle",
+        "role": "Anaesthetic SPR"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "I can feel a weak pulse and I think he's trying to make some respiratory effort.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 536.021,
+      "stop_timestamp": 536.021
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Okay, let\u2019s have off the chest, please. Support ventilation, please, up to ten breath per minute. Bill, can you do me a full eight three assessment, please?",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 542.021,
+      "stop_timestamp": 547.686
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Also, a chest x-ray and a 12-lead ECG Yanni, what I\u2019d really like is call the Family, so that relatives know. Ask them to come in.",
+      "skill_description": "Task distribution",
+      "start_timestamp": 548.685,
+      "stop_timestamp": 553.686
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Thank you. That's great. Okay. I'm going to need to do some writing. Can I have the paperwork from yourself, please, Keith? I'm going to speak to the intensive care team and the cardiology team as well. Great. We've got some spontaneous circulation. We're doing a full reassessment. Okay. Great work, team. Thank you very much.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 555.686,
+      "stop_timestamp": 571.296
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Let's go for Keith. Are you happy to scribe and manage the defibrillation should needed?",
+      "skill_description": "Role assignment",
+      "start_timestamp": 43.769,
+      "stop_timestamp": 44.93
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Team Management",
+      "sentence": "Can I have some help please?",
+      "skill_description": "Requesting help",
+      "start_timestamp": 81.544,
+      "stop_timestamp": 82.485
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Team Management",
+      "sentence": "Okay. Five, four, three, two, one.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 111.106,
+      "stop_timestamp": 118.992
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "We carry on with 32 on the bag valve mask with the oxygen on. I'm going to attach the defib pads, carry on with the CPR.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 118.992,
+      "stop_timestamp": 135.794
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "So at that point, Amita, I'd like you and Yanni to swap over within the rhythm check, OK? So we're going to swap over at that point. And Keith, I'm going to hand over to you to deliver the shock.",
+      "skill_description": "Discussing or choosing next steps",
+      "start_timestamp": 205.273,
+      "stop_timestamp": 211.634
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "I'm going to charge the defibrillator and I'm not going to shock yet. Remove the oxygen and everybody else set back. Charging. Head is clear. Bed space clear. Amita, in a second I'm going to ask you to stand clear so I can deliver the shock and then I'm going to ask you to immediately restart CPR. Are you happy with that? Stand clear. Shocking now. Restart CPR.",
+      "skill_description": "Running procedures",
+      "start_timestamp": 224.475,
+      "stop_timestamp": 243.213
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Drugs, we need to have some drugs ready, please, in case I'd like a milligram of adrenaline, Yanni, and 300 milligrams of amiodrome preparing. When we get to the next point, Amita, I'd like you to swap with Bill when we do the rhythm check to manage the CPR, and Keith, I'm gonna hand over to you for defibrillation.",
+      "skill_description": "Task distribution",
+      "start_timestamp": 336.138,
+      "stop_timestamp": 343.162
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Yanni, what I\u2019d really like is call the Family, so that relatives know. Ask them to come in.",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 550.685,
+      "stop_timestamp": 553.686
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Can I have the paperwork from yourself, please, Keith? I'm going to speak to the intensive care team and the cardiology team as well. Great. We've got some spontaneous circulation. We're doing a full reassessment. Okay. Great work, team. Thank you very much.",
+      "skill_description": "Clear communication to others",
+      "start_timestamp": 559.688,
+      "stop_timestamp": 571.296
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Team Management",
+      "sentence": "Okay, can you just pause CPR?",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 139.477,
+      "stop_timestamp": 142.879
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Dynamic Decision-Making",
+      "sentence": "That's a shockable rhythm, carry on CPR again. I'm gonna charge the defibrillator, can we take the oxygen away?",
+      "skill_description": "Justifying decisions based on prior events",
+      "start_timestamp": 142.879,
+      "stop_timestamp": 149.944
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Team Management",
+      "sentence": "Clear, clear, carry on with that CPR, clear. Okay, stand clear, shocking now. Carry on CPR.",
+      "skill_description": "Giving orders or commands",
+      "start_timestamp": 149.944,
+      "stop_timestamp": 160.731
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Keith, we're about a minute in. If you can just check the timings for me, please. He's had one shock already. Bill, can you get me the patient's notes, please?",
+      "skill_description": "Role assignment",
+      "start_timestamp": 193.989,
+      "stop_timestamp": 199.171
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Environmental Awareness",
+      "sentence": "20 seconds until the next two minutes.",
+      "skill_description": "Reviewing past or current actions",
+      "start_timestamp": 331.255,
+      "stop_timestamp": 334.137
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_04",
+        "name": "Keith",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Environmental Awareness",
+      "sentence": "We're at two minutes now.",
+      "skill_description": "Reviewing past or current actions",
+      "start_timestamp": 351.927,
+      "stop_timestamp": 353.988
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_03",
+        "name": "Bernard",
+        "role": ""
+      },
+      "main_skill": "Resource Allocation",
+      "sentence": "I'm gonna charge the defibrillator, can we take the oxygen away? Clear, clear, carry on with that CPR, clear. Okay, stand clear, shocking now. Carry on CPR. I'm just gonna move the bed, keep going with those chest compressions.",
+      "skill_description": "Accessing or using equipment, tools, machines",
+      "start_timestamp": 146.121,
+      "stop_timestamp": 167.381
+    },
+    {
+      "speaker": {
+        "speaker_id": "SPEAKER_01",
+        "name": "Mandy",
+        "role": "Resuscitation Team Leader"
+      },
+      "main_skill": "Team Management",
+      "sentence": "Yanni, please, could you put up a 500ml saline for that? Can you also take me some blood through venipuncture? I'd like an FBC, a UNE, a venous blood gas and a glucose, please.",
+      "skill_description": "Task distribution",
+      "start_timestamp": 251.439,
+      "stop_timestamp": 261.186
+    }
+  ]
+}

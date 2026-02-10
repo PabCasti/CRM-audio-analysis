@@ -1,0 +1,101 @@
+
+SPEAKER_00:
+[3.53]  Hi, sir.[4.11] My name is John. [4.77] I'm a paramedic. [5.45] I understand you're having some chest pain? 
+SPEAKER_03:
+[7.031] Yes.[7.511] Yes, I am. 
+SPEAKER_00:
+[8.331] How long has it been going on?
+SPEAKER_03:
+[9.891] About 30 minutes or so.
+SPEAKER_00:
+[11.491] About 30 minutes.[12.292] Are you having any trouble breathing? 
+SPEAKER_03:
+[13.672] No.[14.112] No, not at all. 
+SPEAKER_00:
+[15.592] Emily, go ahead and get him hooked up on a 12-leave.
+SPEAKER_02:
+[17.412] All right.
+SPEAKER_00:
+[21.873] What were you doing when the chest pain started?
+SPEAKER_03:
+[23.713] I was watching TV.
+SPEAKER_00:
+[25.154] OK.[25.594] Watching TV. [26.654] Can you take one finger and point to where on the chest you're having the pain? 
+SPEAKER_03:
+[31.535] It's right here.
+SPEAKER_00:
+[32.793]  Does it go or does it move anywhere?
+SPEAKER_03:
+[34.773] It feels like it's going to my left arm.
+SPEAKER_00:
+[36.934] OK, so it goes to your left arm.[38.414] All right. [39.074] What does the pain feel like? [40.255] Is it sharp? [41.055] Is it dull? [41.775] Is it crushing? [42.595] Is it pressure? [43.275] What exactly does it feel like? 
+SPEAKER_03:
+[44.656] It feels like a dull pressure, like it's heavy in my chest.
+SPEAKER_00:
+[48.096] OK, so on a scale from 1 to 10, with 10 being the worst pain you've ever had in your life, what would you rate it?[53.718] Pain's about an 8. [54.918] All right, you rated it about an 8. [56.498] Has it been an 8 the entire time, the whole 30 minutes? 
+SPEAKER_03:
+[60.349]  It started out as like a slight pressure, and then it got a lot worse and that's when I called you.
+SPEAKER_00:
+[65.334] Okay.[65.895] Has this ever happened before? 
+SPEAKER_03:
+[67.596] No, this has never happened before.
+SPEAKER_00:
+[69.418] Sir, I want you to hold still for about 10 seconds so we can get a good picture of your heart with our monitor, okay?
+SPEAKER_02:
+[75.084] Sure.[80.689] What are his vitals? 
+SPEAKER_01:
+[82.503]  I have a blood pressure of 164 over 99, pulse is 72 irregular, respirations are 14, and pulse ox is 96% on room air.
+SPEAKER_00:
+[100.073] Do you have any prior medical history, diabetes, hard blood pressure, heart issues, anything, anything at all?
+SPEAKER_03:
+[106.116] No, no medical history.
+SPEAKER_00:
+[107.777] Are you taking any medications?
+SPEAKER_03:
+[109.438] I take some cholesterol medicine.
+SPEAKER_00:
+[111.229]  Okay, you think that's the only medication you take is cholesterol medicine?
+SPEAKER_03:
+[114.712] Yes.
+SPEAKER_00:
+[115.212] Do you have any allergies to medications?[116.934] No, no allergies to medicine. [119.176] Emily, let's go ahead and get him 324 milligrams of aspirin. 
+SPEAKER_01:
+[124.34] Alright sir, I'm going to give you this aspirin.[125.902] Please don't swallow it whole. [126.923] I need you to chew it up for me and swallow it that way. 
+SPEAKER_00:
+[129.365] Okay.[130.586] Sir, I'm going to start an IV on you, okay? 
+SPEAKER_02:
+[132.828] Sure.
+SPEAKER_00:
+[140.58]  Okay, listen, I'm gonna give you this little nitro pill, alright?[144.181] I'm gonna have you put it under your tongue and let it dissolve. [146.182] It's gonna help with the pain, okay? [148.363] And while I do that, Emily here is gonna continue taking some vitals. 
+SPEAKER_04:
+[152.384] Okay, no problem.[153.965] I have some Viagra over here on the nightstand. [156.846] Sir, you haven't taken any of this in the last 24 hours, have you? [159.087] Uh, actually I took some last night. 
+SPEAKER_01:
+[161.628] Uh, his blood pressure is dropping rather quickly.
+SPEAKER_00:
+[166.516]  Sir, we're going to get you on our gurney and get you out of here and get you to the hospital, okay?
+SPEAKER_02:
+[174.661] Listen, guys, we need to get this patient loaded and get going ASAP.[183.085] Hey, are you okay? 
+SPEAKER_01:
+[186.087] You know, Captain Jackson, I was thinking about asking John about ED meds when he was giving the patient nitro, but I'm a brand new EMT and he's an experienced paramedic.[195.31]  I didn't want to overstep my position. 
+SPEAKER_04:
+[197.591] We're all a team here, and you're a very important part of that.[200.273] And if you have a concern or an issue, you need to bring that up and let us know. 
+SPEAKER_01:
+[205.596] Definitely.
+SPEAKER_02:
+[206.176] I will definitely say something next time.[208.377] Thank you. [208.737] Good to know. 
+SPEAKER_00:
+[217.482] OK, listen, I'm going to give you this little nitro pill.
+SPEAKER_01:
+[222.305] Should we ask him about ED medication?
+SPEAKER_00:
+[224.992]  Uh, you haven't taken any medics in for erectile dysfunction in the last 48 hours, have you, sir?
+SPEAKER_03:
+[229.913] Uh, actually, I took Viagra last night.
+SPEAKER_00:
+[232.474] Oh, okay.[233.474] Listen, I'm not gonna give you this nitro pill. [236.275] We're just gonna get you on a gurney, and we're gonna get you loaded up and get you to the hospital as soon as possible, okay? 
+SPEAKER_03:
+[241.716] Okay.
+SPEAKER_00:
+[243.576] Good catch.
+SPEAKER_02:
+[245.197] Thank you.

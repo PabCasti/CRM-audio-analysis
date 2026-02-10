@@ -1,0 +1,31 @@
+
+SPEAKER_02:
+[7.278]  9-9-101 taxi to position hold.[10.999] 9-9-101 position hold. [12.999] Before takeoff checklist. [15.42] Before takeoff checklist. [18.921] Takeoff announcement has been completed. [20.581] Air conditioning and bleeds are set. [23.022] Start switches are continuous. [26.903] Auto throttle is armed. [29.324] Transponder is on and the lights and strobes are on. [32.324] The before takeoff checklist is complete. [34.565] Thanks Jim. 
+Not recognized:
+[38.24]  Continental 101, cleared for takeoff.
+SPEAKER_02:
+[39.721] Continental 101, cleared for takeoff.
+SPEAKER_00:
+[43.182] Here we go.
+SPEAKER_02:
+[43.943] And we've got the lights.[60.97] Power set, 90%. 
+SPEAKER_00:
+[73.767]  100 knots V1, rotate Positive rate gear up, Jim Jim, call the tire and tell them we've had a fire warning here, we're going out straight ahead
+SPEAKER_02:
+[104.323]  Jim, heading select.[105.523] Continental 101 has had a fire indication like to proceed straight ahead. [111.647] Jim, heading select. [113.308] Continental 101, stay with me. 
+SPEAKER_00:
+[115.109] We're heading up to 2000 feet.[118.231] Jim, get that engine failure checklist out, Jim. [123.074] Jim, set talk bug. [124.034] Jim, flaps five, please. 
+SPEAKER_02:
+[131.38]  Top bug set.[133.041] Flaps one. 
+SPEAKER_00:
+[134.142] Turn the auto throttles off, will you, Jim?[138.646] Jim, can you call the company and tell them that we've lost an engine here and we're going to have to come back? [143.65] Oh, OK. [144.571] Flaps up, Jim. [145.331] How's that checklist coming, Jim? 
+SPEAKER_01:
+[155.039] Engine failure, engine fire, severe damage checklist.[158.322] Throttles. 
+SPEAKER_00:
+[158.562] Could you tell the girls in the back we've lost an engine, Jim?[161.92]  We're going to have to return. [162.82] Can you give me an after takeoff checklist, Jim? 
+SPEAKER_02:
+[171.665] After takeoff?
+SPEAKER_00:
+[175.007] Jim, you can tell ATC we're ready to turn around and come on back in.
+SPEAKER_02:
+[181.21] Houston, Continental 101 is requesting a turn to downwind.[186.092] We'd like to come back around. [187.453] We've got an engine fire indication. [189.941]  Jim, I know you're kind of busy, but I'm real busy over here too. 

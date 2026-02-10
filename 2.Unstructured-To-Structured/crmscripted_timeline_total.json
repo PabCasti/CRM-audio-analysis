@@ -1,0 +1,206 @@
+[
+    {
+        "Task": "John to Emily: Get him hooked up on a 12-lead",
+        "Start": "1970-01-01 00:00:15.592000",
+        "Finish": "1970-01-01 00:00:17.412000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John to Unknown: Hold still for about 10 seconds",
+        "Start": "1970-01-01 00:01:09.418000",
+        "Finish": "1970-01-01 00:01:15.084000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John to Emily: Get him 324 milligrams of aspirin",
+        "Start": "1970-01-01 00:01:59.176000",
+        "Finish": "1970-01-01 00:02:04.340000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John to Unknown: Chew the aspirin and swallow it",
+        "Start": "1970-01-01 00:02:04.340000",
+        "Finish": "1970-01-01 00:02:09.365000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John to Unknown: Start an IV",
+        "Start": "1970-01-01 00:02:10.586000",
+        "Finish": "1970-01-01 00:02:12.828000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John to Unknown: Put the nitro pill under your tongue and let it dissolve",
+        "Start": "1970-01-01 00:02:20.580000",
+        "Finish": "1970-01-01 00:02:32.384000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John to Unknown: Get on the gurney and get to the hospital",
+        "Start": "1970-01-01 00:02:46.516000",
+        "Finish": "1970-01-01 00:02:54.661000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John to Emily: Get the patient loaded and get going ASAP",
+        "Start": "1970-01-01 00:02:54.661000",
+        "Finish": "1970-01-01 00:03:03.085000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John to Unknown: Get on a gurney and get to the hospital",
+        "Start": "1970-01-01 00:03:52.474000",
+        "Finish": "1970-01-01 00:04:01.716000",
+        "Category": "Order"
+    },
+    {
+        "Task": "John: Team Management - Giving orders or commands",
+        "Start": "1970-01-01 00:00:15.592000",
+        "Finish": "1970-01-01 00:00:17.412000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Environmental Awareness - Reviewing past or current actions",
+        "Start": "1970-01-01 00:00:21.873000",
+        "Finish": "1970-01-01 00:00:23.713000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Dynamic Decision-Making - Using available information (e.g., history, monitor, reports)",
+        "Start": "1970-01-01 00:01:09.418000",
+        "Finish": "1970-01-01 00:01:15.084000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:01:59.176000",
+        "Finish": "1970-01-01 00:02:04.340000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:02:10.586000",
+        "Finish": "1970-01-01 00:02:12.828000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:02:20.580000",
+        "Finish": "1970-01-01 00:02:32.384000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Team Management - Leadership & followership",
+        "Start": "1970-01-01 00:02:54.661000",
+        "Finish": "1970-01-01 00:03:03.085000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Captain Jackson: Team Management - Leadership & followership",
+        "Start": "1970-01-01 00:03:17.591000",
+        "Finish": "1970-01-01 00:03:25.596000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Dynamic Decision-Making - Using available information (e.g., history, monitor, reports)",
+        "Start": "1970-01-01 00:03:44.992000",
+        "Finish": "1970-01-01 00:03:49.913000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Dynamic Decision-Making - Changing a decision",
+        "Start": "1970-01-01 00:03:52.474000",
+        "Finish": "1970-01-01 00:04:01.716000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Emily: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:01:22.503000",
+        "Finish": "1970-01-01 00:01:40.073000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Emily: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:02:04.340000",
+        "Finish": "1970-01-01 00:02:09.365000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Captain Jackson: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:02:33.965000",
+        "Finish": "1970-01-01 00:02:39.087000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Emily: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:02:41.628000",
+        "Finish": "1970-01-01 00:02:46.516000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Emily: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:03:25.596000",
+        "Finish": "1970-01-01 00:03:28.737000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Emily: Dynamic Decision-Making - Discussing or choosing next steps",
+        "Start": "1970-01-01 00:03:42.305000",
+        "Finish": "1970-01-01 00:03:44.992000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Team Management - Leadership & followership",
+        "Start": "1970-01-01 00:04:03.576000",
+        "Finish": "1970-01-01 00:04:05.197000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Emily: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:04:05.197000",
+        "Finish": "1970-01-01 00:04:08.197000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Emily: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:03:06.087000",
+        "Finish": "1970-01-01 00:03:15.310000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:00:03.530000",
+        "Finish": "1970-01-01 00:00:05.450000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Dynamic Decision-Making - Using available information (e.g., history, monitor, reports)",
+        "Start": "1970-01-01 00:00:39.074000",
+        "Finish": "1970-01-01 00:00:43.275000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Dynamic Decision-Making - Using available information (e.g., history, monitor, reports)",
+        "Start": "1970-01-01 00:00:48.096000",
+        "Finish": "1970-01-01 00:00:53.718000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Environmental Awareness - Reviewing past or current actions",
+        "Start": "1970-01-01 00:01:05.334000",
+        "Finish": "1970-01-01 00:01:07.596000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Dynamic Decision-Making - Using available information (e.g., history, monitor, reports)",
+        "Start": "1970-01-01 00:01:40.073000",
+        "Finish": "1970-01-01 00:01:46.116000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "John: Resource Allocation - Running procedures",
+        "Start": "1970-01-01 00:03:37.482000",
+        "Finish": "1970-01-01 00:03:42.305000",
+        "Category": "Skill"
+    }
+]

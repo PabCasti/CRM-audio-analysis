@@ -1,0 +1,75 @@
+
+Mandy:
+[13.2]  Hi, hello.[13.821] Hi, my name's Mandy. [15.622] I'm the resuscitation team leader today. [17.164] I'm the registrar on call. [18.946] I don't think we've all met before. [20.167] Can you just introduce yourselves and your provider status please? 
+Keith:
+[23.169] Hi Mandy, my name's Keith.[24.19] I'm the resuscitation team leader today and I'm an ALS provider. 
+Mandy:
+[26.352] Keith, brilliant, thanks.[27.373] I'm Yanni and I'm the F2 today and I'm an ALS provider. [31.037] Yanni, brilliant, thanks. 
+Isabel:
+[32.438] And I'm the anaesthetic SPR on call.[34.54] My name's Isabelle. 
+Mandy:
+[35.629]  Fantastic.[36.009] Are you an ALS provider, Isabel? [37.37] An instructor. [38.13] Brilliant. [38.571] Lovely. [38.931] OK. [39.511] So if we just allocate roles, then I think let's go for airway. [42.473] Great. [43.773] Let's go for Keith. [45.114] Are you happy to scribe and manage the defibrillation should needed? [49.136] That would be great. [49.916] And then Yanni, can you do cannulation, bloods, fluids? [54.719] Let us also go for swapping in and out with chest compressions as well. [58.761] OK. [59.441] Brilliant. [59.902] Thank you. [60.302] Well, I'll see you later. [61.262] OK. [61.843] Thank you. 
+Bill:
+[78.683]  Bernard?[80.184] Bernard, are you all right? [81.544] Can I have some help, please? 
+Bill:
+[82.485] Can you put out a 2222 call and ask for the adult resuscitation team and bring back the resuscitation trolley?[97.251] OK, the resuscitation trolley's behind the door. 
+Bill:
+[107.022]  Can you take over CPR for me?[108.023] I'm going to count you in. 
+Keith:
+[108.884] Okay.
+Bill:
+[109.725] Are you ready?[110.166] Yeah. [111.107] Okay. [111.387] Five, four, three, two, one. [118.996] We carry on with 32 on the bag valve mask with the oxygen on. [122.941] I'm going to attach the defib pads, carry on with the CPR. [135.854]  In a minute, I'm just gonna ask you to pause, we'll have a look at the rhythm. [139.436] Okay, can you just pause CPR? [142.877] That's a shockable rhythm, carry on CPR again. [146.119] I'm gonna charge the defibrillator, can we take the oxygen away? [149.941] Clear, clear, carry on with that CPR, clear. [154.063] Okay, stand clear, shocking now. [159.125] Carry on CPR. [160.726] I'm just gonna move the bed, keep going with those chest compressions. 
+Mandy:
+[169.137]  Bill, my name's Mandy.[169.818] I'm the resuscitation team leader. [171.179] What's happening? 
+Bill:
+[171.899] Hello, this is Bernard.[172.82] He was admitted here with chest pain and he found collapsed. [176.622] He was in cardiac arrest. [177.863] We've given him one shock with a defib. 
+Mandy:
+[180.745] So we're about a minute in?
+Bill:
+[181.706] We're about a minute in, yeah.
+Mandy:
+[182.607] Okay, thank you.[183.747] Right, so we've got quality chest compressions going off 30 to 2. [186.989] Isabella, our anaesthetist join us. [188.23] Can you please take over the airway management, please? [190.672] Thank you. [191.312] And we've got Keith. [192.593]  Excellent. [193.253] Defibrillation. [193.974] Keith, we're about a minute in. [195.274] If you can just check the timings for me, please. [197.155] He's had one shock already. [199.176] Bill, can you get me the patient's notes, please? 
+Keith:
+[201.637] 20 seconds until the next two minutes.
+Mandy:
+[204.318] 20 seconds till we're coming in.[205.278] So at that point, Amita, I'd like you and Yanni to swap over within the rhythm check, OK? [210.26] So we're going to swap over at that point. [211.641] And Keith, I'm going to hand over to you to deliver the shock. 
+Keith:
+[214.482] Absolutely.[215.626]  We're at two minutes now. 
+Mandy:
+[217.487] Stop CPR, please.[218.987] Looking at the monitor, that's a shockable rhythm. [220.728] Straight back on the chest, please. [221.988] Over to you, Keith. 
+Keith:
+[224.229] Lovely.[224.429] I'm going to charge the defibrillator and I'm not going to shock yet. [226.77] Remove the oxygen and everybody else set back. [229.691] Charging. [230.772] Head is clear. [231.972] Bed space clear. [232.813] Amita, in a second, I'm going to ask you to stand clear so I can deliver the shock. [236.274] And then I'm going to ask you to immediately restart CPR. [238.535] Are you happy with that? [239.335] Yeah. [240.175] Stand clear. [241.576] Shocking now. [243.217] Restart CPR. 
+Mandy:
+[244.633]  Excellent, thank you.[245.694] Okay, so we're in a shockable rhythm and that was the second shock delivered. [249.317] Okay, so have we got those notes coming? [251.439] Yanni, please, could you put up a 500ml saline for that? [254.581] Can you also take me some blood through venipuncture? [256.964] I'd like an FBC, a UNE, a venous blood gas and a glucose, please. [261.187] Thank you, Bill, that's lovely. [262.788] Okay, so this gentleman came in, you said it was chest pain that he'd got. [267.933] Can we get a definitive airway in with this chap now, please? [270.655] Yeah, sure. [272.574]  Let me know when that's done please, Isabel. [275.198] So with the history, I'm really thinking thromboembolic is most likely to be our most probable cause, but let's just investigate the others while we're at that. [283.129] Temperature-wise, Yanni, what does he feel like? [286.806]  Feels warm to touch. [287.687] Okay, so thinking, Keith, about ruling out the H's and T's, unlikely to be hypothermia. [294.352] Hypoxia, we've got the tube going in, we're going to connect that to 15 litres of oxygen. [301.118] No avert signs beforehand, he sat earlier, looked okay on the chart. [305.482] Fluids are up, thank you, that's lovely. 
+Isabel:
+[308.665] The tube is in and I've
+Mandy:
+[310.146]  check the position on auscultation end tidal CO2 is 2.3 2.3 so we've got a good ETCO2 for this so I would like asynchronous chest compressions please so continuous chest compressions can we support his ventilation please to 10 breaths a minute so we've got the bloods off we're moving through the H's and T's Keith 20 seconds until the next two minutes[334.137]  20 seconds to the next two minutes, okay. [336.137] Drugs, we need to have some drugs ready, please, in case I'd like a milligram of adrenaline, Yanni, and 300 milligrams of amiodrome preparing. [343.159] When we get to the next point, Amita, I'd like you to swap with Bill when we do the rhythm check to manage the CPR, and Keith, I'm gonna hand over to you for defibrillation. 
+Keith:
+[351.9] We're at two minutes now.
+Mandy:
+[353.98] Okay, stop CPR, please.[356.241] Looking at the monitor, we're in a shockable rhythm. [358.221] I'd like you to deliver a shock. [359.621] Straight back on the chest, please. [360.962] Keith, I'd like you to deliver that shock. 
+Keith:
+[363.168]  Bill, continue doing CPR.[364.268] I'm going to charge your defibrillator but I'm not going to shock yet. [366.949] Leave the oxygen connected at a sealed circuit. [369.21] Charging, the head is clear, the rest of the bed space is clear. [374.411] Bill, when the defibrillator is charged, I'm going to ask you to stand clear to deliver the shock and then I'm going to ask you to recommence CPR immediately. [380.433] Are you happy with that? [381.593] Bill, stand clear please. [383.214] Shocking now. [384.654] Restart CPR. [386.395] First shock. 
+Mandy:
+[391.208]  We need to give some drugs, so we need to think about a milligram of adrenaline.[394.45] What is the Entidal CO2 doing? [397.933] It's around two, so let's give a milligram of adrenaline, please, IV, followed by 300 milligrams of amiodrone. [403.618] If you can let me know when that's done, please. [406.42] Still thinking chest pain. [409.002] Toxins, I'll have a look through his drug chart. [410.924] Okay, he's had aspirin, he's had ondansetron. [414.347] No surprises on the drug chart. [416.168] I'm thinking of ruling out the toxins. [418.831]  Adrenaline is given. [420.452] Adrenaline's in, Keith. [422.093] Amyodrone's going in. [424.414] Thinking about potentially a pneumothorax. [426.314] Could you have a listen to the chest, please, Isabel? [428.976] Trachea is central. 
+Isabel:
+[438.98] And I can hear air entry on both sides.[440.861] I don't think it's a pneumothorax. 
+Mandy:
+[442.522] So tension pneumothorax.[443.763] If we can exclude that, please, on the T's. [445.784] Amyodrone given. [449.448]  The blood gas results, thank you. [450.969] So looking at the blood results, we've got a potassium and a glucose all within normal range. [455.491] If you could give that to our anaesthetist, please. [457.552] So I'm thinking hypo hyperkalemia is unlikely, hypoxia. [462.854] We've got 15 litres going through there, Isabel. [466.011]  15 litres going through, there was no respiratory deterioration we're aware of beforehand. [470.233] Okay, so I'm still thinking it's really, really likely to be that. [474.675] The other chest one we should exclude would be a cardiac tamponade. [478.938] So can we, we've thought about history, can we please order a focused cardiac ultrasound, please? 
+Keith:
+[484.68] Unless I want to do that for you.
+Mandy:
+[485.741] Thank you.[486.601] Bill, good chest compressions, we've got a cure in there. 
+Keith:
+[491.324] 20 seconds now until the next two minutes is up.
+Mandy:
+[494.52]  So when we get to the next swap, please, Bill, I'd like you to swap with Yanni.[497.861] Yanni, if you could take over at the rhythm check, please. [500.121] Are we still happy at the head end? [501.962] OK, and I'm going to ask for Keith, you to manage defibrillation. 
+Keith:
+[505.783] We're at two minutes now.
+Mandy:
+[508.303] OK, two minutes, stop CPR.[510.144] Looking at the monitor, we've got something compatible with life there. [513.085] Is there a pulse? [514.884]  I can't feel a pulse. [516.326] Straight back on the chest, please. [517.747] OK, so we've moved to the non-shockable side of the algorithm. [521.23] We gave the adrenaline in the last cycle, so we're not going to give it this time. [526.035] But I'd like that preparing ready for the next cycle, if at all possible. 
+Isabel:
+[529.939] His end-tidal CO2 has just come up to 5.2.[532.201] Is there a pulse? [536.021]  I can feel a weak pulse and I think he's trying to make some respiratory effort. 
+Mandy:
+[554.674]  Ask them to come in.[555.675] Thank you. [556.215] That's great. [556.855] Okay. [557.195] I'm going to need to do some writing. [559.697] Can I have the paperwork from yourself, please, Keith? [562.118] I'm going to speak to the intensive care team and the cardiology team as well. [566.5] Great. [566.78] We've got some spontaneous circulation. [568.641] We're doing a full reassessment. [570.222] Okay. [570.522] Great work, team. [571.282] Thank you very much. 

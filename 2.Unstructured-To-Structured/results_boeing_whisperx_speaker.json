@@ -1,0 +1,4167 @@
+{
+      "segments": [
+            {
+                  "end": 10.979,
+                  "speaker": "SPEAKER_02",
+                  "start": 7.278,
+                  "text": " 9-9-101 taxi to position hold.",
+                  "words": [
+                        {
+                              "end": 7.498,
+                              "score": 0.911,
+                              "speaker": "SPEAKER_02",
+                              "start": 7.278,
+                              "word": "9-9-101"
+                        },
+                        {
+                              "end": 8.058,
+                              "score": 0.473,
+                              "speaker": "SPEAKER_02",
+                              "start": 7.518,
+                              "word": "taxi"
+                        },
+                        {
+                              "end": 8.278,
+                              "score": 0.692,
+                              "speaker": "SPEAKER_02",
+                              "start": 8.098,
+                              "word": "to"
+                        },
+                        {
+                              "end": 9.098,
+                              "score": 0.467,
+                              "speaker": "SPEAKER_02",
+                              "start": 8.318,
+                              "word": "position"
+                        },
+                        {
+                              "end": 10.979,
+                              "score": 0.434,
+                              "speaker": "SPEAKER_02",
+                              "start": 10.839,
+                              "word": "hold."
+                        }
+                  ]
+            },
+            {
+                  "end": 12.339,
+                  "speaker": "SPEAKER_02",
+                  "start": 10.999,
+                  "text": "9-9-101 position hold.",
+                  "words": [
+                        {
+                              "end": 11.379,
+                              "score": 0.728,
+                              "speaker": "SPEAKER_02",
+                              "start": 10.999,
+                              "word": "9-9-101"
+                        },
+                        {
+                              "end": 12.059,
+                              "score": 0.649,
+                              "speaker": "SPEAKER_02",
+                              "start": 11.399,
+                              "word": "position"
+                        },
+                        {
+                              "end": 12.339,
+                              "score": 0.593,
+                              "speaker": "SPEAKER_02",
+                              "start": 12.119,
+                              "word": "hold."
+                        }
+                  ]
+            },
+            {
+                  "end": 14.14,
+                  "speaker": "SPEAKER_02",
+                  "start": 12.999,
+                  "text": "Before takeoff checklist.",
+                  "words": [
+                        {
+                              "end": 13.32,
+                              "score": 0.669,
+                              "speaker": "SPEAKER_02",
+                              "start": 12.999,
+                              "word": "Before"
+                        },
+                        {
+                              "end": 13.74,
+                              "score": 0.625,
+                              "speaker": "SPEAKER_02",
+                              "start": 13.36,
+                              "word": "takeoff"
+                        },
+                        {
+                              "end": 14.14,
+                              "score": 0.379,
+                              "speaker": "SPEAKER_02",
+                              "start": 13.78,
+                              "word": "checklist."
+                        }
+                  ]
+            },
+            {
+                  "end": 16.92,
+                  "speaker": "SPEAKER_02",
+                  "start": 15.42,
+                  "text": "Before takeoff checklist.",
+                  "words": [
+                        {
+                              "end": 15.78,
+                              "score": 0.744,
+                              "speaker": "SPEAKER_02",
+                              "start": 15.42,
+                              "word": "Before"
+                        },
+                        {
+                              "end": 16.32,
+                              "score": 0.642,
+                              "speaker": "SPEAKER_02",
+                              "start": 15.82,
+                              "word": "takeoff"
+                        },
+                        {
+                              "end": 16.92,
+                              "score": 0.483,
+                              "speaker": "SPEAKER_02",
+                              "start": 16.38,
+                              "word": "checklist."
+                        }
+                  ]
+            },
+            {
+                  "end": 20.501,
+                  "speaker": "SPEAKER_02",
+                  "start": 18.921,
+                  "text": "Takeoff announcement has been completed.",
+                  "words": [
+                        {
+                              "end": 19.261,
+                              "score": 0.542,
+                              "speaker": "SPEAKER_02",
+                              "start": 18.921,
+                              "word": "Takeoff"
+                        },
+                        {
+                              "end": 19.681,
+                              "score": 0.248,
+                              "speaker": "SPEAKER_02",
+                              "start": 19.301,
+                              "word": "announcement"
+                        },
+                        {
+                              "end": 19.901,
+                              "score": 0.798,
+                              "speaker": "SPEAKER_02",
+                              "start": 19.701,
+                              "word": "has"
+                        },
+                        {
+                              "end": 20.101,
+                              "score": 0.346,
+                              "speaker": "SPEAKER_02",
+                              "start": 19.921,
+                              "word": "been"
+                        },
+                        {
+                              "end": 20.501,
+                              "score": 0.349,
+                              "speaker": "SPEAKER_02",
+                              "start": 20.121,
+                              "word": "completed."
+                        }
+                  ]
+            },
+            {
+                  "end": 22.122,
+                  "speaker": "SPEAKER_02",
+                  "start": 20.581,
+                  "text": "Air conditioning and bleeds are set.",
+                  "words": [
+                        {
+                              "end": 20.641,
+                              "score": 0.195,
+                              "speaker": "SPEAKER_02",
+                              "start": 20.581,
+                              "word": "Air"
+                        },
+                        {
+                              "end": 21.081,
+                              "score": 0.231,
+                              "speaker": "SPEAKER_02",
+                              "start": 20.661,
+                              "word": "conditioning"
+                        },
+                        {
+                              "end": 21.161,
+                              "score": 0.007,
+                              "speaker": "SPEAKER_02",
+                              "start": 21.101,
+                              "word": "and"
+                        },
+                        {
+                              "end": 21.482,
+                              "score": 0.43,
+                              "speaker": "SPEAKER_02",
+                              "start": 21.221,
+                              "word": "bleeds"
+                        },
+                        {
+                              "end": 21.662,
+                              "score": 0.435,
+                              "speaker": "SPEAKER_02",
+                              "start": 21.562,
+                              "word": "are"
+                        },
+                        {
+                              "end": 22.122,
+                              "score": 0.708,
+                              "speaker": "SPEAKER_02",
+                              "start": 21.822,
+                              "word": "set."
+                        }
+                  ]
+            },
+            {
+                  "end": 24.662,
+                  "speaker": "SPEAKER_02",
+                  "start": 23.022,
+                  "text": "Start switches are continuous.",
+                  "words": [
+                        {
+                              "end": 23.342,
+                              "score": 0.741,
+                              "speaker": "SPEAKER_02",
+                              "start": 23.022,
+                              "word": "Start"
+                        },
+                        {
+                              "end": 23.762,
+                              "score": 0.453,
+                              "speaker": "SPEAKER_02",
+                              "start": 23.362,
+                              "word": "switches"
+                        },
+                        {
+                              "end": 23.962,
+                              "score": 0.336,
+                              "speaker": "SPEAKER_02",
+                              "start": 23.842,
+                              "word": "are"
+                        },
+                        {
+                              "end": 24.662,
+                              "score": 0.684,
+                              "speaker": "SPEAKER_02",
+                              "start": 23.982,
+                              "word": "continuous."
+                        }
+                  ]
+            },
+            {
+                  "end": 27.883,
+                  "speaker": "SPEAKER_02",
+                  "start": 26.903,
+                  "text": "Auto throttle is armed.",
+                  "words": [
+                        {
+                              "end": 27.103,
+                              "score": 0.5,
+                              "speaker": "SPEAKER_02",
+                              "start": 26.903,
+                              "word": "Auto"
+                        },
+                        {
+                              "end": 27.383,
+                              "score": 0.312,
+                              "speaker": "SPEAKER_02",
+                              "start": 27.143,
+                              "word": "throttle"
+                        },
+                        {
+                              "end": 27.483,
+                              "score": 0.47,
+                              "speaker": "SPEAKER_02",
+                              "start": 27.403,
+                              "word": "is"
+                        },
+                        {
+                              "end": 27.883,
+                              "score": 0.662,
+                              "speaker": "SPEAKER_02",
+                              "start": 27.663,
+                              "word": "armed."
+                        }
+                  ]
+            },
+            {
+                  "end": 32.304,
+                  "speaker": "SPEAKER_02",
+                  "start": 29.324,
+                  "text": "Transponder is on and the lights and strobes are on.",
+                  "words": [
+                        {
+                              "end": 30.024,
+                              "score": 0.547,
+                              "speaker": "SPEAKER_02",
+                              "start": 29.324,
+                              "word": "Transponder"
+                        },
+                        {
+                              "end": 30.264,
+                              "score": 0.607,
+                              "speaker": "SPEAKER_02",
+                              "start": 30.144,
+                              "word": "is"
+                        },
+                        {
+                              "end": 30.364,
+                              "score": 0.248,
+                              "speaker": "SPEAKER_02",
+                              "start": 30.304,
+                              "word": "on"
+                        },
+                        {
+                              "end": 30.784,
+                              "score": 0.603,
+                              "speaker": "SPEAKER_02",
+                              "start": 30.464,
+                              "word": "and"
+                        },
+                        {
+                              "end": 31.024,
+                              "score": 0.44,
+                              "speaker": "SPEAKER_02",
+                              "start": 30.804,
+                              "word": "the"
+                        },
+                        {
+                              "end": 31.284,
+                              "score": 0.343,
+                              "speaker": "SPEAKER_02",
+                              "start": 31.064,
+                              "word": "lights"
+                        },
+                        {
+                              "end": 31.464,
+                              "score": 0.302,
+                              "speaker": "SPEAKER_02",
+                              "start": 31.384,
+                              "word": "and"
+                        },
+                        {
+                              "end": 31.844,
+                              "score": 0.559,
+                              "speaker": "SPEAKER_02",
+                              "start": 31.504,
+                              "word": "strobes"
+                        },
+                        {
+                              "end": 32.044,
+                              "score": 0.43,
+                              "speaker": "SPEAKER_02",
+                              "start": 31.944,
+                              "word": "are"
+                        },
+                        {
+                              "end": 32.304,
+                              "score": 0.692,
+                              "speaker": "SPEAKER_02",
+                              "start": 32.164,
+                              "word": "on."
+                        }
+                  ]
+            },
+            {
+                  "end": 34.245,
+                  "speaker": "SPEAKER_02",
+                  "start": 32.324,
+                  "text": "The before takeoff checklist is complete.",
+                  "words": [
+                        {
+                              "end": 32.384,
+                              "score": 0.074,
+                              "speaker": "SPEAKER_02",
+                              "start": 32.324,
+                              "word": "The"
+                        },
+                        {
+                              "end": 32.784,
+                              "score": 0.618,
+                              "speaker": "SPEAKER_02",
+                              "start": 32.424,
+                              "word": "before"
+                        },
+                        {
+                              "end": 33.184,
+                              "score": 0.539,
+                              "speaker": "SPEAKER_02",
+                              "start": 32.804,
+                              "word": "takeoff"
+                        },
+                        {
+                              "end": 33.625,
+                              "score": 0.422,
+                              "speaker": "SPEAKER_02",
+                              "start": 33.204,
+                              "word": "checklist"
+                        },
+                        {
+                              "end": 33.785,
+                              "score": 0.409,
+                              "speaker": "SPEAKER_02",
+                              "start": 33.725,
+                              "word": "is"
+                        },
+                        {
+                              "end": 34.245,
+                              "score": 0.563,
+                              "speaker": "SPEAKER_02",
+                              "start": 33.805,
+                              "word": "complete."
+                        }
+                  ]
+            },
+            {
+                  "end": 34.945,
+                  "speaker": "SPEAKER_02",
+                  "start": 34.565,
+                  "text": "Thanks Jim.",
+                  "words": [
+                        {
+                              "end": 34.765,
+                              "score": 0.327,
+                              "speaker": "SPEAKER_02",
+                              "start": 34.565,
+                              "word": "Thanks"
+                        },
+                        {
+                              "end": 34.945,
+                              "score": 0.354,
+                              "speaker": "SPEAKER_02",
+                              "start": 34.805,
+                              "word": "Jim."
+                        }
+                  ]
+            },
+            {
+                  "end": 39.701,
+                  "start": 38.24,
+                  "text": " Continental 101, cleared for takeoff.",
+                  "words": [
+                        {
+                              "end": 38.68,
+                              "score": 0.347,
+                              "start": 38.24,
+                              "word": "Continental"
+                        },
+                        {
+                              "word": "101,"
+                        },
+                        {
+                              "end": 39.0,
+                              "score": 0.363,
+                              "start": 38.72,
+                              "word": "cleared"
+                        },
+                        {
+                              "end": 39.18,
+                              "score": 0.46,
+                              "start": 39.02,
+                              "word": "for"
+                        },
+                        {
+                              "end": 39.701,
+                              "score": 0.553,
+                              "start": 39.22,
+                              "word": "takeoff."
+                        }
+                  ]
+            },
+            {
+                  "end": 43.122,
+                  "speaker": "SPEAKER_02",
+                  "start": 39.721,
+                  "text": "Continental 101, cleared for takeoff.",
+                  "words": [
+                        {
+                              "end": 41.802,
+                              "score": 0.697,
+                              "speaker": "SPEAKER_02",
+                              "start": 39.721,
+                              "word": "Continental"
+                        },
+                        {
+                              "word": "101,"
+                        },
+                        {
+                              "end": 42.342,
+                              "score": 0.327,
+                              "speaker": "SPEAKER_02",
+                              "start": 42.022,
+                              "word": "cleared"
+                        },
+                        {
+                              "end": 42.582,
+                              "score": 0.465,
+                              "speaker": "SPEAKER_02",
+                              "start": 42.422,
+                              "word": "for"
+                        },
+                        {
+                              "end": 43.122,
+                              "score": 0.393,
+                              "speaker": "SPEAKER_02",
+                              "start": 42.722,
+                              "word": "takeoff."
+                        }
+                  ]
+            },
+            {
+                  "end": 43.923,
+                  "speaker": "SPEAKER_00",
+                  "start": 43.182,
+                  "text": "Here we go.",
+                  "words": [
+                        {
+                              "end": 43.702,
+                              "score": 0.538,
+                              "speaker": "SPEAKER_00",
+                              "start": 43.182,
+                              "word": "Here"
+                        },
+                        {
+                              "end": 43.823,
+                              "score": 0.474,
+                              "speaker": "SPEAKER_00",
+                              "start": 43.742,
+                              "word": "we"
+                        },
+                        {
+                              "end": 43.923,
+                              "score": 0.37,
+                              "speaker": "SPEAKER_00",
+                              "start": 43.863,
+                              "word": "go."
+                        }
+                  ]
+            },
+            {
+                  "end": 47.944,
+                  "speaker": "SPEAKER_02",
+                  "start": 43.943,
+                  "text": "And we've got the lights.",
+                  "words": [
+                        {
+                              "end": 44.583,
+                              "score": 0.692,
+                              "speaker": "SPEAKER_00",
+                              "start": 43.943,
+                              "word": "And"
+                        },
+                        {
+                              "end": 47.264,
+                              "score": 0.745,
+                              "speaker": "SPEAKER_02",
+                              "start": 45.003,
+                              "word": "we've"
+                        },
+                        {
+                              "end": 47.464,
+                              "score": 0.537,
+                              "speaker": "SPEAKER_02",
+                              "start": 47.304,
+                              "word": "got"
+                        },
+                        {
+                              "end": 47.584,
+                              "score": 0.295,
+                              "speaker": "SPEAKER_02",
+                              "start": 47.504,
+                              "word": "the"
+                        },
+                        {
+                              "end": 47.944,
+                              "score": 0.588,
+                              "speaker": "SPEAKER_02",
+                              "start": 47.624,
+                              "word": "lights."
+                        }
+                  ]
+            },
+            {
+                  "end": 61.571,
+                  "speaker": "SPEAKER_02",
+                  "start": 60.97,
+                  "text": "Power set, 90%.",
+                  "words": [
+                        {
+                              "end": 61.27,
+                              "score": 0.615,
+                              "speaker": "SPEAKER_02",
+                              "start": 60.97,
+                              "word": "Power"
+                        },
+                        {
+                              "end": 61.571,
+                              "score": 0.707,
+                              "speaker": "SPEAKER_02",
+                              "start": 61.33,
+                              "word": "set,"
+                        },
+                        {
+                              "word": "90%."
+                        }
+                  ]
+            },
+            {
+                  "end": 101.632,
+                  "speaker": "SPEAKER_00",
+                  "start": 73.767,
+                  "text": " 100 knots V1, rotate Positive rate gear up, Jim Jim, call the tire and tell them we've had a fire warning here, we're going out straight ahead",
+                  "words": [
+                        {
+                              "word": "100"
+                        },
+                        {
+                              "end": 74.147,
+                              "score": 0.74,
+                              "speaker": "SPEAKER_02",
+                              "start": 73.787,
+                              "word": "knots"
+                        },
+                        {
+                              "end": 84.829,
+                              "score": 0.597,
+                              "speaker": "SPEAKER_02",
+                              "start": 84.449,
+                              "word": "V1,"
+                        },
+                        {
+                              "end": 85.469,
+                              "score": 0.427,
+                              "speaker": "SPEAKER_02",
+                              "start": 84.849,
+                              "word": "rotate"
+                        },
+                        {
+                              "end": 92.67,
+                              "score": 0.342,
+                              "speaker": "SPEAKER_00",
+                              "start": 92.25,
+                              "word": "Positive"
+                        },
+                        {
+                              "end": 92.93,
+                              "score": 0.528,
+                              "speaker": "SPEAKER_00",
+                              "start": 92.71,
+                              "word": "rate"
+                        },
+                        {
+                              "end": 93.09,
+                              "score": 0.356,
+                              "speaker": "SPEAKER_00",
+                              "start": 92.95,
+                              "word": "gear"
+                        },
+                        {
+                              "end": 93.23,
+                              "score": 0.547,
+                              "speaker": "SPEAKER_00",
+                              "start": 93.11,
+                              "word": "up,"
+                        },
+                        {
+                              "end": 93.491,
+                              "score": 0.608,
+                              "speaker": "SPEAKER_00",
+                              "start": 93.27,
+                              "word": "Jim"
+                        },
+                        {
+                              "end": 98.691,
+                              "score": 0.617,
+                              "speaker": "SPEAKER_00",
+                              "start": 98.451,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 98.911,
+                              "score": 0.746,
+                              "speaker": "SPEAKER_00",
+                              "start": 98.731,
+                              "word": "call"
+                        },
+                        {
+                              "end": 99.032,
+                              "score": 0.196,
+                              "speaker": "SPEAKER_00",
+                              "start": 98.931,
+                              "word": "the"
+                        },
+                        {
+                              "end": 99.252,
+                              "score": 0.46,
+                              "speaker": "SPEAKER_00",
+                              "start": 99.052,
+                              "word": "tire"
+                        },
+                        {
+                              "end": 99.372,
+                              "score": 0.39,
+                              "speaker": "SPEAKER_00",
+                              "start": 99.272,
+                              "word": "and"
+                        },
+                        {
+                              "end": 99.492,
+                              "score": 0.14,
+                              "speaker": "SPEAKER_00",
+                              "start": 99.412,
+                              "word": "tell"
+                        },
+                        {
+                              "end": 99.592,
+                              "score": 0.035,
+                              "speaker": "SPEAKER_00",
+                              "start": 99.512,
+                              "word": "them"
+                        },
+                        {
+                              "end": 99.712,
+                              "score": 0.039,
+                              "speaker": "SPEAKER_00",
+                              "start": 99.612,
+                              "word": "we've"
+                        },
+                        {
+                              "end": 99.932,
+                              "score": 0.712,
+                              "speaker": "SPEAKER_00",
+                              "start": 99.772,
+                              "word": "had"
+                        },
+                        {
+                              "end": 99.972,
+                              "score": 0.032,
+                              "speaker": "SPEAKER_00",
+                              "start": 99.952,
+                              "word": "a"
+                        },
+                        {
+                              "end": 100.192,
+                              "score": 0.59,
+                              "speaker": "SPEAKER_00",
+                              "start": 99.992,
+                              "word": "fire"
+                        },
+                        {
+                              "end": 100.532,
+                              "score": 0.338,
+                              "speaker": "SPEAKER_00",
+                              "start": 100.292,
+                              "word": "warning"
+                        },
+                        {
+                              "end": 100.672,
+                              "score": 0.332,
+                              "speaker": "SPEAKER_00",
+                              "start": 100.572,
+                              "word": "here,"
+                        },
+                        {
+                              "end": 100.832,
+                              "score": 0.486,
+                              "speaker": "SPEAKER_00",
+                              "start": 100.712,
+                              "word": "we're"
+                        },
+                        {
+                              "end": 101.012,
+                              "score": 0.764,
+                              "speaker": "SPEAKER_00",
+                              "start": 100.872,
+                              "word": "going"
+                        },
+                        {
+                              "end": 101.152,
+                              "score": 0.796,
+                              "speaker": "SPEAKER_00",
+                              "start": 101.052,
+                              "word": "out"
+                        },
+                        {
+                              "end": 101.432,
+                              "score": 0.779,
+                              "speaker": "SPEAKER_00",
+                              "start": 101.192,
+                              "word": "straight"
+                        },
+                        {
+                              "end": 101.632,
+                              "score": 0.718,
+                              "speaker": "SPEAKER_00",
+                              "start": 101.472,
+                              "word": "ahead"
+                        }
+                  ]
+            },
+            {
+                  "end": 105.443,
+                  "speaker": "SPEAKER_02",
+                  "start": 104.323,
+                  "text": " Jim, heading select.",
+                  "words": [
+                        {
+                              "end": 104.563,
+                              "score": 0.683,
+                              "speaker": "SPEAKER_00",
+                              "start": 104.323,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 104.843,
+                              "score": 0.401,
+                              "speaker": "SPEAKER_00",
+                              "start": 104.603,
+                              "word": "heading"
+                        },
+                        {
+                              "end": 105.443,
+                              "score": 0.49,
+                              "speaker": "SPEAKER_02",
+                              "start": 104.883,
+                              "word": "select."
+                        }
+                  ]
+            },
+            {
+                  "end": 110.946,
+                  "speaker": "SPEAKER_02",
+                  "start": 105.523,
+                  "text": "Continental 101 has had a fire indication like to proceed straight ahead.",
+                  "words": [
+                        {
+                              "end": 107.624,
+                              "score": 0.706,
+                              "speaker": "SPEAKER_02",
+                              "start": 105.523,
+                              "word": "Continental"
+                        },
+                        {
+                              "word": "101"
+                        },
+                        {
+                              "end": 108.385,
+                              "score": 0.536,
+                              "speaker": "SPEAKER_02",
+                              "start": 107.805,
+                              "word": "has"
+                        },
+                        {
+                              "end": 108.685,
+                              "score": 0.744,
+                              "speaker": "SPEAKER_02",
+                              "start": 108.465,
+                              "word": "had"
+                        },
+                        {
+                              "end": 108.885,
+                              "score": 0.625,
+                              "speaker": "SPEAKER_02",
+                              "start": 108.745,
+                              "word": "a"
+                        },
+                        {
+                              "end": 109.265,
+                              "score": 0.722,
+                              "speaker": "SPEAKER_02",
+                              "start": 108.945,
+                              "word": "fire"
+                        },
+                        {
+                              "end": 109.686,
+                              "score": 0.237,
+                              "speaker": "SPEAKER_02",
+                              "start": 109.325,
+                              "word": "indication"
+                        },
+                        {
+                              "end": 109.866,
+                              "score": 0.849,
+                              "speaker": "SPEAKER_02",
+                              "start": 109.726,
+                              "word": "like"
+                        },
+                        {
+                              "end": 109.966,
+                              "score": 0.399,
+                              "speaker": "SPEAKER_02",
+                              "start": 109.886,
+                              "word": "to"
+                        },
+                        {
+                              "end": 110.366,
+                              "score": 0.336,
+                              "speaker": "SPEAKER_02",
+                              "start": 110.006,
+                              "word": "proceed"
+                        },
+                        {
+                              "end": 110.646,
+                              "score": 0.392,
+                              "speaker": "SPEAKER_02",
+                              "start": 110.386,
+                              "word": "straight"
+                        },
+                        {
+                              "end": 110.946,
+                              "score": 0.53,
+                              "speaker": "SPEAKER_02",
+                              "start": 110.666,
+                              "word": "ahead."
+                        }
+                  ]
+            },
+            {
+                  "end": 113.288,
+                  "speaker": "SPEAKER_02",
+                  "start": 111.647,
+                  "text": "Jim, heading select.",
+                  "words": [
+                        {
+                              "end": 112.007,
+                              "score": 0.432,
+                              "speaker": "SPEAKER_02",
+                              "start": 111.647,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 112.627,
+                              "score": 0.518,
+                              "speaker": "SPEAKER_02",
+                              "start": 112.047,
+                              "word": "heading"
+                        },
+                        {
+                              "end": 113.288,
+                              "score": 0.6,
+                              "speaker": "SPEAKER_02",
+                              "start": 112.647,
+                              "word": "select."
+                        }
+                  ]
+            },
+            {
+                  "end": 115.089,
+                  "speaker": "SPEAKER_02",
+                  "start": 113.308,
+                  "text": "Continental 101, stay with me.",
+                  "words": [
+                        {
+                              "end": 114.288,
+                              "score": 0.51,
+                              "speaker": "SPEAKER_02",
+                              "start": 113.308,
+                              "word": "Continental"
+                        },
+                        {
+                              "word": "101,"
+                        },
+                        {
+                              "end": 114.629,
+                              "score": 0.444,
+                              "speaker": "SPEAKER_02",
+                              "start": 114.388,
+                              "word": "stay"
+                        },
+                        {
+                              "end": 114.969,
+                              "score": 0.35,
+                              "speaker": "SPEAKER_02",
+                              "start": 114.669,
+                              "word": "with"
+                        },
+                        {
+                              "end": 115.089,
+                              "score": 0.504,
+                              "speaker": "SPEAKER_02",
+                              "start": 114.989,
+                              "word": "me."
+                        }
+                  ]
+            },
+            {
+                  "end": 117.951,
+                  "speaker": "SPEAKER_00",
+                  "start": 115.109,
+                  "text": "We're heading up to 2000 feet.",
+                  "words": [
+                        {
+                              "end": 115.529,
+                              "score": 0.612,
+                              "speaker": "SPEAKER_02",
+                              "start": 115.109,
+                              "word": "We're"
+                        },
+                        {
+                              "end": 116.39,
+                              "score": 0.551,
+                              "speaker": "SPEAKER_00",
+                              "start": 115.629,
+                              "word": "heading"
+                        },
+                        {
+                              "end": 116.55,
+                              "score": 0.484,
+                              "speaker": "SPEAKER_00",
+                              "start": 116.47,
+                              "word": "up"
+                        },
+                        {
+                              "end": 116.79,
+                              "score": 0.566,
+                              "speaker": "SPEAKER_00",
+                              "start": 116.59,
+                              "word": "to"
+                        },
+                        {
+                              "word": "2000"
+                        },
+                        {
+                              "end": 117.951,
+                              "score": 0.652,
+                              "speaker": "SPEAKER_00",
+                              "start": 116.85,
+                              "word": "feet."
+                        }
+                  ]
+            },
+            {
+                  "end": 121.273,
+                  "speaker": "SPEAKER_00",
+                  "start": 118.231,
+                  "text": "Jim, get that engine failure checklist out, Jim.",
+                  "words": [
+                        {
+                              "end": 118.431,
+                              "score": 0.502,
+                              "speaker": "SPEAKER_00",
+                              "start": 118.231,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 119.251,
+                              "score": 0.565,
+                              "speaker": "SPEAKER_00",
+                              "start": 119.111,
+                              "word": "get"
+                        },
+                        {
+                              "end": 119.472,
+                              "score": 0.88,
+                              "speaker": "SPEAKER_00",
+                              "start": 119.291,
+                              "word": "that"
+                        },
+                        {
+                              "end": 120.092,
+                              "score": 0.27,
+                              "speaker": "SPEAKER_00",
+                              "start": 119.772,
+                              "word": "engine"
+                        },
+                        {
+                              "end": 120.332,
+                              "score": 0.195,
+                              "speaker": "SPEAKER_00",
+                              "start": 120.112,
+                              "word": "failure"
+                        },
+                        {
+                              "end": 120.752,
+                              "score": 0.461,
+                              "speaker": "SPEAKER_00",
+                              "start": 120.372,
+                              "word": "checklist"
+                        },
+                        {
+                              "end": 120.992,
+                              "score": 0.731,
+                              "speaker": "SPEAKER_00",
+                              "start": 120.852,
+                              "word": "out,"
+                        },
+                        {
+                              "end": 121.273,
+                              "score": 0.921,
+                              "speaker": "SPEAKER_00",
+                              "start": 121.032,
+                              "word": "Jim."
+                        }
+                  ]
+            },
+            {
+                  "end": 124.014,
+                  "speaker": "SPEAKER_00",
+                  "start": 123.074,
+                  "text": "Jim, set talk bug.",
+                  "words": [
+                        {
+                              "end": 123.314,
+                              "score": 0.712,
+                              "speaker": "SPEAKER_00",
+                              "start": 123.074,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 123.534,
+                              "score": 0.815,
+                              "speaker": "SPEAKER_00",
+                              "start": 123.334,
+                              "word": "set"
+                        },
+                        {
+                              "end": 123.794,
+                              "score": 0.866,
+                              "speaker": "SPEAKER_00",
+                              "start": 123.574,
+                              "word": "talk"
+                        },
+                        {
+                              "end": 124.014,
+                              "score": 0.558,
+                              "speaker": "SPEAKER_00",
+                              "start": 123.834,
+                              "word": "bug."
+                        }
+                  ]
+            },
+            {
+                  "end": 129.117,
+                  "speaker": "SPEAKER_00",
+                  "start": 124.034,
+                  "text": "Jim, flaps five, please.",
+                  "words": [
+                        {
+                              "end": 124.094,
+                              "score": 0.081,
+                              "speaker": "SPEAKER_00",
+                              "start": 124.034,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 128.597,
+                              "score": 0.151,
+                              "speaker": "SPEAKER_00",
+                              "start": 128.457,
+                              "word": "flaps"
+                        },
+                        {
+                              "end": 128.877,
+                              "score": 0.63,
+                              "speaker": "SPEAKER_00",
+                              "start": 128.617,
+                              "word": "five,"
+                        },
+                        {
+                              "end": 129.117,
+                              "score": 0.402,
+                              "speaker": "SPEAKER_00",
+                              "start": 128.897,
+                              "word": "please."
+                        }
+                  ]
+            },
+            {
+                  "end": 132.101,
+                  "speaker": "SPEAKER_02",
+                  "start": 131.38,
+                  "text": " Top bug set.",
+                  "words": [
+                        {
+                              "end": 131.56,
+                              "score": 0.662,
+                              "speaker": "SPEAKER_02",
+                              "start": 131.38,
+                              "word": "Top"
+                        },
+                        {
+                              "end": 131.82,
+                              "score": 0.687,
+                              "speaker": "SPEAKER_02",
+                              "start": 131.6,
+                              "word": "bug"
+                        },
+                        {
+                              "end": 132.101,
+                              "score": 0.712,
+                              "speaker": "SPEAKER_02",
+                              "start": 131.86,
+                              "word": "set."
+                        }
+                  ]
+            },
+            {
+                  "end": 133.982,
+                  "speaker": "SPEAKER_02",
+                  "start": 133.041,
+                  "text": "Flaps one.",
+                  "words": [
+                        {
+                              "end": 133.322,
+                              "score": 0.37,
+                              "speaker": "SPEAKER_02",
+                              "start": 133.041,
+                              "word": "Flaps"
+                        },
+                        {
+                              "end": 133.982,
+                              "score": 0.567,
+                              "speaker": "SPEAKER_00",
+                              "start": 133.862,
+                              "word": "one."
+                        }
+                  ]
+            },
+            {
+                  "end": 135.543,
+                  "speaker": "SPEAKER_00",
+                  "start": 134.142,
+                  "text": "Turn the auto throttles off, will you, Jim?",
+                  "words": [
+                        {
+                              "end": 134.282,
+                              "score": 0.542,
+                              "speaker": "SPEAKER_00",
+                              "start": 134.142,
+                              "word": "Turn"
+                        },
+                        {
+                              "end": 134.402,
+                              "score": 0.441,
+                              "speaker": "SPEAKER_00",
+                              "start": 134.322,
+                              "word": "the"
+                        },
+                        {
+                              "end": 134.643,
+                              "score": 0.334,
+                              "speaker": "SPEAKER_00",
+                              "start": 134.463,
+                              "word": "auto"
+                        },
+                        {
+                              "end": 134.963,
+                              "score": 0.371,
+                              "speaker": "SPEAKER_00",
+                              "start": 134.663,
+                              "word": "throttles"
+                        },
+                        {
+                              "end": 135.143,
+                              "score": 0.916,
+                              "speaker": "SPEAKER_00",
+                              "start": 135.023,
+                              "word": "off,"
+                        },
+                        {
+                              "end": 135.263,
+                              "score": 0.243,
+                              "speaker": "SPEAKER_00",
+                              "start": 135.183,
+                              "word": "will"
+                        },
+                        {
+                              "end": 135.343,
+                              "score": 0.002,
+                              "speaker": "SPEAKER_00",
+                              "start": 135.283,
+                              "word": "you,"
+                        },
+                        {
+                              "end": 135.543,
+                              "score": 0.822,
+                              "speaker": "SPEAKER_00",
+                              "start": 135.363,
+                              "word": "Jim?"
+                        }
+                  ]
+            },
+            {
+                  "end": 142.209,
+                  "speaker": "SPEAKER_00",
+                  "start": 138.646,
+                  "text": "Jim, can you call the company and tell them that we've lost an engine here and we're going to have to come back?",
+                  "words": [
+                        {
+                              "end": 138.886,
+                              "score": 0.58,
+                              "speaker": "SPEAKER_00",
+                              "start": 138.646,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 138.986,
+                              "score": 0.264,
+                              "speaker": "SPEAKER_00",
+                              "start": 138.906,
+                              "word": "can"
+                        },
+                        {
+                              "end": 139.126,
+                              "score": 0.608,
+                              "speaker": "SPEAKER_00",
+                              "start": 139.026,
+                              "word": "you"
+                        },
+                        {
+                              "end": 139.346,
+                              "score": 0.962,
+                              "speaker": "SPEAKER_00",
+                              "start": 139.166,
+                              "word": "call"
+                        },
+                        {
+                              "end": 139.447,
+                              "score": 0.173,
+                              "speaker": "SPEAKER_00",
+                              "start": 139.367,
+                              "word": "the"
+                        },
+                        {
+                              "end": 139.807,
+                              "score": 0.901,
+                              "speaker": "SPEAKER_00",
+                              "start": 139.487,
+                              "word": "company"
+                        },
+                        {
+                              "end": 139.927,
+                              "score": 0.322,
+                              "speaker": "SPEAKER_00",
+                              "start": 139.847,
+                              "word": "and"
+                        },
+                        {
+                              "end": 140.067,
+                              "score": 0.628,
+                              "speaker": "SPEAKER_00",
+                              "start": 139.947,
+                              "word": "tell"
+                        },
+                        {
+                              "end": 140.167,
+                              "score": 0.01,
+                              "speaker": "SPEAKER_00",
+                              "start": 140.087,
+                              "word": "them"
+                        },
+                        {
+                              "end": 140.327,
+                              "score": 0.251,
+                              "speaker": "SPEAKER_00",
+                              "start": 140.187,
+                              "word": "that"
+                        },
+                        {
+                              "end": 140.527,
+                              "score": 0.368,
+                              "speaker": "SPEAKER_00",
+                              "start": 140.347,
+                              "word": "we've"
+                        },
+                        {
+                              "end": 140.768,
+                              "score": 0.891,
+                              "speaker": "SPEAKER_00",
+                              "start": 140.567,
+                              "word": "lost"
+                        },
+                        {
+                              "end": 140.828,
+                              "score": 0.002,
+                              "speaker": "SPEAKER_00",
+                              "start": 140.788,
+                              "word": "an"
+                        },
+                        {
+                              "end": 140.968,
+                              "score": 0.048,
+                              "speaker": "SPEAKER_00",
+                              "start": 140.848,
+                              "word": "engine"
+                        },
+                        {
+                              "end": 141.068,
+                              "score": 0.102,
+                              "speaker": "SPEAKER_00",
+                              "start": 140.988,
+                              "word": "here"
+                        },
+                        {
+                              "end": 141.168,
+                              "score": 0.321,
+                              "speaker": "SPEAKER_00",
+                              "start": 141.088,
+                              "word": "and"
+                        },
+                        {
+                              "end": 141.328,
+                              "score": 0.326,
+                              "speaker": "SPEAKER_00",
+                              "start": 141.188,
+                              "word": "we're"
+                        },
+                        {
+                              "end": 141.468,
+                              "score": 0.283,
+                              "speaker": "SPEAKER_00",
+                              "start": 141.348,
+                              "word": "going"
+                        },
+                        {
+                              "end": 141.568,
+                              "score": 0.294,
+                              "speaker": "SPEAKER_00",
+                              "start": 141.488,
+                              "word": "to"
+                        },
+                        {
+                              "end": 141.728,
+                              "score": 0.78,
+                              "speaker": "SPEAKER_00",
+                              "start": 141.608,
+                              "word": "have"
+                        },
+                        {
+                              "end": 141.788,
+                              "score": 0.908,
+                              "speaker": "SPEAKER_00",
+                              "start": 141.748,
+                              "word": "to"
+                        },
+                        {
+                              "end": 141.969,
+                              "score": 0.974,
+                              "speaker": "SPEAKER_00",
+                              "start": 141.849,
+                              "word": "come"
+                        },
+                        {
+                              "end": 142.209,
+                              "score": 0.907,
+                              "speaker": "SPEAKER_00",
+                              "start": 142.009,
+                              "word": "back?"
+                        }
+                  ]
+            },
+            {
+                  "end": 144.29,
+                  "speaker": "SPEAKER_00",
+                  "start": 143.65,
+                  "text": "Oh, OK.",
+                  "words": [
+                        {
+                              "end": 143.79,
+                              "score": 0.572,
+                              "speaker": "SPEAKER_00",
+                              "start": 143.65,
+                              "word": "Oh,"
+                        },
+                        {
+                              "end": 144.29,
+                              "score": 0.746,
+                              "speaker": "SPEAKER_01",
+                              "start": 143.95,
+                              "word": "OK."
+                        }
+                  ]
+            },
+            {
+                  "end": 145.311,
+                  "speaker": "SPEAKER_00",
+                  "start": 144.571,
+                  "text": "Flaps up, Jim.",
+                  "words": [
+                        {
+                              "end": 144.851,
+                              "score": 0.773,
+                              "speaker": "SPEAKER_00",
+                              "start": 144.571,
+                              "word": "Flaps"
+                        },
+                        {
+                              "end": 145.051,
+                              "score": 0.678,
+                              "speaker": "SPEAKER_00",
+                              "start": 144.931,
+                              "word": "up,"
+                        },
+                        {
+                              "end": 145.311,
+                              "score": 0.811,
+                              "speaker": "SPEAKER_00",
+                              "start": 145.091,
+                              "word": "Jim."
+                        }
+                  ]
+            },
+            {
+                  "end": 150.676,
+                  "speaker": "SPEAKER_00",
+                  "start": 145.331,
+                  "text": "How's that checklist coming, Jim?",
+                  "words": [
+                        {
+                              "end": 149.595,
+                              "score": 0.579,
+                              "speaker": "SPEAKER_00",
+                              "start": 145.331,
+                              "word": "How's"
+                        },
+                        {
+                              "end": 149.755,
+                              "score": 0.29,
+                              "speaker": "SPEAKER_00",
+                              "start": 149.615,
+                              "word": "that"
+                        },
+                        {
+                              "end": 150.175,
+                              "score": 0.668,
+                              "speaker": "SPEAKER_00",
+                              "start": 149.795,
+                              "word": "checklist"
+                        },
+                        {
+                              "end": 150.455,
+                              "score": 0.483,
+                              "speaker": "SPEAKER_00",
+                              "start": 150.215,
+                              "word": "coming,"
+                        },
+                        {
+                              "end": 150.676,
+                              "score": 0.903,
+                              "speaker": "SPEAKER_00",
+                              "start": 150.476,
+                              "word": "Jim?"
+                        }
+                  ]
+            },
+            {
+                  "end": 158.302,
+                  "speaker": "SPEAKER_01",
+                  "start": 155.039,
+                  "text": "Engine failure, engine fire, severe damage checklist.",
+                  "words": [
+                        {
+                              "end": 155.64,
+                              "score": 0.622,
+                              "speaker": "SPEAKER_01",
+                              "start": 155.039,
+                              "word": "Engine"
+                        },
+                        {
+                              "end": 156.22,
+                              "score": 0.694,
+                              "speaker": "SPEAKER_01",
+                              "start": 155.7,
+                              "word": "failure,"
+                        },
+                        {
+                              "end": 156.741,
+                              "score": 0.431,
+                              "speaker": "SPEAKER_01",
+                              "start": 156.46,
+                              "word": "engine"
+                        },
+                        {
+                              "end": 157.281,
+                              "score": 0.858,
+                              "speaker": "SPEAKER_01",
+                              "start": 156.781,
+                              "word": "fire,"
+                        },
+                        {
+                              "end": 157.601,
+                              "score": 0.523,
+                              "speaker": "SPEAKER_01",
+                              "start": 157.301,
+                              "word": "severe"
+                        },
+                        {
+                              "end": 157.982,
+                              "score": 0.447,
+                              "speaker": "SPEAKER_01",
+                              "start": 157.621,
+                              "word": "damage"
+                        },
+                        {
+                              "end": 158.302,
+                              "score": 0.423,
+                              "speaker": "SPEAKER_01",
+                              "start": 158.042,
+                              "word": "checklist."
+                        }
+                  ]
+            },
+            {
+                  "end": 158.502,
+                  "speaker": "SPEAKER_01",
+                  "start": 158.322,
+                  "text": "Throttles.",
+                  "words": [
+                        {
+                              "end": 158.502,
+                              "score": 0.069,
+                              "speaker": "SPEAKER_01",
+                              "start": 158.322,
+                              "word": "Throttles."
+                        }
+                  ]
+            },
+            {
+                  "end": 160.764,
+                  "speaker": "SPEAKER_00",
+                  "start": 158.562,
+                  "text": "Could you tell the girls in the back we've lost an engine, Jim?",
+                  "words": [
+                        {
+                              "end": 158.722,
+                              "score": 0.265,
+                              "speaker": "SPEAKER_00",
+                              "start": 158.562,
+                              "word": "Could"
+                        },
+                        {
+                              "end": 158.902,
+                              "score": 0.32,
+                              "speaker": "SPEAKER_00",
+                              "start": 158.742,
+                              "word": "you"
+                        },
+                        {
+                              "end": 159.062,
+                              "score": 0.499,
+                              "speaker": "SPEAKER_00",
+                              "start": 158.922,
+                              "word": "tell"
+                        },
+                        {
+                              "end": 159.163,
+                              "score": 0.173,
+                              "speaker": "SPEAKER_00",
+                              "start": 159.082,
+                              "word": "the"
+                        },
+                        {
+                              "end": 159.423,
+                              "score": 0.853,
+                              "speaker": "SPEAKER_00",
+                              "start": 159.183,
+                              "word": "girls"
+                        },
+                        {
+                              "end": 159.483,
+                              "score": 0.003,
+                              "speaker": "SPEAKER_00",
+                              "start": 159.443,
+                              "word": "in"
+                        },
+                        {
+                              "end": 159.583,
+                              "score": 0.828,
+                              "speaker": "SPEAKER_00",
+                              "start": 159.503,
+                              "word": "the"
+                        },
+                        {
+                              "end": 159.823,
+                              "score": 0.917,
+                              "speaker": "SPEAKER_00",
+                              "start": 159.623,
+                              "word": "back"
+                        },
+                        {
+                              "end": 160.003,
+                              "score": 0.571,
+                              "speaker": "SPEAKER_00",
+                              "start": 159.843,
+                              "word": "we've"
+                        },
+                        {
+                              "end": 160.223,
+                              "score": 0.886,
+                              "speaker": "SPEAKER_00",
+                              "start": 160.023,
+                              "word": "lost"
+                        },
+                        {
+                              "end": 160.303,
+                              "score": 0.202,
+                              "speaker": "SPEAKER_00",
+                              "start": 160.243,
+                              "word": "an"
+                        },
+                        {
+                              "end": 160.604,
+                              "score": 0.616,
+                              "speaker": "SPEAKER_00",
+                              "start": 160.343,
+                              "word": "engine,"
+                        },
+                        {
+                              "end": 160.764,
+                              "score": 0.971,
+                              "speaker": "SPEAKER_00",
+                              "start": 160.644,
+                              "word": "Jim?"
+                        }
+                  ]
+            },
+            {
+                  "end": 162.78,
+                  "speaker": "SPEAKER_00",
+                  "start": 161.92,
+                  "text": " We're going to have to return.",
+                  "words": [
+                        {
+                              "end": 162.04,
+                              "score": 0.145,
+                              "speaker": "SPEAKER_00",
+                              "start": 161.92,
+                              "word": "We're"
+                        },
+                        {
+                              "end": 162.2,
+                              "score": 0.127,
+                              "speaker": "SPEAKER_00",
+                              "start": 162.08,
+                              "word": "going"
+                        },
+                        {
+                              "end": 162.26,
+                              "score": 0.003,
+                              "speaker": "SPEAKER_00",
+                              "start": 162.22,
+                              "word": "to"
+                        },
+                        {
+                              "end": 162.38,
+                              "score": 0.2,
+                              "speaker": "SPEAKER_00",
+                              "start": 162.28,
+                              "word": "have"
+                        },
+                        {
+                              "end": 162.44,
+                              "score": 0.002,
+                              "speaker": "SPEAKER_00",
+                              "start": 162.4,
+                              "word": "to"
+                        },
+                        {
+                              "end": 162.78,
+                              "score": 0.95,
+                              "speaker": "SPEAKER_00",
+                              "start": 162.46,
+                              "word": "return."
+                        }
+                  ]
+            },
+            {
+                  "end": 170.384,
+                  "speaker": "SPEAKER_00",
+                  "start": 162.82,
+                  "text": "Can you give me an after takeoff checklist, Jim?",
+                  "words": [
+                        {
+                              "end": 162.9,
+                              "score": 0.029,
+                              "speaker": "SPEAKER_00",
+                              "start": 162.82,
+                              "word": "Can"
+                        },
+                        {
+                              "end": 168.583,
+                              "score": 0.353,
+                              "speaker": "SPEAKER_00",
+                              "start": 168.503,
+                              "word": "you"
+                        },
+                        {
+                              "end": 168.703,
+                              "score": 0.02,
+                              "speaker": "SPEAKER_00",
+                              "start": 168.623,
+                              "word": "give"
+                        },
+                        {
+                              "end": 168.864,
+                              "score": 0.508,
+                              "speaker": "SPEAKER_00",
+                              "start": 168.743,
+                              "word": "me"
+                        },
+                        {
+                              "end": 168.924,
+                              "score": 0.002,
+                              "speaker": "SPEAKER_00",
+                              "start": 168.884,
+                              "word": "an"
+                        },
+                        {
+                              "end": 169.184,
+                              "score": 0.471,
+                              "speaker": "SPEAKER_00",
+                              "start": 168.964,
+                              "word": "after"
+                        },
+                        {
+                              "end": 169.604,
+                              "score": 0.864,
+                              "speaker": "SPEAKER_00",
+                              "start": 169.204,
+                              "word": "takeoff"
+                        },
+                        {
+                              "end": 170.004,
+                              "score": 0.492,
+                              "speaker": "SPEAKER_00",
+                              "start": 169.624,
+                              "word": "checklist,"
+                        },
+                        {
+                              "end": 170.384,
+                              "score": 0.719,
+                              "speaker": "SPEAKER_00",
+                              "start": 170.044,
+                              "word": "Jim?"
+                        }
+                  ]
+            },
+            {
+                  "end": 172.485,
+                  "speaker": "SPEAKER_02",
+                  "start": 171.665,
+                  "text": "After takeoff?",
+                  "words": [
+                        {
+                              "end": 171.905,
+                              "score": 0.72,
+                              "speaker": "SPEAKER_02",
+                              "start": 171.665,
+                              "word": "After"
+                        },
+                        {
+                              "end": 172.485,
+                              "score": 0.882,
+                              "speaker": "SPEAKER_02",
+                              "start": 171.945,
+                              "word": "takeoff?"
+                        }
+                  ]
+            },
+            {
+                  "end": 181.19,
+                  "speaker": "SPEAKER_00",
+                  "start": 175.007,
+                  "text": "Jim, you can tell ATC we're ready to turn around and come on back in.",
+                  "words": [
+                        {
+                              "end": 175.167,
+                              "score": 0.501,
+                              "speaker": "SPEAKER_00",
+                              "start": 175.007,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 175.287,
+                              "score": 0.231,
+                              "speaker": "SPEAKER_00",
+                              "start": 175.207,
+                              "word": "you"
+                        },
+                        {
+                              "end": 175.447,
+                              "score": 0.354,
+                              "speaker": "SPEAKER_00",
+                              "start": 175.307,
+                              "word": "can"
+                        },
+                        {
+                              "end": 175.627,
+                              "score": 0.934,
+                              "speaker": "SPEAKER_00",
+                              "start": 175.467,
+                              "word": "tell"
+                        },
+                        {
+                              "end": 176.127,
+                              "score": 0.624,
+                              "speaker": "SPEAKER_00",
+                              "start": 175.687,
+                              "word": "ATC"
+                        },
+                        {
+                              "end": 176.327,
+                              "score": 0.54,
+                              "speaker": "SPEAKER_00",
+                              "start": 176.167,
+                              "word": "we're"
+                        },
+                        {
+                              "end": 176.447,
+                              "score": 0.046,
+                              "speaker": "SPEAKER_00",
+                              "start": 176.347,
+                              "word": "ready"
+                        },
+                        {
+                              "end": 176.567,
+                              "score": 0.604,
+                              "speaker": "SPEAKER_00",
+                              "start": 176.467,
+                              "word": "to"
+                        },
+                        {
+                              "end": 176.788,
+                              "score": 0.757,
+                              "speaker": "SPEAKER_00",
+                              "start": 176.587,
+                              "word": "turn"
+                        },
+                        {
+                              "end": 177.008,
+                              "score": 0.36,
+                              "speaker": "SPEAKER_00",
+                              "start": 176.808,
+                              "word": "around"
+                        },
+                        {
+                              "end": 177.228,
+                              "score": 0.384,
+                              "speaker": "SPEAKER_00",
+                              "start": 177.128,
+                              "word": "and"
+                        },
+                        {
+                              "end": 177.428,
+                              "score": 0.321,
+                              "speaker": "SPEAKER_00",
+                              "start": 177.268,
+                              "word": "come"
+                        },
+                        {
+                              "end": 177.668,
+                              "score": 0.51,
+                              "speaker": "SPEAKER_00",
+                              "start": 177.548,
+                              "word": "on"
+                        },
+                        {
+                              "end": 181.05,
+                              "score": 0.323,
+                              "speaker": "SPEAKER_02",
+                              "start": 180.89,
+                              "word": "back"
+                        },
+                        {
+                              "end": 181.19,
+                              "score": 0.442,
+                              "speaker": "SPEAKER_02",
+                              "start": 181.13,
+                              "word": "in."
+                        }
+                  ]
+            },
+            {
+                  "end": 185.952,
+                  "speaker": "SPEAKER_02",
+                  "start": 181.21,
+                  "text": "Houston, Continental 101 is requesting a turn to downwind.",
+                  "words": [
+                        {
+                              "end": 181.47,
+                              "score": 0.179,
+                              "speaker": "SPEAKER_02",
+                              "start": 181.21,
+                              "word": "Houston,"
+                        },
+                        {
+                              "end": 183.171,
+                              "score": 0.668,
+                              "speaker": "SPEAKER_02",
+                              "start": 181.51,
+                              "word": "Continental"
+                        },
+                        {
+                              "word": "101"
+                        },
+                        {
+                              "end": 183.511,
+                              "score": 0.817,
+                              "speaker": "SPEAKER_02",
+                              "start": 183.351,
+                              "word": "is"
+                        },
+                        {
+                              "end": 184.431,
+                              "score": 0.522,
+                              "speaker": "SPEAKER_02",
+                              "start": 183.911,
+                              "word": "requesting"
+                        },
+                        {
+                              "end": 184.952,
+                              "score": 0.649,
+                              "speaker": "SPEAKER_02",
+                              "start": 184.832,
+                              "word": "a"
+                        },
+                        {
+                              "end": 185.252,
+                              "score": 0.612,
+                              "speaker": "SPEAKER_02",
+                              "start": 185.032,
+                              "word": "turn"
+                        },
+                        {
+                              "end": 185.412,
+                              "score": 0.414,
+                              "speaker": "SPEAKER_02",
+                              "start": 185.292,
+                              "word": "to"
+                        },
+                        {
+                              "end": 185.952,
+                              "score": 0.634,
+                              "speaker": "SPEAKER_02",
+                              "start": 185.432,
+                              "word": "downwind."
+                        }
+                  ]
+            },
+            {
+                  "end": 187.413,
+                  "speaker": "SPEAKER_02",
+                  "start": 186.092,
+                  "text": "We'd like to come back around.",
+                  "words": [
+                        {
+                              "end": 186.292,
+                              "score": 0.395,
+                              "speaker": "SPEAKER_02",
+                              "start": 186.092,
+                              "word": "We'd"
+                        },
+                        {
+                              "end": 186.472,
+                              "score": 0.403,
+                              "speaker": "SPEAKER_02",
+                              "start": 186.332,
+                              "word": "like"
+                        },
+                        {
+                              "end": 186.613,
+                              "score": 0.598,
+                              "speaker": "SPEAKER_02",
+                              "start": 186.492,
+                              "word": "to"
+                        },
+                        {
+                              "end": 186.773,
+                              "score": 0.302,
+                              "speaker": "SPEAKER_02",
+                              "start": 186.653,
+                              "word": "come"
+                        },
+                        {
+                              "end": 187.013,
+                              "score": 0.867,
+                              "speaker": "SPEAKER_02",
+                              "start": 186.813,
+                              "word": "back"
+                        },
+                        {
+                              "end": 187.413,
+                              "score": 0.601,
+                              "speaker": "SPEAKER_02",
+                              "start": 187.033,
+                              "word": "around."
+                        }
+                  ]
+            },
+            {
+                  "end": 188.974,
+                  "speaker": "SPEAKER_02",
+                  "start": 187.453,
+                  "text": "We've got an engine fire indication.",
+                  "words": [
+                        {
+                              "end": 187.593,
+                              "score": 0.323,
+                              "speaker": "SPEAKER_02",
+                              "start": 187.453,
+                              "word": "We've"
+                        },
+                        {
+                              "end": 187.793,
+                              "score": 0.618,
+                              "speaker": "SPEAKER_02",
+                              "start": 187.613,
+                              "word": "got"
+                        },
+                        {
+                              "end": 187.953,
+                              "score": 0.713,
+                              "speaker": "SPEAKER_02",
+                              "start": 187.873,
+                              "word": "an"
+                        },
+                        {
+                              "end": 188.133,
+                              "score": 0.161,
+                              "speaker": "SPEAKER_02",
+                              "start": 187.973,
+                              "word": "engine"
+                        },
+                        {
+                              "end": 188.413,
+                              "score": 0.634,
+                              "speaker": "SPEAKER_02",
+                              "start": 188.173,
+                              "word": "fire"
+                        },
+                        {
+                              "end": 188.974,
+                              "score": 0.626,
+                              "speaker": "SPEAKER_02",
+                              "start": 188.453,
+                              "word": "indication."
+                        }
+                  ]
+            },
+            {
+                  "end": 193.265,
+                  "speaker": "SPEAKER_02",
+                  "start": 189.941,
+                  "text": " Jim, I know you're kind of busy, but I'm real busy over here too.",
+                  "words": [
+                        {
+                              "end": 190.101,
+                              "score": 0.469,
+                              "speaker": "SPEAKER_02",
+                              "start": 189.941,
+                              "word": "Jim,"
+                        },
+                        {
+                              "end": 190.302,
+                              "score": 0.62,
+                              "speaker": "SPEAKER_02",
+                              "start": 190.201,
+                              "word": "I"
+                        },
+                        {
+                              "end": 190.482,
+                              "score": 0.289,
+                              "speaker": "SPEAKER_02",
+                              "start": 190.322,
+                              "word": "know"
+                        },
+                        {
+                              "end": 190.742,
+                              "score": 0.226,
+                              "speaker": "SPEAKER_02",
+                              "start": 190.502,
+                              "word": "you're"
+                        },
+                        {
+                              "end": 190.982,
+                              "score": 0.23,
+                              "speaker": "SPEAKER_02",
+                              "start": 190.862,
+                              "word": "kind"
+                        },
+                        {
+                              "end": 191.202,
+                              "score": 0.534,
+                              "speaker": "SPEAKER_02",
+                              "start": 191.082,
+                              "word": "of"
+                        },
+                        {
+                              "end": 191.343,
+                              "score": 0.113,
+                              "speaker": "SPEAKER_02",
+                              "start": 191.243,
+                              "word": "busy,"
+                        },
+                        {
+                              "end": 191.503,
+                              "score": 0.364,
+                              "speaker": "SPEAKER_02",
+                              "start": 191.383,
+                              "word": "but"
+                        },
+                        {
+                              "end": 191.723,
+                              "score": 0.208,
+                              "speaker": "SPEAKER_02",
+                              "start": 191.623,
+                              "word": "I'm"
+                        },
+                        {
+                              "end": 191.903,
+                              "score": 0.366,
+                              "speaker": "SPEAKER_02",
+                              "start": 191.763,
+                              "word": "real"
+                        },
+                        {
+                              "end": 192.143,
+                              "score": 0.32,
+                              "speaker": "SPEAKER_02",
+                              "start": 191.943,
+                              "word": "busy"
+                        },
+                        {
+                              "end": 192.404,
+                              "score": 0.376,
+                              "speaker": "SPEAKER_02",
+                              "start": 192.244,
+                              "word": "over"
+                        },
+                        {
+                              "end": 192.664,
+                              "score": 0.466,
+                              "speaker": "SPEAKER_02",
+                              "start": 192.424,
+                              "word": "here"
+                        },
+                        {
+                              "end": 193.265,
+                              "score": 0.079,
+                              "start": 193.205,
+                              "word": "too."
+                        }
+                  ]
+            }
+      ],
+      "word_segments": [
+            {
+                  "end": 7.498,
+                  "score": 0.911,
+                  "speaker": "SPEAKER_02",
+                  "start": 7.278,
+                  "word": "9-9-101"
+            },
+            {
+                  "end": 8.058,
+                  "score": 0.473,
+                  "speaker": "SPEAKER_02",
+                  "start": 7.518,
+                  "word": "taxi"
+            },
+            {
+                  "end": 8.278,
+                  "score": 0.692,
+                  "speaker": "SPEAKER_02",
+                  "start": 8.098,
+                  "word": "to"
+            },
+            {
+                  "end": 9.098,
+                  "score": 0.467,
+                  "speaker": "SPEAKER_02",
+                  "start": 8.318,
+                  "word": "position"
+            },
+            {
+                  "end": 10.979,
+                  "score": 0.434,
+                  "speaker": "SPEAKER_02",
+                  "start": 10.839,
+                  "word": "hold."
+            },
+            {
+                  "end": 11.379,
+                  "score": 0.728,
+                  "speaker": "SPEAKER_02",
+                  "start": 10.999,
+                  "word": "9-9-101"
+            },
+            {
+                  "end": 12.059,
+                  "score": 0.649,
+                  "speaker": "SPEAKER_02",
+                  "start": 11.399,
+                  "word": "position"
+            },
+            {
+                  "end": 12.339,
+                  "score": 0.593,
+                  "speaker": "SPEAKER_02",
+                  "start": 12.119,
+                  "word": "hold."
+            },
+            {
+                  "end": 13.32,
+                  "score": 0.669,
+                  "speaker": "SPEAKER_02",
+                  "start": 12.999,
+                  "word": "Before"
+            },
+            {
+                  "end": 13.74,
+                  "score": 0.625,
+                  "speaker": "SPEAKER_02",
+                  "start": 13.36,
+                  "word": "takeoff"
+            },
+            {
+                  "end": 14.14,
+                  "score": 0.379,
+                  "speaker": "SPEAKER_02",
+                  "start": 13.78,
+                  "word": "checklist."
+            },
+            {
+                  "end": 15.78,
+                  "score": 0.744,
+                  "speaker": "SPEAKER_02",
+                  "start": 15.42,
+                  "word": "Before"
+            },
+            {
+                  "end": 16.32,
+                  "score": 0.642,
+                  "speaker": "SPEAKER_02",
+                  "start": 15.82,
+                  "word": "takeoff"
+            },
+            {
+                  "end": 16.92,
+                  "score": 0.483,
+                  "speaker": "SPEAKER_02",
+                  "start": 16.38,
+                  "word": "checklist."
+            },
+            {
+                  "end": 19.261,
+                  "score": 0.542,
+                  "speaker": "SPEAKER_02",
+                  "start": 18.921,
+                  "word": "Takeoff"
+            },
+            {
+                  "end": 19.681,
+                  "score": 0.248,
+                  "speaker": "SPEAKER_02",
+                  "start": 19.301,
+                  "word": "announcement"
+            },
+            {
+                  "end": 19.901,
+                  "score": 0.798,
+                  "speaker": "SPEAKER_02",
+                  "start": 19.701,
+                  "word": "has"
+            },
+            {
+                  "end": 20.101,
+                  "score": 0.346,
+                  "speaker": "SPEAKER_02",
+                  "start": 19.921,
+                  "word": "been"
+            },
+            {
+                  "end": 20.501,
+                  "score": 0.349,
+                  "speaker": "SPEAKER_02",
+                  "start": 20.121,
+                  "word": "completed."
+            },
+            {
+                  "end": 20.641,
+                  "score": 0.195,
+                  "speaker": "SPEAKER_02",
+                  "start": 20.581,
+                  "word": "Air"
+            },
+            {
+                  "end": 21.081,
+                  "score": 0.231,
+                  "speaker": "SPEAKER_02",
+                  "start": 20.661,
+                  "word": "conditioning"
+            },
+            {
+                  "end": 21.161,
+                  "score": 0.007,
+                  "speaker": "SPEAKER_02",
+                  "start": 21.101,
+                  "word": "and"
+            },
+            {
+                  "end": 21.482,
+                  "score": 0.43,
+                  "speaker": "SPEAKER_02",
+                  "start": 21.221,
+                  "word": "bleeds"
+            },
+            {
+                  "end": 21.662,
+                  "score": 0.435,
+                  "speaker": "SPEAKER_02",
+                  "start": 21.562,
+                  "word": "are"
+            },
+            {
+                  "end": 22.122,
+                  "score": 0.708,
+                  "speaker": "SPEAKER_02",
+                  "start": 21.822,
+                  "word": "set."
+            },
+            {
+                  "end": 23.342,
+                  "score": 0.741,
+                  "speaker": "SPEAKER_02",
+                  "start": 23.022,
+                  "word": "Start"
+            },
+            {
+                  "end": 23.762,
+                  "score": 0.453,
+                  "speaker": "SPEAKER_02",
+                  "start": 23.362,
+                  "word": "switches"
+            },
+            {
+                  "end": 23.962,
+                  "score": 0.336,
+                  "speaker": "SPEAKER_02",
+                  "start": 23.842,
+                  "word": "are"
+            },
+            {
+                  "end": 24.662,
+                  "score": 0.684,
+                  "speaker": "SPEAKER_02",
+                  "start": 23.982,
+                  "word": "continuous."
+            },
+            {
+                  "end": 27.103,
+                  "score": 0.5,
+                  "speaker": "SPEAKER_02",
+                  "start": 26.903,
+                  "word": "Auto"
+            },
+            {
+                  "end": 27.383,
+                  "score": 0.312,
+                  "speaker": "SPEAKER_02",
+                  "start": 27.143,
+                  "word": "throttle"
+            },
+            {
+                  "end": 27.483,
+                  "score": 0.47,
+                  "speaker": "SPEAKER_02",
+                  "start": 27.403,
+                  "word": "is"
+            },
+            {
+                  "end": 27.883,
+                  "score": 0.662,
+                  "speaker": "SPEAKER_02",
+                  "start": 27.663,
+                  "word": "armed."
+            },
+            {
+                  "end": 30.024,
+                  "score": 0.547,
+                  "speaker": "SPEAKER_02",
+                  "start": 29.324,
+                  "word": "Transponder"
+            },
+            {
+                  "end": 30.264,
+                  "score": 0.607,
+                  "speaker": "SPEAKER_02",
+                  "start": 30.144,
+                  "word": "is"
+            },
+            {
+                  "end": 30.364,
+                  "score": 0.248,
+                  "speaker": "SPEAKER_02",
+                  "start": 30.304,
+                  "word": "on"
+            },
+            {
+                  "end": 30.784,
+                  "score": 0.603,
+                  "speaker": "SPEAKER_02",
+                  "start": 30.464,
+                  "word": "and"
+            },
+            {
+                  "end": 31.024,
+                  "score": 0.44,
+                  "speaker": "SPEAKER_02",
+                  "start": 30.804,
+                  "word": "the"
+            },
+            {
+                  "end": 31.284,
+                  "score": 0.343,
+                  "speaker": "SPEAKER_02",
+                  "start": 31.064,
+                  "word": "lights"
+            },
+            {
+                  "end": 31.464,
+                  "score": 0.302,
+                  "speaker": "SPEAKER_02",
+                  "start": 31.384,
+                  "word": "and"
+            },
+            {
+                  "end": 31.844,
+                  "score": 0.559,
+                  "speaker": "SPEAKER_02",
+                  "start": 31.504,
+                  "word": "strobes"
+            },
+            {
+                  "end": 32.044,
+                  "score": 0.43,
+                  "speaker": "SPEAKER_02",
+                  "start": 31.944,
+                  "word": "are"
+            },
+            {
+                  "end": 32.304,
+                  "score": 0.692,
+                  "speaker": "SPEAKER_02",
+                  "start": 32.164,
+                  "word": "on."
+            },
+            {
+                  "end": 32.384,
+                  "score": 0.074,
+                  "speaker": "SPEAKER_02",
+                  "start": 32.324,
+                  "word": "The"
+            },
+            {
+                  "end": 32.784,
+                  "score": 0.618,
+                  "speaker": "SPEAKER_02",
+                  "start": 32.424,
+                  "word": "before"
+            },
+            {
+                  "end": 33.184,
+                  "score": 0.539,
+                  "speaker": "SPEAKER_02",
+                  "start": 32.804,
+                  "word": "takeoff"
+            },
+            {
+                  "end": 33.625,
+                  "score": 0.422,
+                  "speaker": "SPEAKER_02",
+                  "start": 33.204,
+                  "word": "checklist"
+            },
+            {
+                  "end": 33.785,
+                  "score": 0.409,
+                  "speaker": "SPEAKER_02",
+                  "start": 33.725,
+                  "word": "is"
+            },
+            {
+                  "end": 34.245,
+                  "score": 0.563,
+                  "speaker": "SPEAKER_02",
+                  "start": 33.805,
+                  "word": "complete."
+            },
+            {
+                  "end": 34.765,
+                  "score": 0.327,
+                  "speaker": "SPEAKER_02",
+                  "start": 34.565,
+                  "word": "Thanks"
+            },
+            {
+                  "end": 34.945,
+                  "score": 0.354,
+                  "speaker": "SPEAKER_02",
+                  "start": 34.805,
+                  "word": "Jim."
+            },
+            {
+                  "end": 38.68,
+                  "score": 0.347,
+                  "start": 38.24,
+                  "word": "Continental"
+            },
+            {
+                  "word": "101,"
+            },
+            {
+                  "end": 39.0,
+                  "score": 0.363,
+                  "start": 38.72,
+                  "word": "cleared"
+            },
+            {
+                  "end": 39.18,
+                  "score": 0.46,
+                  "start": 39.02,
+                  "word": "for"
+            },
+            {
+                  "end": 39.701,
+                  "score": 0.553,
+                  "start": 39.22,
+                  "word": "takeoff."
+            },
+            {
+                  "end": 41.802,
+                  "score": 0.697,
+                  "speaker": "SPEAKER_02",
+                  "start": 39.721,
+                  "word": "Continental"
+            },
+            {
+                  "word": "101,"
+            },
+            {
+                  "end": 42.342,
+                  "score": 0.327,
+                  "speaker": "SPEAKER_02",
+                  "start": 42.022,
+                  "word": "cleared"
+            },
+            {
+                  "end": 42.582,
+                  "score": 0.465,
+                  "speaker": "SPEAKER_02",
+                  "start": 42.422,
+                  "word": "for"
+            },
+            {
+                  "end": 43.122,
+                  "score": 0.393,
+                  "speaker": "SPEAKER_02",
+                  "start": 42.722,
+                  "word": "takeoff."
+            },
+            {
+                  "end": 43.702,
+                  "score": 0.538,
+                  "speaker": "SPEAKER_00",
+                  "start": 43.182,
+                  "word": "Here"
+            },
+            {
+                  "end": 43.823,
+                  "score": 0.474,
+                  "speaker": "SPEAKER_00",
+                  "start": 43.742,
+                  "word": "we"
+            },
+            {
+                  "end": 43.923,
+                  "score": 0.37,
+                  "speaker": "SPEAKER_00",
+                  "start": 43.863,
+                  "word": "go."
+            },
+            {
+                  "end": 44.583,
+                  "score": 0.692,
+                  "speaker": "SPEAKER_00",
+                  "start": 43.943,
+                  "word": "And"
+            },
+            {
+                  "end": 47.264,
+                  "score": 0.745,
+                  "speaker": "SPEAKER_02",
+                  "start": 45.003,
+                  "word": "we've"
+            },
+            {
+                  "end": 47.464,
+                  "score": 0.537,
+                  "speaker": "SPEAKER_02",
+                  "start": 47.304,
+                  "word": "got"
+            },
+            {
+                  "end": 47.584,
+                  "score": 0.295,
+                  "speaker": "SPEAKER_02",
+                  "start": 47.504,
+                  "word": "the"
+            },
+            {
+                  "end": 47.944,
+                  "score": 0.588,
+                  "speaker": "SPEAKER_02",
+                  "start": 47.624,
+                  "word": "lights."
+            },
+            {
+                  "end": 61.27,
+                  "score": 0.615,
+                  "speaker": "SPEAKER_02",
+                  "start": 60.97,
+                  "word": "Power"
+            },
+            {
+                  "end": 61.571,
+                  "score": 0.707,
+                  "speaker": "SPEAKER_02",
+                  "start": 61.33,
+                  "word": "set,"
+            },
+            {
+                  "word": "90%."
+            },
+            {
+                  "word": "100"
+            },
+            {
+                  "end": 74.147,
+                  "score": 0.74,
+                  "speaker": "SPEAKER_02",
+                  "start": 73.787,
+                  "word": "knots"
+            },
+            {
+                  "end": 84.829,
+                  "score": 0.597,
+                  "speaker": "SPEAKER_02",
+                  "start": 84.449,
+                  "word": "V1,"
+            },
+            {
+                  "end": 85.469,
+                  "score": 0.427,
+                  "speaker": "SPEAKER_02",
+                  "start": 84.849,
+                  "word": "rotate"
+            },
+            {
+                  "end": 92.67,
+                  "score": 0.342,
+                  "speaker": "SPEAKER_00",
+                  "start": 92.25,
+                  "word": "Positive"
+            },
+            {
+                  "end": 92.93,
+                  "score": 0.528,
+                  "speaker": "SPEAKER_00",
+                  "start": 92.71,
+                  "word": "rate"
+            },
+            {
+                  "end": 93.09,
+                  "score": 0.356,
+                  "speaker": "SPEAKER_00",
+                  "start": 92.95,
+                  "word": "gear"
+            },
+            {
+                  "end": 93.23,
+                  "score": 0.547,
+                  "speaker": "SPEAKER_00",
+                  "start": 93.11,
+                  "word": "up,"
+            },
+            {
+                  "end": 93.491,
+                  "score": 0.608,
+                  "speaker": "SPEAKER_00",
+                  "start": 93.27,
+                  "word": "Jim"
+            },
+            {
+                  "end": 98.691,
+                  "score": 0.617,
+                  "speaker": "SPEAKER_00",
+                  "start": 98.451,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 98.911,
+                  "score": 0.746,
+                  "speaker": "SPEAKER_00",
+                  "start": 98.731,
+                  "word": "call"
+            },
+            {
+                  "end": 99.032,
+                  "score": 0.196,
+                  "speaker": "SPEAKER_00",
+                  "start": 98.931,
+                  "word": "the"
+            },
+            {
+                  "end": 99.252,
+                  "score": 0.46,
+                  "speaker": "SPEAKER_00",
+                  "start": 99.052,
+                  "word": "tire"
+            },
+            {
+                  "end": 99.372,
+                  "score": 0.39,
+                  "speaker": "SPEAKER_00",
+                  "start": 99.272,
+                  "word": "and"
+            },
+            {
+                  "end": 99.492,
+                  "score": 0.14,
+                  "speaker": "SPEAKER_00",
+                  "start": 99.412,
+                  "word": "tell"
+            },
+            {
+                  "end": 99.592,
+                  "score": 0.035,
+                  "speaker": "SPEAKER_00",
+                  "start": 99.512,
+                  "word": "them"
+            },
+            {
+                  "end": 99.712,
+                  "score": 0.039,
+                  "speaker": "SPEAKER_00",
+                  "start": 99.612,
+                  "word": "we've"
+            },
+            {
+                  "end": 99.932,
+                  "score": 0.712,
+                  "speaker": "SPEAKER_00",
+                  "start": 99.772,
+                  "word": "had"
+            },
+            {
+                  "end": 99.972,
+                  "score": 0.032,
+                  "speaker": "SPEAKER_00",
+                  "start": 99.952,
+                  "word": "a"
+            },
+            {
+                  "end": 100.192,
+                  "score": 0.59,
+                  "speaker": "SPEAKER_00",
+                  "start": 99.992,
+                  "word": "fire"
+            },
+            {
+                  "end": 100.532,
+                  "score": 0.338,
+                  "speaker": "SPEAKER_00",
+                  "start": 100.292,
+                  "word": "warning"
+            },
+            {
+                  "end": 100.672,
+                  "score": 0.332,
+                  "speaker": "SPEAKER_00",
+                  "start": 100.572,
+                  "word": "here,"
+            },
+            {
+                  "end": 100.832,
+                  "score": 0.486,
+                  "speaker": "SPEAKER_00",
+                  "start": 100.712,
+                  "word": "we're"
+            },
+            {
+                  "end": 101.012,
+                  "score": 0.764,
+                  "speaker": "SPEAKER_00",
+                  "start": 100.872,
+                  "word": "going"
+            },
+            {
+                  "end": 101.152,
+                  "score": 0.796,
+                  "speaker": "SPEAKER_00",
+                  "start": 101.052,
+                  "word": "out"
+            },
+            {
+                  "end": 101.432,
+                  "score": 0.779,
+                  "speaker": "SPEAKER_00",
+                  "start": 101.192,
+                  "word": "straight"
+            },
+            {
+                  "end": 101.632,
+                  "score": 0.718,
+                  "speaker": "SPEAKER_00",
+                  "start": 101.472,
+                  "word": "ahead"
+            },
+            {
+                  "end": 104.563,
+                  "score": 0.683,
+                  "speaker": "SPEAKER_00",
+                  "start": 104.323,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 104.843,
+                  "score": 0.401,
+                  "speaker": "SPEAKER_00",
+                  "start": 104.603,
+                  "word": "heading"
+            },
+            {
+                  "end": 105.443,
+                  "score": 0.49,
+                  "speaker": "SPEAKER_02",
+                  "start": 104.883,
+                  "word": "select."
+            },
+            {
+                  "end": 107.624,
+                  "score": 0.706,
+                  "speaker": "SPEAKER_02",
+                  "start": 105.523,
+                  "word": "Continental"
+            },
+            {
+                  "word": "101"
+            },
+            {
+                  "end": 108.385,
+                  "score": 0.536,
+                  "speaker": "SPEAKER_02",
+                  "start": 107.805,
+                  "word": "has"
+            },
+            {
+                  "end": 108.685,
+                  "score": 0.744,
+                  "speaker": "SPEAKER_02",
+                  "start": 108.465,
+                  "word": "had"
+            },
+            {
+                  "end": 108.885,
+                  "score": 0.625,
+                  "speaker": "SPEAKER_02",
+                  "start": 108.745,
+                  "word": "a"
+            },
+            {
+                  "end": 109.265,
+                  "score": 0.722,
+                  "speaker": "SPEAKER_02",
+                  "start": 108.945,
+                  "word": "fire"
+            },
+            {
+                  "end": 109.686,
+                  "score": 0.237,
+                  "speaker": "SPEAKER_02",
+                  "start": 109.325,
+                  "word": "indication"
+            },
+            {
+                  "end": 109.866,
+                  "score": 0.849,
+                  "speaker": "SPEAKER_02",
+                  "start": 109.726,
+                  "word": "like"
+            },
+            {
+                  "end": 109.966,
+                  "score": 0.399,
+                  "speaker": "SPEAKER_02",
+                  "start": 109.886,
+                  "word": "to"
+            },
+            {
+                  "end": 110.366,
+                  "score": 0.336,
+                  "speaker": "SPEAKER_02",
+                  "start": 110.006,
+                  "word": "proceed"
+            },
+            {
+                  "end": 110.646,
+                  "score": 0.392,
+                  "speaker": "SPEAKER_02",
+                  "start": 110.386,
+                  "word": "straight"
+            },
+            {
+                  "end": 110.946,
+                  "score": 0.53,
+                  "speaker": "SPEAKER_02",
+                  "start": 110.666,
+                  "word": "ahead."
+            },
+            {
+                  "end": 112.007,
+                  "score": 0.432,
+                  "speaker": "SPEAKER_02",
+                  "start": 111.647,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 112.627,
+                  "score": 0.518,
+                  "speaker": "SPEAKER_02",
+                  "start": 112.047,
+                  "word": "heading"
+            },
+            {
+                  "end": 113.288,
+                  "score": 0.6,
+                  "speaker": "SPEAKER_02",
+                  "start": 112.647,
+                  "word": "select."
+            },
+            {
+                  "end": 114.288,
+                  "score": 0.51,
+                  "speaker": "SPEAKER_02",
+                  "start": 113.308,
+                  "word": "Continental"
+            },
+            {
+                  "word": "101,"
+            },
+            {
+                  "end": 114.629,
+                  "score": 0.444,
+                  "speaker": "SPEAKER_02",
+                  "start": 114.388,
+                  "word": "stay"
+            },
+            {
+                  "end": 114.969,
+                  "score": 0.35,
+                  "speaker": "SPEAKER_02",
+                  "start": 114.669,
+                  "word": "with"
+            },
+            {
+                  "end": 115.089,
+                  "score": 0.504,
+                  "speaker": "SPEAKER_02",
+                  "start": 114.989,
+                  "word": "me."
+            },
+            {
+                  "end": 115.529,
+                  "score": 0.612,
+                  "speaker": "SPEAKER_02",
+                  "start": 115.109,
+                  "word": "We're"
+            },
+            {
+                  "end": 116.39,
+                  "score": 0.551,
+                  "speaker": "SPEAKER_00",
+                  "start": 115.629,
+                  "word": "heading"
+            },
+            {
+                  "end": 116.55,
+                  "score": 0.484,
+                  "speaker": "SPEAKER_00",
+                  "start": 116.47,
+                  "word": "up"
+            },
+            {
+                  "end": 116.79,
+                  "score": 0.566,
+                  "speaker": "SPEAKER_00",
+                  "start": 116.59,
+                  "word": "to"
+            },
+            {
+                  "word": "2000"
+            },
+            {
+                  "end": 117.951,
+                  "score": 0.652,
+                  "speaker": "SPEAKER_00",
+                  "start": 116.85,
+                  "word": "feet."
+            },
+            {
+                  "end": 118.431,
+                  "score": 0.502,
+                  "speaker": "SPEAKER_00",
+                  "start": 118.231,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 119.251,
+                  "score": 0.565,
+                  "speaker": "SPEAKER_00",
+                  "start": 119.111,
+                  "word": "get"
+            },
+            {
+                  "end": 119.472,
+                  "score": 0.88,
+                  "speaker": "SPEAKER_00",
+                  "start": 119.291,
+                  "word": "that"
+            },
+            {
+                  "end": 120.092,
+                  "score": 0.27,
+                  "speaker": "SPEAKER_00",
+                  "start": 119.772,
+                  "word": "engine"
+            },
+            {
+                  "end": 120.332,
+                  "score": 0.195,
+                  "speaker": "SPEAKER_00",
+                  "start": 120.112,
+                  "word": "failure"
+            },
+            {
+                  "end": 120.752,
+                  "score": 0.461,
+                  "speaker": "SPEAKER_00",
+                  "start": 120.372,
+                  "word": "checklist"
+            },
+            {
+                  "end": 120.992,
+                  "score": 0.731,
+                  "speaker": "SPEAKER_00",
+                  "start": 120.852,
+                  "word": "out,"
+            },
+            {
+                  "end": 121.273,
+                  "score": 0.921,
+                  "speaker": "SPEAKER_00",
+                  "start": 121.032,
+                  "word": "Jim."
+            },
+            {
+                  "end": 123.314,
+                  "score": 0.712,
+                  "speaker": "SPEAKER_00",
+                  "start": 123.074,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 123.534,
+                  "score": 0.815,
+                  "speaker": "SPEAKER_00",
+                  "start": 123.334,
+                  "word": "set"
+            },
+            {
+                  "end": 123.794,
+                  "score": 0.866,
+                  "speaker": "SPEAKER_00",
+                  "start": 123.574,
+                  "word": "talk"
+            },
+            {
+                  "end": 124.014,
+                  "score": 0.558,
+                  "speaker": "SPEAKER_00",
+                  "start": 123.834,
+                  "word": "bug."
+            },
+            {
+                  "end": 124.094,
+                  "score": 0.081,
+                  "speaker": "SPEAKER_00",
+                  "start": 124.034,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 128.597,
+                  "score": 0.151,
+                  "speaker": "SPEAKER_00",
+                  "start": 128.457,
+                  "word": "flaps"
+            },
+            {
+                  "end": 128.877,
+                  "score": 0.63,
+                  "speaker": "SPEAKER_00",
+                  "start": 128.617,
+                  "word": "five,"
+            },
+            {
+                  "end": 129.117,
+                  "score": 0.402,
+                  "speaker": "SPEAKER_00",
+                  "start": 128.897,
+                  "word": "please."
+            },
+            {
+                  "end": 131.56,
+                  "score": 0.662,
+                  "speaker": "SPEAKER_02",
+                  "start": 131.38,
+                  "word": "Top"
+            },
+            {
+                  "end": 131.82,
+                  "score": 0.687,
+                  "speaker": "SPEAKER_02",
+                  "start": 131.6,
+                  "word": "bug"
+            },
+            {
+                  "end": 132.101,
+                  "score": 0.712,
+                  "speaker": "SPEAKER_02",
+                  "start": 131.86,
+                  "word": "set."
+            },
+            {
+                  "end": 133.322,
+                  "score": 0.37,
+                  "speaker": "SPEAKER_02",
+                  "start": 133.041,
+                  "word": "Flaps"
+            },
+            {
+                  "end": 133.982,
+                  "score": 0.567,
+                  "speaker": "SPEAKER_00",
+                  "start": 133.862,
+                  "word": "one."
+            },
+            {
+                  "end": 134.282,
+                  "score": 0.542,
+                  "speaker": "SPEAKER_00",
+                  "start": 134.142,
+                  "word": "Turn"
+            },
+            {
+                  "end": 134.402,
+                  "score": 0.441,
+                  "speaker": "SPEAKER_00",
+                  "start": 134.322,
+                  "word": "the"
+            },
+            {
+                  "end": 134.643,
+                  "score": 0.334,
+                  "speaker": "SPEAKER_00",
+                  "start": 134.463,
+                  "word": "auto"
+            },
+            {
+                  "end": 134.963,
+                  "score": 0.371,
+                  "speaker": "SPEAKER_00",
+                  "start": 134.663,
+                  "word": "throttles"
+            },
+            {
+                  "end": 135.143,
+                  "score": 0.916,
+                  "speaker": "SPEAKER_00",
+                  "start": 135.023,
+                  "word": "off,"
+            },
+            {
+                  "end": 135.263,
+                  "score": 0.243,
+                  "speaker": "SPEAKER_00",
+                  "start": 135.183,
+                  "word": "will"
+            },
+            {
+                  "end": 135.343,
+                  "score": 0.002,
+                  "speaker": "SPEAKER_00",
+                  "start": 135.283,
+                  "word": "you,"
+            },
+            {
+                  "end": 135.543,
+                  "score": 0.822,
+                  "speaker": "SPEAKER_00",
+                  "start": 135.363,
+                  "word": "Jim?"
+            },
+            {
+                  "end": 138.886,
+                  "score": 0.58,
+                  "speaker": "SPEAKER_00",
+                  "start": 138.646,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 138.986,
+                  "score": 0.264,
+                  "speaker": "SPEAKER_00",
+                  "start": 138.906,
+                  "word": "can"
+            },
+            {
+                  "end": 139.126,
+                  "score": 0.608,
+                  "speaker": "SPEAKER_00",
+                  "start": 139.026,
+                  "word": "you"
+            },
+            {
+                  "end": 139.346,
+                  "score": 0.962,
+                  "speaker": "SPEAKER_00",
+                  "start": 139.166,
+                  "word": "call"
+            },
+            {
+                  "end": 139.447,
+                  "score": 0.173,
+                  "speaker": "SPEAKER_00",
+                  "start": 139.367,
+                  "word": "the"
+            },
+            {
+                  "end": 139.807,
+                  "score": 0.901,
+                  "speaker": "SPEAKER_00",
+                  "start": 139.487,
+                  "word": "company"
+            },
+            {
+                  "end": 139.927,
+                  "score": 0.322,
+                  "speaker": "SPEAKER_00",
+                  "start": 139.847,
+                  "word": "and"
+            },
+            {
+                  "end": 140.067,
+                  "score": 0.628,
+                  "speaker": "SPEAKER_00",
+                  "start": 139.947,
+                  "word": "tell"
+            },
+            {
+                  "end": 140.167,
+                  "score": 0.01,
+                  "speaker": "SPEAKER_00",
+                  "start": 140.087,
+                  "word": "them"
+            },
+            {
+                  "end": 140.327,
+                  "score": 0.251,
+                  "speaker": "SPEAKER_00",
+                  "start": 140.187,
+                  "word": "that"
+            },
+            {
+                  "end": 140.527,
+                  "score": 0.368,
+                  "speaker": "SPEAKER_00",
+                  "start": 140.347,
+                  "word": "we've"
+            },
+            {
+                  "end": 140.768,
+                  "score": 0.891,
+                  "speaker": "SPEAKER_00",
+                  "start": 140.567,
+                  "word": "lost"
+            },
+            {
+                  "end": 140.828,
+                  "score": 0.002,
+                  "speaker": "SPEAKER_00",
+                  "start": 140.788,
+                  "word": "an"
+            },
+            {
+                  "end": 140.968,
+                  "score": 0.048,
+                  "speaker": "SPEAKER_00",
+                  "start": 140.848,
+                  "word": "engine"
+            },
+            {
+                  "end": 141.068,
+                  "score": 0.102,
+                  "speaker": "SPEAKER_00",
+                  "start": 140.988,
+                  "word": "here"
+            },
+            {
+                  "end": 141.168,
+                  "score": 0.321,
+                  "speaker": "SPEAKER_00",
+                  "start": 141.088,
+                  "word": "and"
+            },
+            {
+                  "end": 141.328,
+                  "score": 0.326,
+                  "speaker": "SPEAKER_00",
+                  "start": 141.188,
+                  "word": "we're"
+            },
+            {
+                  "end": 141.468,
+                  "score": 0.283,
+                  "speaker": "SPEAKER_00",
+                  "start": 141.348,
+                  "word": "going"
+            },
+            {
+                  "end": 141.568,
+                  "score": 0.294,
+                  "speaker": "SPEAKER_00",
+                  "start": 141.488,
+                  "word": "to"
+            },
+            {
+                  "end": 141.728,
+                  "score": 0.78,
+                  "speaker": "SPEAKER_00",
+                  "start": 141.608,
+                  "word": "have"
+            },
+            {
+                  "end": 141.788,
+                  "score": 0.908,
+                  "speaker": "SPEAKER_00",
+                  "start": 141.748,
+                  "word": "to"
+            },
+            {
+                  "end": 141.969,
+                  "score": 0.974,
+                  "speaker": "SPEAKER_00",
+                  "start": 141.849,
+                  "word": "come"
+            },
+            {
+                  "end": 142.209,
+                  "score": 0.907,
+                  "speaker": "SPEAKER_00",
+                  "start": 142.009,
+                  "word": "back?"
+            },
+            {
+                  "end": 143.79,
+                  "score": 0.572,
+                  "speaker": "SPEAKER_00",
+                  "start": 143.65,
+                  "word": "Oh,"
+            },
+            {
+                  "end": 144.29,
+                  "score": 0.746,
+                  "speaker": "SPEAKER_01",
+                  "start": 143.95,
+                  "word": "OK."
+            },
+            {
+                  "end": 144.851,
+                  "score": 0.773,
+                  "speaker": "SPEAKER_00",
+                  "start": 144.571,
+                  "word": "Flaps"
+            },
+            {
+                  "end": 145.051,
+                  "score": 0.678,
+                  "speaker": "SPEAKER_00",
+                  "start": 144.931,
+                  "word": "up,"
+            },
+            {
+                  "end": 145.311,
+                  "score": 0.811,
+                  "speaker": "SPEAKER_00",
+                  "start": 145.091,
+                  "word": "Jim."
+            },
+            {
+                  "end": 149.595,
+                  "score": 0.579,
+                  "speaker": "SPEAKER_00",
+                  "start": 145.331,
+                  "word": "How's"
+            },
+            {
+                  "end": 149.755,
+                  "score": 0.29,
+                  "speaker": "SPEAKER_00",
+                  "start": 149.615,
+                  "word": "that"
+            },
+            {
+                  "end": 150.175,
+                  "score": 0.668,
+                  "speaker": "SPEAKER_00",
+                  "start": 149.795,
+                  "word": "checklist"
+            },
+            {
+                  "end": 150.455,
+                  "score": 0.483,
+                  "speaker": "SPEAKER_00",
+                  "start": 150.215,
+                  "word": "coming,"
+            },
+            {
+                  "end": 150.676,
+                  "score": 0.903,
+                  "speaker": "SPEAKER_00",
+                  "start": 150.476,
+                  "word": "Jim?"
+            },
+            {
+                  "end": 155.64,
+                  "score": 0.622,
+                  "speaker": "SPEAKER_01",
+                  "start": 155.039,
+                  "word": "Engine"
+            },
+            {
+                  "end": 156.22,
+                  "score": 0.694,
+                  "speaker": "SPEAKER_01",
+                  "start": 155.7,
+                  "word": "failure,"
+            },
+            {
+                  "end": 156.741,
+                  "score": 0.431,
+                  "speaker": "SPEAKER_01",
+                  "start": 156.46,
+                  "word": "engine"
+            },
+            {
+                  "end": 157.281,
+                  "score": 0.858,
+                  "speaker": "SPEAKER_01",
+                  "start": 156.781,
+                  "word": "fire,"
+            },
+            {
+                  "end": 157.601,
+                  "score": 0.523,
+                  "speaker": "SPEAKER_01",
+                  "start": 157.301,
+                  "word": "severe"
+            },
+            {
+                  "end": 157.982,
+                  "score": 0.447,
+                  "speaker": "SPEAKER_01",
+                  "start": 157.621,
+                  "word": "damage"
+            },
+            {
+                  "end": 158.302,
+                  "score": 0.423,
+                  "speaker": "SPEAKER_01",
+                  "start": 158.042,
+                  "word": "checklist."
+            },
+            {
+                  "end": 158.502,
+                  "score": 0.069,
+                  "speaker": "SPEAKER_01",
+                  "start": 158.322,
+                  "word": "Throttles."
+            },
+            {
+                  "end": 158.722,
+                  "score": 0.265,
+                  "speaker": "SPEAKER_00",
+                  "start": 158.562,
+                  "word": "Could"
+            },
+            {
+                  "end": 158.902,
+                  "score": 0.32,
+                  "speaker": "SPEAKER_00",
+                  "start": 158.742,
+                  "word": "you"
+            },
+            {
+                  "end": 159.062,
+                  "score": 0.499,
+                  "speaker": "SPEAKER_00",
+                  "start": 158.922,
+                  "word": "tell"
+            },
+            {
+                  "end": 159.163,
+                  "score": 0.173,
+                  "speaker": "SPEAKER_00",
+                  "start": 159.082,
+                  "word": "the"
+            },
+            {
+                  "end": 159.423,
+                  "score": 0.853,
+                  "speaker": "SPEAKER_00",
+                  "start": 159.183,
+                  "word": "girls"
+            },
+            {
+                  "end": 159.483,
+                  "score": 0.003,
+                  "speaker": "SPEAKER_00",
+                  "start": 159.443,
+                  "word": "in"
+            },
+            {
+                  "end": 159.583,
+                  "score": 0.828,
+                  "speaker": "SPEAKER_00",
+                  "start": 159.503,
+                  "word": "the"
+            },
+            {
+                  "end": 159.823,
+                  "score": 0.917,
+                  "speaker": "SPEAKER_00",
+                  "start": 159.623,
+                  "word": "back"
+            },
+            {
+                  "end": 160.003,
+                  "score": 0.571,
+                  "speaker": "SPEAKER_00",
+                  "start": 159.843,
+                  "word": "we've"
+            },
+            {
+                  "end": 160.223,
+                  "score": 0.886,
+                  "speaker": "SPEAKER_00",
+                  "start": 160.023,
+                  "word": "lost"
+            },
+            {
+                  "end": 160.303,
+                  "score": 0.202,
+                  "speaker": "SPEAKER_00",
+                  "start": 160.243,
+                  "word": "an"
+            },
+            {
+                  "end": 160.604,
+                  "score": 0.616,
+                  "speaker": "SPEAKER_00",
+                  "start": 160.343,
+                  "word": "engine,"
+            },
+            {
+                  "end": 160.764,
+                  "score": 0.971,
+                  "speaker": "SPEAKER_00",
+                  "start": 160.644,
+                  "word": "Jim?"
+            },
+            {
+                  "end": 162.04,
+                  "score": 0.145,
+                  "speaker": "SPEAKER_00",
+                  "start": 161.92,
+                  "word": "We're"
+            },
+            {
+                  "end": 162.2,
+                  "score": 0.127,
+                  "speaker": "SPEAKER_00",
+                  "start": 162.08,
+                  "word": "going"
+            },
+            {
+                  "end": 162.26,
+                  "score": 0.003,
+                  "speaker": "SPEAKER_00",
+                  "start": 162.22,
+                  "word": "to"
+            },
+            {
+                  "end": 162.38,
+                  "score": 0.2,
+                  "speaker": "SPEAKER_00",
+                  "start": 162.28,
+                  "word": "have"
+            },
+            {
+                  "end": 162.44,
+                  "score": 0.002,
+                  "speaker": "SPEAKER_00",
+                  "start": 162.4,
+                  "word": "to"
+            },
+            {
+                  "end": 162.78,
+                  "score": 0.95,
+                  "speaker": "SPEAKER_00",
+                  "start": 162.46,
+                  "word": "return."
+            },
+            {
+                  "end": 162.9,
+                  "score": 0.029,
+                  "speaker": "SPEAKER_00",
+                  "start": 162.82,
+                  "word": "Can"
+            },
+            {
+                  "end": 168.583,
+                  "score": 0.353,
+                  "speaker": "SPEAKER_00",
+                  "start": 168.503,
+                  "word": "you"
+            },
+            {
+                  "end": 168.703,
+                  "score": 0.02,
+                  "speaker": "SPEAKER_00",
+                  "start": 168.623,
+                  "word": "give"
+            },
+            {
+                  "end": 168.864,
+                  "score": 0.508,
+                  "speaker": "SPEAKER_00",
+                  "start": 168.743,
+                  "word": "me"
+            },
+            {
+                  "end": 168.924,
+                  "score": 0.002,
+                  "speaker": "SPEAKER_00",
+                  "start": 168.884,
+                  "word": "an"
+            },
+            {
+                  "end": 169.184,
+                  "score": 0.471,
+                  "speaker": "SPEAKER_00",
+                  "start": 168.964,
+                  "word": "after"
+            },
+            {
+                  "end": 169.604,
+                  "score": 0.864,
+                  "speaker": "SPEAKER_00",
+                  "start": 169.204,
+                  "word": "takeoff"
+            },
+            {
+                  "end": 170.004,
+                  "score": 0.492,
+                  "speaker": "SPEAKER_00",
+                  "start": 169.624,
+                  "word": "checklist,"
+            },
+            {
+                  "end": 170.384,
+                  "score": 0.719,
+                  "speaker": "SPEAKER_00",
+                  "start": 170.044,
+                  "word": "Jim?"
+            },
+            {
+                  "end": 171.905,
+                  "score": 0.72,
+                  "speaker": "SPEAKER_02",
+                  "start": 171.665,
+                  "word": "After"
+            },
+            {
+                  "end": 172.485,
+                  "score": 0.882,
+                  "speaker": "SPEAKER_02",
+                  "start": 171.945,
+                  "word": "takeoff?"
+            },
+            {
+                  "end": 175.167,
+                  "score": 0.501,
+                  "speaker": "SPEAKER_00",
+                  "start": 175.007,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 175.287,
+                  "score": 0.231,
+                  "speaker": "SPEAKER_00",
+                  "start": 175.207,
+                  "word": "you"
+            },
+            {
+                  "end": 175.447,
+                  "score": 0.354,
+                  "speaker": "SPEAKER_00",
+                  "start": 175.307,
+                  "word": "can"
+            },
+            {
+                  "end": 175.627,
+                  "score": 0.934,
+                  "speaker": "SPEAKER_00",
+                  "start": 175.467,
+                  "word": "tell"
+            },
+            {
+                  "end": 176.127,
+                  "score": 0.624,
+                  "speaker": "SPEAKER_00",
+                  "start": 175.687,
+                  "word": "ATC"
+            },
+            {
+                  "end": 176.327,
+                  "score": 0.54,
+                  "speaker": "SPEAKER_00",
+                  "start": 176.167,
+                  "word": "we're"
+            },
+            {
+                  "end": 176.447,
+                  "score": 0.046,
+                  "speaker": "SPEAKER_00",
+                  "start": 176.347,
+                  "word": "ready"
+            },
+            {
+                  "end": 176.567,
+                  "score": 0.604,
+                  "speaker": "SPEAKER_00",
+                  "start": 176.467,
+                  "word": "to"
+            },
+            {
+                  "end": 176.788,
+                  "score": 0.757,
+                  "speaker": "SPEAKER_00",
+                  "start": 176.587,
+                  "word": "turn"
+            },
+            {
+                  "end": 177.008,
+                  "score": 0.36,
+                  "speaker": "SPEAKER_00",
+                  "start": 176.808,
+                  "word": "around"
+            },
+            {
+                  "end": 177.228,
+                  "score": 0.384,
+                  "speaker": "SPEAKER_00",
+                  "start": 177.128,
+                  "word": "and"
+            },
+            {
+                  "end": 177.428,
+                  "score": 0.321,
+                  "speaker": "SPEAKER_00",
+                  "start": 177.268,
+                  "word": "come"
+            },
+            {
+                  "end": 177.668,
+                  "score": 0.51,
+                  "speaker": "SPEAKER_00",
+                  "start": 177.548,
+                  "word": "on"
+            },
+            {
+                  "end": 181.05,
+                  "score": 0.323,
+                  "speaker": "SPEAKER_02",
+                  "start": 180.89,
+                  "word": "back"
+            },
+            {
+                  "end": 181.19,
+                  "score": 0.442,
+                  "speaker": "SPEAKER_02",
+                  "start": 181.13,
+                  "word": "in."
+            },
+            {
+                  "end": 181.47,
+                  "score": 0.179,
+                  "speaker": "SPEAKER_02",
+                  "start": 181.21,
+                  "word": "Houston,"
+            },
+            {
+                  "end": 183.171,
+                  "score": 0.668,
+                  "speaker": "SPEAKER_02",
+                  "start": 181.51,
+                  "word": "Continental"
+            },
+            {
+                  "word": "101"
+            },
+            {
+                  "end": 183.511,
+                  "score": 0.817,
+                  "speaker": "SPEAKER_02",
+                  "start": 183.351,
+                  "word": "is"
+            },
+            {
+                  "end": 184.431,
+                  "score": 0.522,
+                  "speaker": "SPEAKER_02",
+                  "start": 183.911,
+                  "word": "requesting"
+            },
+            {
+                  "end": 184.952,
+                  "score": 0.649,
+                  "speaker": "SPEAKER_02",
+                  "start": 184.832,
+                  "word": "a"
+            },
+            {
+                  "end": 185.252,
+                  "score": 0.612,
+                  "speaker": "SPEAKER_02",
+                  "start": 185.032,
+                  "word": "turn"
+            },
+            {
+                  "end": 185.412,
+                  "score": 0.414,
+                  "speaker": "SPEAKER_02",
+                  "start": 185.292,
+                  "word": "to"
+            },
+            {
+                  "end": 185.952,
+                  "score": 0.634,
+                  "speaker": "SPEAKER_02",
+                  "start": 185.432,
+                  "word": "downwind."
+            },
+            {
+                  "end": 186.292,
+                  "score": 0.395,
+                  "speaker": "SPEAKER_02",
+                  "start": 186.092,
+                  "word": "We'd"
+            },
+            {
+                  "end": 186.472,
+                  "score": 0.403,
+                  "speaker": "SPEAKER_02",
+                  "start": 186.332,
+                  "word": "like"
+            },
+            {
+                  "end": 186.613,
+                  "score": 0.598,
+                  "speaker": "SPEAKER_02",
+                  "start": 186.492,
+                  "word": "to"
+            },
+            {
+                  "end": 186.773,
+                  "score": 0.302,
+                  "speaker": "SPEAKER_02",
+                  "start": 186.653,
+                  "word": "come"
+            },
+            {
+                  "end": 187.013,
+                  "score": 0.867,
+                  "speaker": "SPEAKER_02",
+                  "start": 186.813,
+                  "word": "back"
+            },
+            {
+                  "end": 187.413,
+                  "score": 0.601,
+                  "speaker": "SPEAKER_02",
+                  "start": 187.033,
+                  "word": "around."
+            },
+            {
+                  "end": 187.593,
+                  "score": 0.323,
+                  "speaker": "SPEAKER_02",
+                  "start": 187.453,
+                  "word": "We've"
+            },
+            {
+                  "end": 187.793,
+                  "score": 0.618,
+                  "speaker": "SPEAKER_02",
+                  "start": 187.613,
+                  "word": "got"
+            },
+            {
+                  "end": 187.953,
+                  "score": 0.713,
+                  "speaker": "SPEAKER_02",
+                  "start": 187.873,
+                  "word": "an"
+            },
+            {
+                  "end": 188.133,
+                  "score": 0.161,
+                  "speaker": "SPEAKER_02",
+                  "start": 187.973,
+                  "word": "engine"
+            },
+            {
+                  "end": 188.413,
+                  "score": 0.634,
+                  "speaker": "SPEAKER_02",
+                  "start": 188.173,
+                  "word": "fire"
+            },
+            {
+                  "end": 188.974,
+                  "score": 0.626,
+                  "speaker": "SPEAKER_02",
+                  "start": 188.453,
+                  "word": "indication."
+            },
+            {
+                  "end": 190.101,
+                  "score": 0.469,
+                  "speaker": "SPEAKER_02",
+                  "start": 189.941,
+                  "word": "Jim,"
+            },
+            {
+                  "end": 190.302,
+                  "score": 0.62,
+                  "speaker": "SPEAKER_02",
+                  "start": 190.201,
+                  "word": "I"
+            },
+            {
+                  "end": 190.482,
+                  "score": 0.289,
+                  "speaker": "SPEAKER_02",
+                  "start": 190.322,
+                  "word": "know"
+            },
+            {
+                  "end": 190.742,
+                  "score": 0.226,
+                  "speaker": "SPEAKER_02",
+                  "start": 190.502,
+                  "word": "you're"
+            },
+            {
+                  "end": 190.982,
+                  "score": 0.23,
+                  "speaker": "SPEAKER_02",
+                  "start": 190.862,
+                  "word": "kind"
+            },
+            {
+                  "end": 191.202,
+                  "score": 0.534,
+                  "speaker": "SPEAKER_02",
+                  "start": 191.082,
+                  "word": "of"
+            },
+            {
+                  "end": 191.343,
+                  "score": 0.113,
+                  "speaker": "SPEAKER_02",
+                  "start": 191.243,
+                  "word": "busy,"
+            },
+            {
+                  "end": 191.503,
+                  "score": 0.364,
+                  "speaker": "SPEAKER_02",
+                  "start": 191.383,
+                  "word": "but"
+            },
+            {
+                  "end": 191.723,
+                  "score": 0.208,
+                  "speaker": "SPEAKER_02",
+                  "start": 191.623,
+                  "word": "I'm"
+            },
+            {
+                  "end": 191.903,
+                  "score": 0.366,
+                  "speaker": "SPEAKER_02",
+                  "start": 191.763,
+                  "word": "real"
+            },
+            {
+                  "end": 192.143,
+                  "score": 0.32,
+                  "speaker": "SPEAKER_02",
+                  "start": 191.943,
+                  "word": "busy"
+            },
+            {
+                  "end": 192.404,
+                  "score": 0.376,
+                  "speaker": "SPEAKER_02",
+                  "start": 192.244,
+                  "word": "over"
+            },
+            {
+                  "end": 192.664,
+                  "score": 0.466,
+                  "speaker": "SPEAKER_02",
+                  "start": 192.424,
+                  "word": "here"
+            },
+            {
+                  "end": 193.265,
+                  "score": 0.079,
+                  "start": 193.205,
+                  "word": "too."
+            }
+      ]
+}
