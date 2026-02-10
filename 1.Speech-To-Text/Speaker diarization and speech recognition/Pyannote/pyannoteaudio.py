@@ -25,7 +25,7 @@ start = time.time() # s
 ############ CODE ############
 pipeline = Pipeline.from_pretrained(
     "pyannote/speaker-diarization-3.1",
-    use_auth_token="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")
+    use_auth_token="HUGGINGFACE_TOKEN")
 
 
 end = time.time() # s
