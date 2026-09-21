@@ -1,0 +1,470 @@
+[
+  {
+    "Task": "Doctor: Environmental Awareness",
+    "Start": "10.168",
+    "end": "32.461",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Team Management",
+    "Start": "38.227",
+    "end": "41.69",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Casey: Team Management",
+    "Start": "41.69",
+    "end": "43.852",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Team Management",
+    "Start": "43.852",
+    "end": "47.375",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental awareness",
+    "Start": "48.676",
+    "end": "50.257",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental awareness",
+    "Start": "53.49",
+    "end": "56.552",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Dynamic decision-making",
+    "Start": "53.49",
+    "end": "56.552",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental awareness",
+    "Start": "60.035",
+    "end": "63.598",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Dynamic decision-making",
+    "Start": "60.035",
+    "end": "63.598",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental awareness",
+    "Start": "66.24",
+    "end": "67.34",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Resource Allocation",
+    "Start": "67.34",
+    "end": "72.805",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental Awareness",
+    "Start": "74.346",
+    "end": "78.369",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Casey: Resource Allocation",
+    "Start": "78.369",
+    "end": "84.711",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Casey: Environmental awareness",
+    "Start": "78.369",
+    "end": "84.711",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental awareness",
+    "Start": "84.711",
+    "end": "89.216",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Dynamic decision-making",
+    "Start": "84.711",
+    "end": "89.216",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Dynamic Decision-Making",
+    "Start": "92.279",
+    "end": "102.589",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Resource Allocation",
+    "Start": "92.279",
+    "end": "102.589",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Resource Allocation",
+    "Start": "102.589",
+    "end": "105.492",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental Awareness",
+    "Start": "105.492",
+    "end": "108.444",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle to Casey",
+    "Start": "113.325",
+    "end": "116.325",
+    "Category": "Order"
+  },
+  {
+    "Task": "Janelle: Team Management",
+    "Start": "113.325",
+    "end": "116.325",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Dynamic Decision-Making",
+    "Start": "113.325",
+    "end": "116.325",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Resource Allocation",
+    "Start": "113.325",
+    "end": "116.325",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Team management",
+    "Start": "116.325",
+    "end": "118.549",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental Awareness",
+    "Start": "116.325",
+    "end": "118.549",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie to Cassie",
+    "Start": "116.325",
+    "end": "118.549",
+    "Category": "Order"
+  },
+  {
+    "Task": "Cassey: Environmental awareness",
+    "Start": "118.549",
+    "end": "121.651",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Cassey: Environmental awareness",
+    "Start": "126.233",
+    "end": "129.114",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Cassey: Dynamic decision-making",
+    "Start": "126.233",
+    "end": "129.114",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Cassey: Environmental awareness",
+    "Start": "130.935",
+    "end": "135.49",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Cassey: Dynamic decision-making",
+    "Start": "130.935",
+    "end": "135.49",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Casey: Resource Allocation",
+    "Start": "144.237",
+    "end": "149.902",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Casey: Environmental awareness",
+    "Start": "151.423",
+    "end": "157.228",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle to Jessie",
+    "Start": "157.828",
+    "end": "158.528",
+    "Category": "Order"
+  },
+  {
+    "Task": "Janelle: Team Management",
+    "Start": "157.828",
+    "end": "158.528",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Environmental awareness",
+    "Start": "157.828",
+    "end": "158.528",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental awareness",
+    "Start": "158.528",
+    "end": "159.458",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Dynamic Decision-Making",
+    "Start": "159.458",
+    "end": "172.862",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Resource Allocation",
+    "Start": "159.458",
+    "end": "172.862",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental Awareness",
+    "Start": "172.862",
+    "end": "174.402",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Dynamic decision-making",
+    "Start": "172.862",
+    "end": "174.402",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie to Janelle",
+    "Start": "179.904",
+    "end": "182.764",
+    "Category": "Order"
+  },
+  {
+    "Task": "Jessie: Team Management",
+    "Start": "179.904",
+    "end": "182.764",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental Awareness",
+    "Start": "179.904",
+    "end": "182.764",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Resource Allocation",
+    "Start": "179.904",
+    "end": "182.764",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Cassey: Resource Allocation",
+    "Start": "182.764",
+    "end": "185.764",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "185.764",
+    "end": "188.922",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Casey: Environmental awareness",
+    "Start": "188.922",
+    "end": "190.083",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Team Management",
+    "Start": "190.083",
+    "end": "192.965",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "190.083",
+    "end": "192.965",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "194.807",
+    "end": "197.369",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Resource Allocation",
+    "Start": "194.807",
+    "end": "197.369",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "203.694",
+    "end": "204.415",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Dynamic decision-making",
+    "Start": "203.694",
+    "end": "204.415",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Environmental awareness",
+    "Start": "210.74",
+    "end": "215.524",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Resource Allocation",
+    "Start": "210.74",
+    "end": "214.123",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Dynamic decision-making",
+    "Start": "210.74",
+    "end": "215.524",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle to Jessie",
+    "Start": "219.679",
+    "end": "221.28",
+    "Category": "Order"
+  },
+  {
+    "Task": "Janelle: Team management",
+    "Start": "219.679",
+    "end": "221.28",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental awareness",
+    "Start": "221.28",
+    "end": "223.702",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Environmental awareness",
+    "Start": "223.702",
+    "end": "226.805",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Jessie: Dynamic decision-making",
+    "Start": "223.702",
+    "end": "226.805",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Resource Allocation",
+    "Start": "240.066",
+    "end": "244.428",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "240.066",
+    "end": "249.07",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Team management",
+    "Start": "244.428",
+    "end": "251.11",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "250.11",
+    "end": "251.11",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Environmental awareness",
+    "Start": "252.011",
+    "end": "259.354",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "266.223",
+    "end": "267.804",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Dynamic decision-making",
+    "Start": "266.223",
+    "end": "267.804",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "273.226",
+    "end": "274.906",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Dynamic decision-making",
+    "Start": "273.226",
+    "end": "274.906",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Brian: Environmental awareness",
+    "Start": "273.226",
+    "end": "274.906",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Environmental awareness",
+    "Start": "293.013",
+    "end": "297.751",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Dynamic decision-making",
+    "Start": "295.849",
+    "end": "297.751",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Team Management",
+    "Start": "303.479",
+    "end": "307.584",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Environmental awareness",
+    "Start": "303.479",
+    "end": "307.584",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Janelle: Resource Allocation",
+    "Start": "303.479",
+    "end": "307.584",
+    "Category": "Skill"
+  }
+]

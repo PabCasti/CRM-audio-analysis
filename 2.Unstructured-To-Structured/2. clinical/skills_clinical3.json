@@ -1,0 +1,376 @@
+{
+	"skillsTimeline": [
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "",
+				"role": ""
+			},
+			"main_skill": "Environmental Awareness",
+			"sentence": "They were working on him, started having some chest pain. He does have some significant cardiac history, and when we got there, they already had him on oxygen, had a baseline set of vital signs.",
+			"skill_description": "Reviewing past or current actions",
+			"start_timestamp": 10.168,
+			"stop_timestamp": 18.794
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "",
+				"role": ""
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "What we've done is we've established an IV, 18 gauge, right AC.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 18.794,
+			"stop_timestamp": 22.937
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "",
+				"role": ""
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "So we gave him nitroglycerin times two, 0.4 milligrams.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 26.716,
+			"stop_timestamp": 30.58
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "All right, Mr. Smith, they're going to take good care of you.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 32.461,
+			"stop_timestamp": 34.105
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Hi, I'm Jessie. I'm going to be one of the LPMs that's working with me today.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 38.227,
+			"stop_timestamp": 39.187
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"main_skill": "Team Management",
+			"sentence": "And I'm Casey. I'm another LPM I'll be working with you.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 41.69,
+			"stop_timestamp": 42.21
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"main_skill": "Team Management",
+			"sentence": "And I'm Janelle. I'm an RN. I'm going to be helping out with your care today as well.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 43.852,
+			"stop_timestamp": 44.873
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"main_skill": "Environmental Awareness",
+			"sentence": "What would you level your pain at, between one and ten?",
+			"skill_description": "Mentioning surrounding conditions",
+			"start_timestamp": 53.49,
+			"stop_timestamp": 56.552
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"main_skill": "Environmental Awareness",
+			"sentence": "Is it radiating? Is it going anywhere else?",
+			"skill_description": "Mentioning surrounding conditions",
+			"start_timestamp": 60.035,
+			"stop_timestamp": 61.076
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Four liters of oxygen are on.",
+			"skill_description": "Accessing or using equipment, tools, machines",
+			"start_timestamp": 67.34,
+			"stop_timestamp": 68.002
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "I'm going to get you your pulse oxon, okay?",
+			"skill_description": "Accessing or using equipment, tools, machines",
+			"start_timestamp": 69.002,
+			"stop_timestamp": 70.805
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "It's just going to tell me how you're breathing. I'm just going to place it right here on your finger.",
+			"skill_description": "Accessing or using equipment, tools, machines",
+			"start_timestamp": 74.346,
+			"stop_timestamp": 76.027
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Now I'm going to hook you up to a five lead.",
+			"skill_description": "Accessing or using equipment, tools, machines",
+			"start_timestamp": 78.369,
+			"stop_timestamp": 79.711
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"main_skill": "Environmental Awareness",
+			"sentence": "Mr. Smith, we understand that you're allergic to penicillin. Is there anything else that you're allergic to?",
+			"skill_description": "Mentioning surrounding conditions",
+			"start_timestamp": 84.711,
+			"stop_timestamp": 87.394
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"main_skill": "Team Management",
+			"sentence": "No, we're taking good care of you. We've got some oxygen that's going to help your breathing and we're also going to get some medication to help you with your pain. I'm going to go ahead and get the nitro down, okay?",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 92.279,
+			"stop_timestamp": 98.886
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "I'm going to take this blood pressure with me. Mr. Smith, I'm just going to take your blood pressure.",
+			"skill_description": "Accessing or using equipment, tools, machines",
+			"start_timestamp": 102.589,
+			"stop_timestamp": 105.492
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Cassie, do you want to go ahead and give him some nitro?",
+			"skill_description": "Role assignment",
+			"start_timestamp": 113.325,
+			"stop_timestamp": 116.325
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Mr. Smith, could you state your name, one more time, and your date of birth?",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 118.549,
+			"stop_timestamp": 121.651
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Okay, well I'll have you put this under your tongue and just hold it there.",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 144.237,
+			"stop_timestamp": 149.902
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Well it's going to vasodilate your coronary arteries and help take away some of that pain.",
+			"skill_description": "Accessing or using equipment, tools, machines",
+			"start_timestamp": 151.423,
+			"stop_timestamp": 157.228
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Jessica, how is his blood pressure?",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 157.828,
+			"stop_timestamp": 158.528
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Okay, I'm going to go ahead and get some morphine for our chest pain protocol to see if it will help with this pain.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 159.458,
+			"stop_timestamp": 172.862
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Well, Janelle's going to go get you some morphine to help out with that.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 178.903,
+			"stop_timestamp": 179.904
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"main_skill": "Team Management",
+			"sentence": "I'm going to call RT and get 12-8 in here.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 182.764,
+			"stop_timestamp": 185.764
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Brian",
+				"role": "Respiratory Therapy"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Mr. Smith, how you doing? My name's Brian. I'm from Respiratory Therapy.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 190.083,
+			"stop_timestamp": 191.704
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Brian",
+				"role": "Respiratory Therapy"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Come to EKG today. How are you feeling?",
+			"skill_description": "Accessing or using equipment, tools, machines",
+			"start_timestamp": 194.807,
+			"stop_timestamp": 196.328
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Mr. Smith, while Brian's hooking you up, I'm going to go ahead and give you your morphine.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 207.818,
+			"stop_timestamp": 214.123
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Brian",
+				"role": "Respiratory Therapy"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "What I'm going to do is I'm going to put some stickers on your chest, and we're going to hook these leads to it. And it's basically just a little picture of what's going on with your heart, OK?",
+			"skill_description": "Accessing or using equipment, tools, machines",
+			"start_timestamp": 240.066,
+			"stop_timestamp": 244.428
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Hey, Mr. Smith, I just gave you four milligrams of morphine, and we're going to see how that makes you feel.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 252.011,
+			"stop_timestamp": 259.354
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Brian",
+				"role": "Respiratory Therapy"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Okay, Mr. Smith, I need you to hold real still for me, okay?",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 276.587,
+			"stop_timestamp": 279.868
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"main_skill": "Team Management",
+			"sentence": "That's good, but we'll go ahead and let the doctor know how you're doing and he'll be in in just a few minutes, okay?",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 303.479,
+			"stop_timestamp": 307.584
+		}
+	]
+}

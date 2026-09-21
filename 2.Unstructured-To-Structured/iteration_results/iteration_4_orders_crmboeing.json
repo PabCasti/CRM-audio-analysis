@@ -1,0 +1,92 @@
+[
+  {
+    "Task": "Unknown to Unknown: Taxi to position hold",
+    "Start": "1970-01-01 00:00:07.278000",
+    "Finish": "1970-01-01 00:00:10.999000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Perform before takeoff checklist",
+    "Start": "1970-01-01 00:00:12.999000",
+    "Finish": "1970-01-01 00:00:32.324000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Unknown: Cleared for takeoff",
+    "Start": "1970-01-01 00:00:38.240000",
+    "Finish": "1970-01-01 00:00:39.721000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Gear up",
+    "Start": "1970-01-01 00:01:24.767000",
+    "Finish": "1970-01-01 00:01:44.323000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Heading select",
+    "Start": "1970-01-01 00:01:44.323000",
+    "Finish": "1970-01-01 00:01:51.647000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Get engine failure checklist",
+    "Start": "1970-01-01 00:01:58.231000",
+    "Finish": "1970-01-01 00:02:03.074000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Set talk bug",
+    "Start": "1970-01-01 00:02:03.074000",
+    "Finish": "1970-01-01 00:02:04.034000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Flaps five",
+    "Start": "1970-01-01 00:02:04.034000",
+    "Finish": "1970-01-01 00:02:11.380000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Turn the auto throttles off",
+    "Start": "1970-01-01 00:02:14.142000",
+    "Finish": "1970-01-01 00:02:18.646000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Call the company and report engine loss",
+    "Start": "1970-01-01 00:02:18.646000",
+    "Finish": "1970-01-01 00:02:23.650000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Flaps up",
+    "Start": "1970-01-01 00:02:24.571000",
+    "Finish": "1970-01-01 00:02:25.331000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Update on checklist progress",
+    "Start": "1970-01-01 00:02:25.331000",
+    "Finish": "1970-01-01 00:02:35.039000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Inform crew about engine loss",
+    "Start": "1970-01-01 00:02:38.562000",
+    "Finish": "1970-01-01 00:02:41.920000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Perform after takeoff checklist",
+    "Start": "1970-01-01 00:02:42.820000",
+    "Finish": "1970-01-01 00:02:51.665000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Jim: Inform ATC about readiness to return",
+    "Start": "1970-01-01 00:02:55.007000",
+    "Finish": "1970-01-01 00:03:01.210000",
+    "Category": "Order"
+  }
+]

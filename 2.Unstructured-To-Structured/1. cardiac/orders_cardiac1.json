@@ -1,0 +1,210 @@
+{
+	"ordersTimeline": [
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Keith",
+				"role": "Resuscitation Team Leader"
+			},
+			"action": "Scribe and manage the defibrillation if needed",
+			"start_timestamp": 43.769,
+			"stop_timestamp": 48.673
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Yanni",
+				"role": "F2"
+			},
+			"action": "Do cannulation, bloods, fluids, and swap in and out with chest compressions",
+			"start_timestamp": 49.914,
+			"stop_timestamp": 58.76
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"follower": null,
+			"action": "Put out a double two double two call, ask for the adult resuscitation team, and bring back the resuscitation trolley",
+			"start_timestamp": 82.485,
+			"stop_timestamp": 97.331
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Yanni",
+				"role": "F2"
+			},
+			"action": "Take over CPR",
+			"start_timestamp": 107.022,
+			"stop_timestamp": 110.165
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_00",
+				"name": "Isabelle",
+				"role": "Anaesthetic SPR"
+			},
+			"action": "Take over the airway management",
+			"start_timestamp": 186.987,
+			"stop_timestamp": 190.668
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Keith",
+				"role": "Resuscitation Team Leader"
+			},
+			"action": "Check the timings for defibrillation",
+			"start_timestamp": 195.29,
+			"stop_timestamp": 197.15
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Bill",
+				"role": "Unknown"
+			},
+			"action": "Get the patient's notes",
+			"start_timestamp": 199.171,
+			"stop_timestamp": 201.632
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Keith",
+				"role": "Resuscitation Team Leader"
+			},
+			"action": "Deliver the shock",
+			"start_timestamp": 211.634,
+			"stop_timestamp": 214.495
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Yanni",
+				"role": "F2"
+			},
+			"action": "Put up a 500ml saline and take blood through venipuncture for FBC, UNE, venous blood gas, and glucose",
+			"start_timestamp": 251.439,
+			"stop_timestamp": 261.186
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_00",
+				"name": "Isabelle",
+				"role": "Anaesthetic SPR"
+			},
+			"action": "Get a definitive airway in",
+			"start_timestamp": 267.93,
+			"stop_timestamp": 270.652
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Yanni",
+				"role": "F2"
+			},
+			"action": "Prepare a milligram of adrenaline and 300 milligrams of amiodrome",
+			"start_timestamp": 336.138,
+			"stop_timestamp": 343.162
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Keith",
+				"role": "Resuscitation Team Leader"
+			},
+			"action": "Manage defibrillation",
+			"start_timestamp": 500.123,
+			"stop_timestamp": 505.786
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Yanni",
+				"role": "F2"
+			},
+			"action": "Call the family and ask them to come in",
+			"start_timestamp": 550.685,
+			"stop_timestamp": 553.686
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Mandy",
+				"role": "Resuscitation Team Leader"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Keith",
+				"role": "Resuscitation Team Leader"
+			},
+			"action": "Provide paperwork",
+			"start_timestamp": 559.688,
+			"stop_timestamp": 562.13
+		}
+	]
+}

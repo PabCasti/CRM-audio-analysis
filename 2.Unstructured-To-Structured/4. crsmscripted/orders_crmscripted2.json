@@ -1,0 +1,139 @@
+{
+	"ordersTimeline": [
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Emily",
+				"role": "Unknown"
+			},
+			"action": "Get him hooked up on a 12-lead",
+			"start_timestamp": 15.592,
+			"stop_timestamp": 17.412
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"action": "Hold still for about 10 seconds",
+			"start_timestamp": 69.418,
+			"stop_timestamp": 75.084
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Emily",
+				"role": "Unknown"
+			},
+			"action": "Get him 324 milligrams of aspirin",
+			"start_timestamp": 119.176,
+			"stop_timestamp": 124.34
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"action": "Chew the aspirin and swallow it",
+			"start_timestamp": 124.34,
+			"stop_timestamp": 129.365
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"action": "Start an IV",
+			"start_timestamp": 130.586,
+			"stop_timestamp": 132.828
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"action": "Put the nitro pill under your tongue and let it dissolve",
+			"start_timestamp": 140.58,
+			"stop_timestamp": 152.384
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"action": "Get on the gurney and get to the hospital",
+			"start_timestamp": 166.516,
+			"stop_timestamp": 174.661
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Emily",
+				"role": "Unknown"
+			},
+			"action": "Get the patient loaded and get going ASAP",
+			"start_timestamp": 174.661,
+			"stop_timestamp": 183.085
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"action": "Get on a gurney and get to the hospital",
+			"start_timestamp": 232.474,
+			"stop_timestamp": 241.716
+		}
+	]
+}

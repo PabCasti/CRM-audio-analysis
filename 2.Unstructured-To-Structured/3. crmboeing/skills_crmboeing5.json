@@ -1,0 +1,160 @@
+{
+	"skillsTimeline": [
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "9-9-101 taxi to position hold.",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 7.278,
+			"stop_timestamp": 9.0
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Before takeoff checklist.",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 12.999,
+			"stop_timestamp": 15.42
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Takeoff announcement has been completed. Air conditioning and bleeds are set. Start switches are continuous. Auto throttle is armed. Transponder is on and the lights and strobes are on. The before takeoff checklist is complete.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 18.921,
+			"stop_timestamp": 32.324
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Continental 101, cleared for takeoff.",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 38.24,
+			"stop_timestamp": 39.721
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Positive rate gear up, Jim. Jim, call the tire and tell them we've had a fire warning here, we're going out straight ahead Jim, heading select.",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 84.767,
+			"stop_timestamp": 111.647
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Continental 101 has had a fire indication like to proceed straight ahead.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 105.523,
+			"stop_timestamp": 111.647
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Jim, get that engine failure checklist out, Jim. Jim, set talk bug. Jim, flaps five, please.",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 118.231,
+			"stop_timestamp": 124.034
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Turn the auto throttles off, will you, Jim? Jim, can you call the company and tell them that we've lost an engine here and we're going to have to come back?",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 134.142,
+			"stop_timestamp": 138.646
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Flaps up, Jim. How's that checklist coming, Jim?",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 144.571,
+			"stop_timestamp": 145.331
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Could you tell the girls in the back we've lost an engine, Jim? We're going to have to return. Can you give me an after takeoff checklist, Jim?",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 158.562,
+			"stop_timestamp": 162.82
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Jim, you can tell ATC we're ready to turn around and come on back in.",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 175.007,
+			"stop_timestamp": 181.21
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Houston, Continental 101 is requesting a turn to downwind. We'd like to come back around. We've got an engine fire indication.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 181.21,
+			"stop_timestamp": 187.453
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Jim",
+				"role": ""
+			},
+			"main_skill": "Team Management",
+			"sentence": "Jim, I know you're kind of busy, but I'm real busy over here too.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 189.941,
+			"stop_timestamp": 191.0
+		}
+	]
+}

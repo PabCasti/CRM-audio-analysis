@@ -1,0 +1,926 @@
+[
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "13.821",
+    "end": "18.886",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "18.886",
+    "end": "23.17",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Team Management",
+    "Start": "23.17",
+    "end": "26.354",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Yanni: Team Management",
+    "Start": "27.375",
+    "end": "31.038",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Isabelle: Team Management",
+    "Start": "32.44",
+    "end": "35.623",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "39.506",
+    "end": "42.468",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Isabelle",
+    "Start": "39.506",
+    "end": "42.468",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "43.769",
+    "end": "48.673",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "43.769",
+    "end": "48.673",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "49.133",
+    "end": "58.76",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Yanni",
+    "Start": "49.133",
+    "end": "58.76",
+    "Category": "Order"
+  },
+  {
+    "Task": "Bill: Team Management",
+    "Start": "81.544",
+    "end": "82.485",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill: Team Management",
+    "Start": "82.485",
+    "end": "97.331",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill to Amita",
+    "Start": "82.485",
+    "end": "97.331",
+    "Category": "Order"
+  },
+  {
+    "Task": "Yanni: Resource Allocation",
+    "Start": "97.331",
+    "end": "107.022",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill: Team Management",
+    "Start": "107.022",
+    "end": "108.884",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill to Yanni",
+    "Start": "107.022",
+    "end": "108.884",
+    "Category": "Order"
+  },
+  {
+    "Task": "Bill: Resource Allocation",
+    "Start": "111.386",
+    "end": "135.794",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill: Team management",
+    "Start": "121.535",
+    "end": "135.794",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill to Amita",
+    "Start": "121.535",
+    "end": "135.794",
+    "Category": "Order"
+  },
+  {
+    "Task": "Bill: Dynamic decision-making",
+    "Start": "135.794",
+    "end": "139.477",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill: Team Management",
+    "Start": "139.477",
+    "end": "142.879",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill to Amita",
+    "Start": "139.477",
+    "end": "142.879",
+    "Category": "Order"
+  },
+  {
+    "Task": "Bill: Dynamic Decision-Making",
+    "Start": "142.879",
+    "end": "149.944",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill: Resource Allocation",
+    "Start": "146.121",
+    "end": "149.944",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill: Team Management",
+    "Start": "149.944",
+    "end": "160.731",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill to Amita",
+    "Start": "149.944",
+    "end": "160.731",
+    "Category": "Order"
+  },
+  {
+    "Task": "Bill: Team Management",
+    "Start": "160.731",
+    "end": "169.141",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill to Amita",
+    "Start": "160.731",
+    "end": "169.141",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "169.141",
+    "end": "171.182",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "171.182",
+    "end": "171.902",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill: Environmental Awareness",
+    "Start": "171.902",
+    "end": "180.345",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "180.345",
+    "end": "181.705",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Bill: environmental awareness",
+    "Start": "181.705",
+    "end": "182.606",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: environmental awareness",
+    "Start": "183.746",
+    "end": "186.987",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "186.987",
+    "end": "190.668",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Isabelle",
+    "Start": "186.987",
+    "end": "190.668",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: environmental awareness",
+    "Start": "193.989",
+    "end": "195.29",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "195.29",
+    "end": "199.171",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "195.29",
+    "end": "199.171",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Bill",
+    "Start": "199.171",
+    "end": "201.632",
+    "Category": "Order"
+  },
+  {
+    "Task": "Bill: Environmental awareness",
+    "Start": "201.632",
+    "end": "204.312",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "204.312",
+    "end": "205.273",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "205.273",
+    "end": "211.634",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "205.273",
+    "end": "211.634",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Amita",
+    "Start": "205.273",
+    "end": "211.634",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "211.634",
+    "end": "214.495",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "211.634",
+    "end": "214.495",
+    "Category": "Order"
+  },
+  {
+    "Task": "Keith: Environmental awareness",
+    "Start": "215.615",
+    "end": "217.496",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "217.496",
+    "end": "218.996",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Amita",
+    "Start": "217.496",
+    "end": "218.996",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "218.996",
+    "end": "220.716",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "220.716",
+    "end": "224.235",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "220.716",
+    "end": "224.235",
+    "Category": "Order"
+  },
+  {
+    "Task": "Keith: Resource Allocation",
+    "Start": "224.475",
+    "end": "226.757",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Team management",
+    "Start": "226.757",
+    "end": "229.66",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith to everyone",
+    "Start": "226.757",
+    "end": "229.66",
+    "Category": "Order"
+  },
+  {
+    "Task": "Keith: Dynamic Decision-Making",
+    "Start": "232.803",
+    "end": "238.528",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Team management",
+    "Start": "240.17",
+    "end": "244.534",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith to Amita",
+    "Start": "240.17",
+    "end": "244.534",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "245.695",
+    "end": "249.317",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "249.317",
+    "end": "251.439",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Bill",
+    "Start": "249.317",
+    "end": "251.439",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "251.439",
+    "end": "261.186",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Yanni",
+    "Start": "251.439",
+    "end": "261.186",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "262.767",
+    "end": "267.93",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "267.93",
+    "end": "270.652",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Isabelle",
+    "Start": "267.93",
+    "end": "270.652",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "272.574",
+    "end": "275.197",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Isabelle",
+    "Start": "272.574",
+    "end": "275.197",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "275.197",
+    "end": "283.125",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "283.125",
+    "end": "285.628",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Yanni",
+    "Start": "283.125",
+    "end": "285.628",
+    "Category": "Order"
+  },
+  {
+    "Task": "Yanni: Resource allocation",
+    "Start": "285.628",
+    "end": "286.589",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "286.589",
+    "end": "305.47",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "287.71",
+    "end": "294.978",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "287.71",
+    "end": "294.978",
+    "Category": "Order"
+  },
+  {
+    "Task": "Isabelle: Resource Allocation",
+    "Start": "308.674",
+    "end": "316.922",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Isabelle: Environmental awareness",
+    "Start": "308.674",
+    "end": "316.922",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "316.922",
+    "end": "328.973",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Environmental Awareness",
+    "Start": "331.255",
+    "end": "334.137",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "334.137",
+    "end": "343.162",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "334.137",
+    "end": "343.162",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Yanni",
+    "Start": "334.137",
+    "end": "343.162",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "343.162",
+    "end": "351.927",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "343.162",
+    "end": "351.927",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Amita",
+    "Start": "343.162",
+    "end": "351.927",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "343.162",
+    "end": "351.927",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "343.162",
+    "end": "351.927",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Environmental Awareness",
+    "Start": "351.927",
+    "end": "353.988",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "353.988",
+    "end": "356.249",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to someone",
+    "Start": "353.988",
+    "end": "356.249",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "356.249",
+    "end": "358.23",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "358.23",
+    "end": "363.168",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "358.23",
+    "end": "363.168",
+    "Category": "Order"
+  },
+  {
+    "Task": "Keith: Team management",
+    "Start": "363.168",
+    "end": "364.268",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith to Bill",
+    "Start": "363.168",
+    "end": "364.268",
+    "Category": "Order"
+  },
+  {
+    "Task": "Keith: Resource Allocation",
+    "Start": "364.268",
+    "end": "369.21",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Dynamic Decision-Making",
+    "Start": "364.268",
+    "end": "369.21",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Dynamic Decision-Making",
+    "Start": "374.411",
+    "end": "380.433",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Team management",
+    "Start": "381.593",
+    "end": "386.395",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith to Bill",
+    "Start": "381.593",
+    "end": "386.395",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "391.207",
+    "end": "403.61",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "391.207",
+    "end": "403.61",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "403.61",
+    "end": "406.41",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Yanni",
+    "Start": "403.61",
+    "end": "406.41",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "406.41",
+    "end": "418.831",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "406.41",
+    "end": "418.831",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Yanni: Resource Allocation",
+    "Start": "418.831",
+    "end": "419.631",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "419.631",
+    "end": "426.313",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "426.313",
+    "end": "428.434",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Isabelle",
+    "Start": "426.313",
+    "end": "428.434",
+    "Category": "Order"
+  },
+  {
+    "Task": "Isabelle: Resource Allocation",
+    "Start": "438.977",
+    "end": "440.858",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "442.519",
+    "end": "445.9",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Yanni: Resource Allocation",
+    "Start": "445.9",
+    "end": "449.45",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "449.45",
+    "end": "478.939",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "449.45",
+    "end": "478.939",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "478.939",
+    "end": "484.721",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "478.939",
+    "end": "484.721",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "486.602",
+    "end": "491.324",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Keith: Environmental awareness",
+    "Start": "491.324",
+    "end": "494.5",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "494.5",
+    "end": "497.862",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "494.5",
+    "end": "497.862",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Bill",
+    "Start": "494.5",
+    "end": "497.862",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "497.862",
+    "end": "500.123",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Yanni",
+    "Start": "497.862",
+    "end": "500.123",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "500.123",
+    "end": "505.786",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "500.123",
+    "end": "505.786",
+    "Category": "Order"
+  },
+  {
+    "Task": "Keith: Environmental awareness",
+    "Start": "505.786",
+    "end": "508.308",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "508.308",
+    "end": "510.149",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "508.308",
+    "end": "510.149",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "510.149",
+    "end": "513.09",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team management",
+    "Start": "513.09",
+    "end": "514.884",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Isabelle",
+    "Start": "513.09",
+    "end": "514.884",
+    "Category": "Order"
+  },
+  {
+    "Task": "Isabelle: Resource Allocation",
+    "Start": "514.884",
+    "end": "516.326",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "516.326",
+    "end": "517.747",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to someone",
+    "Start": "516.326",
+    "end": "517.747",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "517.747",
+    "end": "529.939",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Isabelle: Resource Allocation",
+    "Start": "529.939",
+    "end": "532.201",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Isabelle: Environmental awareness",
+    "Start": "529.939",
+    "end": "532.201",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "532.201",
+    "end": "536.021",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Isabelle: Resource Allocation",
+    "Start": "536.021",
+    "end": "542.021",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Isabelle: Environmental awareness",
+    "Start": "536.021",
+    "end": "542.021",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "542.021",
+    "end": "547.686",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Bill",
+    "Start": "542.021",
+    "end": "547.686",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "548.685",
+    "end": "550.685",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Bill",
+    "Start": "548.685",
+    "end": "550.685",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "550.685",
+    "end": "553.686",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Yanni",
+    "Start": "550.685",
+    "end": "553.686",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "557.807",
+    "end": "566.513",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy to Keith",
+    "Start": "559.688",
+    "end": "562.13",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy: Team Management",
+    "Start": "559.688",
+    "end": "562.13",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Environmental awareness",
+    "Start": "566.793",
+    "end": "570.215",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Mandy: Dynamic Decision-Making",
+    "Start": "566.793",
+    "end": "570.215",
+    "Category": "Skill"
+  }
+]

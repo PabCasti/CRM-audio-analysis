@@ -1,0 +1,104 @@
+[
+  {
+    "Task": "John: Team Management - Giving orders or commands",
+    "Start": "1970-01-01 00:00:15.592000",
+    "Finish": "1970-01-01 00:00:17.412000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Environmental Awareness - Reviewing past or current actions",
+    "Start": "1970-01-01 00:00:21.873000",
+    "Finish": "1970-01-01 00:00:23.713000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Dynamic Decision-Making - Using available information (e.g., history, monitor, reports)",
+    "Start": "1970-01-01 00:01:09.418000",
+    "Finish": "1970-01-01 00:01:15.084000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Resource Allocation - Running procedures",
+    "Start": "1970-01-01 00:01:59.176000",
+    "Finish": "1970-01-01 00:02:04.340000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Emily: Team Management - Clear communication to others",
+    "Start": "1970-01-01 00:02:04.340000",
+    "Finish": "1970-01-01 00:02:06.923000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Resource Allocation - Running procedures",
+    "Start": "1970-01-01 00:02:10.586000",
+    "Finish": "1970-01-01 00:02:12.828000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Resource Allocation - Running procedures",
+    "Start": "1970-01-01 00:02:20.580000",
+    "Finish": "1970-01-01 00:02:28.363000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Captain Jackson: Environmental Awareness - Mentioning surrounding conditions",
+    "Start": "1970-01-01 00:02:33.965000",
+    "Finish": "1970-01-01 00:02:36.846000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Emily: Environmental Awareness - Mentioning surrounding conditions",
+    "Start": "1970-01-01 00:02:41.628000",
+    "Finish": "1970-01-01 00:02:41.628000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Team Management - Leadership & followership",
+    "Start": "1970-01-01 00:02:54.661000",
+    "Finish": "1970-01-01 00:02:54.661000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Unknown: Team Management - Leadership & followership",
+    "Start": "1970-01-01 00:03:17.591000",
+    "Finish": "1970-01-01 00:03:20.273000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Emily: Team Management - Clear communication to others",
+    "Start": "1970-01-01 00:03:25.596000",
+    "Finish": "1970-01-01 00:03:28.737000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Emily: Dynamic Decision-Making - Discussing or choosing next steps",
+    "Start": "1970-01-01 00:03:42.305000",
+    "Finish": "1970-01-01 00:03:42.305000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Dynamic Decision-Making - Using available information (e.g., history, monitor, reports)",
+    "Start": "1970-01-01 00:03:44.992000",
+    "Finish": "1970-01-01 00:03:49.913000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Dynamic Decision-Making - Changing a decision",
+    "Start": "1970-01-01 00:03:52.474000",
+    "Finish": "1970-01-01 00:03:56.275000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "John: Team Management - Leadership & followership",
+    "Start": "1970-01-01 00:04:03.576000",
+    "Finish": "1970-01-01 00:04:03.576000",
+    "Category": "Skill"
+  },
+  {
+    "Task": "Emily: Team Management - Clear communication to others",
+    "Start": "1970-01-01 00:04:05.197000",
+    "Finish": "1970-01-01 00:04:05.197000",
+    "Category": "Skill"
+  }
+]

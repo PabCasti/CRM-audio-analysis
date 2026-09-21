@@ -1,0 +1,139 @@
+{
+	"ordersTimeline": [
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_00",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Mr. Smith",
+				"role": "Patient"
+			},
+			"action": "Reassure Mr. Smith that they will take good care of him",
+			"start_timestamp": 32.461,
+			"stop_timestamp": 36.105
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Mr. Smith",
+				"role": "Patient"
+			},
+			"action": "Get pulse ox on Mr. Smith",
+			"start_timestamp": 69.002,
+			"stop_timestamp": 76.027
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Mr. Smith",
+				"role": "Patient"
+			},
+			"action": "Hook Mr. Smith up to a five lead",
+			"start_timestamp": 78.369,
+			"stop_timestamp": 84.711
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"action": "Give Mr. Smith some nitro",
+			"start_timestamp": 113.325,
+			"stop_timestamp": 116.325
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Casey",
+				"role": "LPM"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Mr. Smith",
+				"role": "Patient"
+			},
+			"action": "Put nitroglycerin under Mr. Smith's tongue",
+			"start_timestamp": 144.237,
+			"stop_timestamp": 149.902
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Jessie",
+				"role": "LPM"
+			},
+			"action": "Check Mr. Smith's blood pressure",
+			"start_timestamp": 157.828,
+			"stop_timestamp": 158.528
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Mr. Smith",
+				"role": "Patient"
+			},
+			"action": "Administer morphine to Mr. Smith",
+			"start_timestamp": 207.818,
+			"stop_timestamp": 214.123
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_03",
+				"name": "Brian",
+				"role": "Respiratory Therapy"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Mr. Smith",
+				"role": "Patient"
+			},
+			"action": "Hold still for EKG",
+			"start_timestamp": 276.587,
+			"stop_timestamp": 290.292
+		},
+		{
+			"leader": {
+				"speaker_id": "SPEAKER_05",
+				"name": "Janelle",
+				"role": "RN"
+			},
+			"follower": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Mr. Smith",
+				"role": "Patient"
+			},
+			"action": "Inform Mr. Smith that the doctor will be in soon",
+			"start_timestamp": 303.479,
+			"stop_timestamp": 307.584
+		}
+	]
+}

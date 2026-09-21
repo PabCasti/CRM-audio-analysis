@@ -1,0 +1,122 @@
+[
+  {
+    "Task": "Mandy to Keith: Scribe and manage the defibrillation if needed",
+    "Start": "1970-01-01 00:00:43.769000",
+    "Finish": "1970-01-01 00:00:48.673000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Yanni: Do cannulation, bloods, fluids, and swap in and out with chest compressions",
+    "Start": "1970-01-01 00:00:49.914000",
+    "Finish": "1970-01-01 00:00:58.760000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Unknown: Put out a double two double two call, ask for the adult resuscitation team, and bring back the resuscitation trolley",
+    "Start": "1970-01-01 00:01:22.485000",
+    "Finish": "1970-01-01 00:01:37.331000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Unknown to Yanni: Take over CPR",
+    "Start": "1970-01-01 00:01:47.022000",
+    "Finish": "1970-01-01 00:01:50.165000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Keith: Check the timings for defibrillation",
+    "Start": "1970-01-01 00:03:15.290000",
+    "Finish": "1970-01-01 00:03:17.150000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Bill: Get the patient's notes",
+    "Start": "1970-01-01 00:03:19.171000",
+    "Finish": "1970-01-01 00:03:21.632000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Keith: Deliver the shock",
+    "Start": "1970-01-01 00:03:31.634000",
+    "Finish": "1970-01-01 00:03:34.495000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Yanni: Put up a 500ml saline and take blood through venipuncture for FBC, UNE, venous blood gas, and glucose",
+    "Start": "1970-01-01 00:04:11.439000",
+    "Finish": "1970-01-01 00:04:21.186000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Isabelle: Get a definitive airway in",
+    "Start": "1970-01-01 00:04:27.930000",
+    "Finish": "1970-01-01 00:04:30.652000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Yanni: Prepare a milligram of adrenaline and 300 milligrams of amiodrome",
+    "Start": "1970-01-01 00:05:36.138000",
+    "Finish": "1970-01-01 00:05:43.162000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Keith: Manage defibrillation",
+    "Start": "1970-01-01 00:08:20.123000",
+    "Finish": "1970-01-01 00:08:25.786000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Yanni: Call the family and ask them to come in",
+    "Start": "1970-01-01 00:09:10.685000",
+    "Finish": "1970-01-01 00:09:13.686000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Keith: Provide paperwork",
+    "Start": "1970-01-01 00:09:19.688000",
+    "Finish": "1970-01-01 00:09:22.130000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Isabelle: Take over airway management",
+    "Start": "1970-01-01 00:03:08.227000",
+    "Finish": "1970-01-01 00:03:10.668000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Isabelle: Let me know when the airway is done",
+    "Start": "1970-01-01 00:04:32.574000",
+    "Finish": "1970-01-01 00:04:35.197000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Yanni: Check the temperature",
+    "Start": "1970-01-01 00:04:43.125000",
+    "Finish": "1970-01-01 00:04:45.628000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Keith: Rule out the H's and T's",
+    "Start": "1970-01-01 00:04:47.710000",
+    "Finish": "1970-01-01 00:04:54.978000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Keith: Order a focused cardiac ultrasound",
+    "Start": "1970-01-01 00:07:58.939000",
+    "Finish": "1970-01-01 00:08:04.721000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Isabelle: Listen to the chest to check for pneumothorax",
+    "Start": "1970-01-01 00:07:06.313000",
+    "Finish": "1970-01-01 00:07:20.858000",
+    "Category": "Order"
+  },
+  {
+    "Task": "Mandy to Bill: Do a full eight three assessment, chest x-ray, and 12-lead ECG",
+    "Start": "1970-01-01 00:09:02.021000",
+    "Finish": "1970-01-01 00:09:07.686000",
+    "Category": "Order"
+  }
+]

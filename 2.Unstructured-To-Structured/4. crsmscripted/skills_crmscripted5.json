@@ -1,0 +1,268 @@
+{
+	"skillsTimeline": [
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Hi, sir. My name is John. I'm a paramedic. I understand you're having some chest pain?",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 3.53,
+			"stop_timestamp": 5.45
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Emily, go ahead and get him hooked up on a 12-leave.",
+			"skill_description": "Giving orders or commands",
+			"start_timestamp": 15.592,
+			"stop_timestamp": 17.412
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Environmental Awareness",
+			"sentence": "What were you doing when the chest pain started?",
+			"skill_description": "Reviewing past or current actions",
+			"start_timestamp": 21.873,
+			"stop_timestamp": 23.713
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Dynamic Decision-Making",
+			"sentence": "What does the pain feel like? Is it sharp? Is it dull? Is it crushing? Is it pressure? What exactly does it feel like?",
+			"skill_description": "Using available information (e.g., history, monitor, reports)",
+			"start_timestamp": 39.074,
+			"stop_timestamp": 43.275
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Dynamic Decision-Making",
+			"sentence": "On a scale from 1 to 10, with 10 being the worst pain you've ever had in your life, what would you rate it?",
+			"skill_description": "Using available information (e.g., history, monitor, reports)",
+			"start_timestamp": 48.096,
+			"stop_timestamp": 53.718
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Environmental Awareness",
+			"sentence": "Has this ever happened before?",
+			"skill_description": "Reviewing past or current actions",
+			"start_timestamp": 65.334,
+			"stop_timestamp": 67.596
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Sir, I want you to hold still for about 10 seconds so we can get a good picture of your heart with our monitor, okay?",
+			"skill_description": "Running procedures",
+			"start_timestamp": 69.418,
+			"stop_timestamp": 75.084
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Dynamic Decision-Making",
+			"sentence": "Do you have any prior medical history, diabetes, hard blood pressure, heart issues, anything, anything at all?",
+			"skill_description": "Using available information (e.g., history, monitor, reports)",
+			"start_timestamp": 100.073,
+			"stop_timestamp": 106.116
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Emily, let's go ahead and get him 324 milligrams of aspirin.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 119.176,
+			"stop_timestamp": 124.34
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Emily",
+				"role": "EMT"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Alright sir, I'm going to give you this aspirin. Please don't swallow it whole. I need you to chew it up for me and swallow it that way.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 124.34,
+			"stop_timestamp": 126.923
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Sir, I'm going to start an IV on you, okay?",
+			"skill_description": "Running procedures",
+			"start_timestamp": 130.586,
+			"stop_timestamp": 132.828
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "Okay, listen, I'm gonna give you this little nitro pill, alright? I'm gonna have you put it under your tongue and let it dissolve. It's gonna help with the pain, okay? And while I do that, Emily here is gonna continue taking some vitals.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 140.58,
+			"stop_timestamp": 148.363
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_01",
+				"name": "Captain Jackson",
+				"role": "Captain"
+			},
+			"main_skill": "Environmental Awareness",
+			"sentence": "Sir, you haven't taken any of this in the last 24 hours, have you?",
+			"skill_description": "Reviewing past or current actions",
+			"start_timestamp": 153.965,
+			"stop_timestamp": 156.846
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Emily",
+				"role": "EMT"
+			},
+			"main_skill": "Team Management",
+			"sentence": "You know, Captain Jackson, I was thinking about asking John about ED meds when he was giving the patient nitro, but I'm a brand new EMT and he's an experienced paramedic. I didn't want to overstep my position.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 186.087,
+			"stop_timestamp": 195.31
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_04",
+				"name": "Unknown",
+				"role": "Unknown"
+			},
+			"main_skill": "Team Management",
+			"sentence": "We're all a team here, and you're a very important part of that. And if you have a concern or an issue, you need to bring that up and let us know.",
+			"skill_description": "Leadership & followership",
+			"start_timestamp": 197.591,
+			"stop_timestamp": 200.273
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Emily",
+				"role": "EMT"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Definitely. I will definitely say something next time. Thank you. Good to know.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 205.596,
+			"stop_timestamp": 208.737
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Resource Allocation",
+			"sentence": "OK, listen, I'm going to give you this little nitro pill.",
+			"skill_description": "Running procedures",
+			"start_timestamp": 217.482,
+			"stop_timestamp": 222.305
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Emily",
+				"role": "EMT"
+			},
+			"main_skill": "Dynamic Decision-Making",
+			"sentence": "Should we ask him about ED medication?",
+			"skill_description": "Discussing or choosing next steps",
+			"start_timestamp": 222.305,
+			"stop_timestamp": 224.992
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Dynamic Decision-Making",
+			"sentence": "Uh, you haven't taken any medics in for erectile dysfunction in the last 48 hours, have you, sir?",
+			"skill_description": "Using available information (e.g., history, monitor, reports)",
+			"start_timestamp": 224.992,
+			"stop_timestamp": 229.913
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Dynamic Decision-Making",
+			"sentence": "Oh, okay. Listen, I'm not gonna give you this nitro pill. We're just gonna get you on a gurney, and we're gonna get you loaded up and get you to the hospital as soon as possible, okay?",
+			"skill_description": "Changing a decision",
+			"start_timestamp": 232.474,
+			"stop_timestamp": 236.275
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_00",
+				"name": "John",
+				"role": "Paramedic"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Good catch.",
+			"skill_description": "Leadership & followership",
+			"start_timestamp": 243.576,
+			"stop_timestamp": 245.197
+		},
+		{
+			"speaker": {
+				"speaker_id": "SPEAKER_02",
+				"name": "Emily",
+				"role": "EMT"
+			},
+			"main_skill": "Team Management",
+			"sentence": "Thank you.",
+			"skill_description": "Clear communication to others",
+			"start_timestamp": 245.197,
+			"stop_timestamp": 245.197
+		}
+	]
+}
