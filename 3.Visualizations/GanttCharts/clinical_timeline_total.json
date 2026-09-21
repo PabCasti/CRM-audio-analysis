@@ -1,0 +1,368 @@
+[
+    {
+        "Task": "Unknown to Mr. Smith: Reassure Mr. Smith that they will take good care of him",
+        "Start": "1970-01-01 00:00:32.461000",
+        "Finish": "1970-01-01 00:00:36.105000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Jessie to Mr. Smith: Ask Mr. Smith to rate his pain level",
+        "Start": "1970-01-01 00:00:53.490000",
+        "Finish": "1970-01-01 00:00:56.552000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Jessie to Mr. Smith: Ask if the pain is radiating",
+        "Start": "1970-01-01 00:01:00.035000",
+        "Finish": "1970-01-01 00:01:03.598000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Jessie to Mr. Smith: Explain and place pulse oximeter on Mr. Smith's finger",
+        "Start": "1970-01-01 00:01:09.002000",
+        "Finish": "1970-01-01 00:01:16.027000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Casey to Mr. Smith: Hook Mr. Smith up to a five lead",
+        "Start": "1970-01-01 00:01:18.369000",
+        "Finish": "1970-01-01 00:01:24.711000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Janelle to Mr. Smith: Reassure Mr. Smith about his care and inform about medication",
+        "Start": "1970-01-01 00:01:32.279000",
+        "Finish": "1970-01-01 00:01:38.886000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Jessie to Mr. Smith: Take Mr. Smith's blood pressure",
+        "Start": "1970-01-01 00:01:42.589000",
+        "Finish": "1970-01-01 00:01:45.492000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Janelle to Casey: Ask Casey to give Mr. Smith some nitro",
+        "Start": "1970-01-01 00:01:53.325000",
+        "Finish": "1970-01-01 00:01:56.325000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Casey to Mr. Smith: Ask Mr. Smith to state his name and date of birth",
+        "Start": "1970-01-01 00:01:58.549000",
+        "Finish": "1970-01-01 00:02:01.651000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Casey to Mr. Smith: Ask about allergies and ED medications",
+        "Start": "1970-01-01 00:02:06.233000",
+        "Finish": "1970-01-01 00:02:15.490000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Casey to Mr. Smith: Instruct Mr. Smith to put nitro under his tongue",
+        "Start": "1970-01-01 00:02:24.237000",
+        "Finish": "1970-01-01 00:02:29.902000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Janelle to Jessie: Ask about Mr. Smith's blood pressure",
+        "Start": "1970-01-01 00:02:37.828000",
+        "Finish": "1970-01-01 00:02:40.828000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Janelle to Mr. Smith: Inform about getting morphine for chest pain",
+        "Start": "1970-01-01 00:02:39.458000",
+        "Finish": "1970-01-01 00:02:52.862000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Casey to Brian: Call RT and get 12-8 in",
+        "Start": "1970-01-01 00:03:02.764000",
+        "Finish": "1970-01-01 00:03:05.764000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Brian to Mr. Smith: Instruct Mr. Smith to hold still",
+        "Start": "1970-01-01 00:04:36.587000",
+        "Finish": "1970-01-01 00:04:46.691000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Janelle to Mr. Smith: Inform Mr. Smith that the doctor will be in soon",
+        "Start": "1970-01-01 00:05:03.479000",
+        "Finish": "1970-01-01 00:05:07.584000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Janelle to Mr. Smith: Give you your morphine",
+        "Start": "1970-01-01 00:03:30.740000",
+        "Finish": "1970-01-01 00:03:34.123000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Janelle to Mr. Smith: Administer morphine to Mr. Smith",
+        "Start": "1970-01-01 00:03:27.818000",
+        "Finish": "1970-01-01 00:03:34.123000",
+        "Category": "Order"
+    },
+    {
+        "Task": "Unknown: Environmental Awareness - Reviewing past or current actions",
+        "Start": "1970-01-01 00:00:10.168000",
+        "Finish": "1970-01-01 00:00:18.794000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Unknown: Resource Allocation - Running procedures",
+        "Start": "1970-01-01 00:00:18.794000",
+        "Finish": "1970-01-01 00:00:22.937000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Unknown: Resource Allocation - Running procedures",
+        "Start": "1970-01-01 00:00:26.716000",
+        "Finish": "1970-01-01 00:00:30.580000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Unknown: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:00:32.461000",
+        "Finish": "1970-01-01 00:00:36.105000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:00:38.227000",
+        "Finish": "1970-01-01 00:00:41.227000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:00:41.690000",
+        "Finish": "1970-01-01 00:00:44.690000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:00:43.852000",
+        "Finish": "1970-01-01 00:00:44.873000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:00:53.490000",
+        "Finish": "1970-01-01 00:00:56.552000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:01:00.035000",
+        "Finish": "1970-01-01 00:01:01.076000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:01:07.340000",
+        "Finish": "1970-01-01 00:01:09.002000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:01:09.002000",
+        "Finish": "1970-01-01 00:01:12.805000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:01:14.346000",
+        "Finish": "1970-01-01 00:01:16.027000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:01:18.369000",
+        "Finish": "1970-01-01 00:01:24.711000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:01:24.711000",
+        "Finish": "1970-01-01 00:01:27.394000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:01:32.279000",
+        "Finish": "1970-01-01 00:01:38.886000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:01:42.589000",
+        "Finish": "1970-01-01 00:01:45.492000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Team Management - Role assignment",
+        "Start": "1970-01-01 00:01:53.325000",
+        "Finish": "1970-01-01 00:01:56.325000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:01:58.549000",
+        "Finish": "1970-01-01 00:02:01.651000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Team Management - Giving orders or commands",
+        "Start": "1970-01-01 00:02:24.237000",
+        "Finish": "1970-01-01 00:02:29.902000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Resource Allocation - Running procedures",
+        "Start": "1970-01-01 00:02:31.423000",
+        "Finish": "1970-01-01 00:02:37.228000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Dynamic Decision-Making - Discussing or choosing next steps",
+        "Start": "1970-01-01 00:02:39.458000",
+        "Finish": "1970-01-01 00:02:52.862000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:02:58.903000",
+        "Finish": "1970-01-01 00:02:59.904000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:03:02.764000",
+        "Finish": "1970-01-01 00:03:05.764000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Brian: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:03:10.083000",
+        "Finish": "1970-01-01 00:03:11.704000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Resource Allocation - Running procedures",
+        "Start": "1970-01-01 00:03:27.818000",
+        "Finish": "1970-01-01 00:03:34.123000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Brian: Resource Allocation - Accessing or using equipment, tools, machines",
+        "Start": "1970-01-01 00:04:00.066000",
+        "Finish": "1970-01-01 00:04:04.428000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Resource Allocation - Running procedures",
+        "Start": "1970-01-01 00:04:12.011000",
+        "Finish": "1970-01-01 00:04:19.354000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Brian: Team Management - Giving orders or commands",
+        "Start": "1970-01-01 00:04:36.587000",
+        "Finish": "1970-01-01 00:04:39.868000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:05:03.479000",
+        "Finish": "1970-01-01 00:05:07.584000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Team Management - Giving orders or commands",
+        "Start": "1970-01-01 00:01:56.325000",
+        "Finish": "1970-01-01 00:01:59.325000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:02:06.233000",
+        "Finish": "1970-01-01 00:02:09.233000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Casey: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:02:10.935000",
+        "Finish": "1970-01-01 00:02:13.935000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:02:37.828000",
+        "Finish": "1970-01-01 00:02:40.828000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Environmental Awareness - Reviewing past or current actions",
+        "Start": "1970-01-01 00:02:52.862000",
+        "Finish": "1970-01-01 00:02:55.862000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Brian: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:03:14.807000",
+        "Finish": "1970-01-01 00:03:16.328000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:03:34.123000",
+        "Finish": "1970-01-01 00:03:37.123000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Jessie: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:03:41.280000",
+        "Finish": "1970-01-01 00:03:43.702000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Brian: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:04:26.223000",
+        "Finish": "1970-01-01 00:04:29.223000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Brian: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:04:33.226000",
+        "Finish": "1970-01-01 00:04:36.226000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:04:53.013000",
+        "Finish": "1970-01-01 00:04:56.013000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Environmental Awareness - Mentioning surrounding conditions",
+        "Start": "1970-01-01 00:04:55.849000",
+        "Finish": "1970-01-01 00:04:58.849000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Resource Allocation - Running procedures",
+        "Start": "1970-01-01 00:01:38.886000",
+        "Finish": "1970-01-01 00:01:40.589000",
+        "Category": "Skill"
+    },
+    {
+        "Task": "Janelle: Team Management - Clear communication to others",
+        "Start": "1970-01-01 00:03:39.679000",
+        "Finish": "1970-01-01 00:03:41.280000",
+        "Category": "Skill"
+    }
+]
