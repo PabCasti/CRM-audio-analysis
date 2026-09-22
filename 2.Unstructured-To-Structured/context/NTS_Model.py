@@ -9,13 +9,13 @@ class Participant(BaseModel):
   name: str = Field(..., description="Nickname of the participant. Probably mentioned by other speaker or himself")
   role: str = Field(..., description="Role of the participant during the scenario. Mentioned by himself during the presentation")
 
-class Presentation(BaseModel):
-  """
-  Represents when a participant presents their role
-  """
-  speaker: Participant = Field(...,description="Participant")
-  start_timestamp: Optional[float] = Field(..., description="Start time when speaker starts presenting")
-  stop_timestamp: Optional[float] = Field(..., description="Stop time when participant finishes their sentence")
+# class Presentation(BaseModel):
+#   """
+#   Represents when a participant presents their role
+#   """
+#   speaker: Participant = Field(...,description="Participant")
+#   start_timestamp: Optional[float] = Field(..., description="Start time when speaker starts presenting")
+#   stop_timestamp: Optional[float] = Field(..., description="Stop time when participant finishes their sentence")
 
 
 class Order(BaseModel):
@@ -28,14 +28,14 @@ class Order(BaseModel):
   start_timestamp: Optional[float] = Field(..., description="Start time when leader ordered the action")
   stop_timestamp: Optional[float] = Field(..., description="Stop time when participant mentioned something about his/her action")
 
-class Action(BaseModel):
-  """
-  Represents what a participant is doing
-  """
-  speaker: Participant = Field(...,description="Participant does the action")
-  action: str = Field(..., description="Action taken by the participant")
-  start_timestamp: Optional[float] = Field(..., description="Start time when participant is doing something")
-  stop_timestamp: Optional[float] = Field(..., description="Stop time when participant finishes the action")
+# class Action(BaseModel):
+#   """
+#   Represents what a participant is doing
+#   """
+#   speaker: Participant = Field(...,description="Participant does the action")
+#   action: str = Field(..., description="Action taken by the participant")
+#   start_timestamp: Optional[float] = Field(..., description="Start time when participant is doing something")
+#   stop_timestamp: Optional[float] = Field(..., description="Stop time when participant finishes the action")
 
 class Skill(BaseModel):
   """
@@ -51,8 +51,8 @@ class Skill(BaseModel):
 class Orders(BaseModel):
     ordersTimeline: list[Order]
 
-class Scenario(BaseModel):
-    actionsTimeline: list[Action]
+# class Scenario(BaseModel):
+#     actionsTimeline: list[Action]
 
 class CRMSkills(BaseModel):
     skillsTimeline: list[Skill]
